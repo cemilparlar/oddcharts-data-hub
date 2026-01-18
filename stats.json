@@ -1,61 +1,61 @@
 {
-    "last_update": "18.01.2026 17:37",
+    "last_update": "18.01.2026 17:55",
     "highlights": {
-        "analyses": 746,
-        "won": 532,
-        "lose": 214,
-        "success_rate": "%71.31"
+        "analyses": 194,
+        "won": 141,
+        "lose": 53,
+        "success_rate": "%72.68"
     },
     "top_matches": [
         {
-            "league": " AL3",
-            "home": "Aachen",
-            "away": "Osnabruck",
-            "iy_score": "0 - 2",
-            "ms_score": "0 - 3",
-            "prediction": "Handikaplı Maç Sonucu (2:0) 2",
-            "odd": "10.80",
-            "date": "17.01.2026 18:30"
-        },
-        {
-            "league": " TSL",
+            "league": "TSL",
             "home": "Kasimpaşa",
             "away": "Antalyaspor",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "0,5 Alt/Üst Alt",
+            "iy_score": "-",
+            "ms_score": "-",
+            "prediction": "Under 0.5 Goals",
             "odd": "8.67",
-            "date": "18.01.2026 14:30"
+            "date": "18.01.2026 11:30"
         },
         {
-            "league": " İTA",
+            "league": "ITA1",
             "home": "Parma",
             "away": "Genoa",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "0,5 Alt/Üst Alt",
+            "iy_score": "-",
+            "ms_score": "-",
+            "prediction": "Under 0.5 Goals",
             "odd": "6.19",
-            "date": "18.01.2026 14:30"
+            "date": "18.01.2026 11:30"
         },
         {
-            "league": " İNP",
-            "home": "Liverpool",
-            "away": "Burnley",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "Maç Sonucu X",
-            "odd": "5.81",
-            "date": "17.01.2026 18:00"
-        },
-        {
-            "league": " T1L",
+            "league": "TUR1",
             "home": "Erzurumspor Fk",
             "away": "Amed Sk",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 0",
-            "prediction": "Handikaplı Maç Sonucu (0:1) 1",
+            "iy_score": "-",
+            "ms_score": "-",
+            "prediction": "Handicap (0:1) 1",
             "odd": "4.96",
-            "date": "18.01.2026 13:30"
+            "date": "18.01.2026 10:30"
+        },
+        {
+            "league": "TSL",
+            "home": "Kasimpaşa",
+            "away": "Antalyaspor",
+            "iy_score": "-",
+            "ms_score": "-",
+            "prediction": "HT/FT X/X",
+            "odd": "4.47",
+            "date": "18.01.2026 11:30"
+        },
+        {
+            "league": "ITA2",
+            "home": "Bari",
+            "away": "Juve Stabia",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 1",
+            "prediction": "Handicap (1:0) X",
+            "odd": "3.64",
+            "date": "17.01.2026 18:30"
         }
     ]
 }
