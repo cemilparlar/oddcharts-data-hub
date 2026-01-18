@@ -1,5 +1,5 @@
 {
-    "last_update": "19.01.2026 00:38",
+    "last_update": "19.01.2026 00:47",
     "highlights": {
         "analyses": 425,
         "won": 309,
@@ -11,8 +11,8 @@
             "league": "TSL",
             "home": "Kasimpaşa",
             "away": "Antalyaspor",
-            "iy_score": "-",
-            "ms_score": "-",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
             "prediction": "Under 0.5 Goals",
             "odd": "8.67",
             "date": "18.01.2026 11:30"
@@ -21,8 +21,8 @@
             "league": "ITA1",
             "home": "Parma",
             "away": "Genoa",
-            "iy_score": "-",
-            "ms_score": "-",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
             "prediction": "Under 0.5 Goals",
             "odd": "6.19",
             "date": "18.01.2026 11:30"
@@ -31,8 +31,8 @@
             "league": "TUR1",
             "home": "Erzurumspor Fk",
             "away": "Amed Sk",
-            "iy_score": "-",
-            "ms_score": "-",
+            "iy_score": "0 - 0",
+            "ms_score": "2 - 0",
             "prediction": "Handicap (0:1) 1",
             "odd": "4.96",
             "date": "18.01.2026 10:30"
@@ -41,8 +41,8 @@
             "league": "TSL",
             "home": "Kasimpaşa",
             "away": "Antalyaspor",
-            "iy_score": "-",
-            "ms_score": "-",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
             "prediction": "HT/FT X/X",
             "odd": "4.47",
             "date": "18.01.2026 11:30"
@@ -51,8 +51,8 @@
             "league": "ITA1",
             "home": "Bologna",
             "away": "Fiorentina",
-            "iy_score": "-",
-            "ms_score": "-",
+            "iy_score": "0 - 2",
+            "ms_score": "1 - 2",
             "prediction": "HT/FT 2/2",
             "odd": "4.32",
             "date": "18.01.2026 14:00"
