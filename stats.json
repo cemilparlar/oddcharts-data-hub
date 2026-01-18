@@ -1,10 +1,10 @@
 {
-    "last_update": "18.01.2026 17:55",
+    "last_update": "18.01.2026 19:45",
     "highlights": {
-        "analyses": 194,
-        "won": 141,
-        "lose": 53,
-        "success_rate": "%72.68"
+        "analyses": 240,
+        "won": 172,
+        "lose": 68,
+        "success_rate": "%71.67"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "18.01.2026 11:30"
         },
         {
-            "league": "ITA2",
-            "home": "Bari",
-            "away": "Juve Stabia",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 1",
-            "prediction": "Handicap (1:0) X",
-            "odd": "3.64",
-            "date": "17.01.2026 18:30"
+            "league": "NED",
+            "home": "Heracles",
+            "away": "Twente",
+            "iy_score": "-",
+            "ms_score": "-",
+            "prediction": "Handicap (2:0) X",
+            "odd": "4.08",
+            "date": "18.01.2026 13:30"
         }
     ]
 }
