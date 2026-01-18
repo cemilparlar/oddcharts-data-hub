@@ -1,10 +1,10 @@
 {
-    "last_update": "18.01.2026 15:28",
+    "last_update": "18.01.2026 17:36",
     "highlights": {
-        "analyses": 850,
-        "won": 602,
-        "lose": 248,
-        "success_rate": "%70.82"
+        "analyses": 746,
+        "won": 532,
+        "lose": 214,
+        "success_rate": "%71.31"
     },
     "top_matches": [
         {
@@ -18,6 +18,26 @@
             "date": "17.01.2026 18:30"
         },
         {
+            "league": " TSL",
+            "home": "Kasimpaşa",
+            "away": "Antalyaspor",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "0,5 Alt/Üst Alt",
+            "odd": "8.67",
+            "date": "18.01.2026 14:30"
+        },
+        {
+            "league": " İTA",
+            "home": "Parma",
+            "away": "Genoa",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "0,5 Alt/Üst Alt",
+            "odd": "6.19",
+            "date": "18.01.2026 14:30"
+        },
+        {
             "league": " İNP",
             "home": "Liverpool",
             "away": "Burnley",
@@ -28,34 +48,14 @@
             "date": "17.01.2026 18:00"
         },
         {
-            "league": " AL3",
-            "home": "Aachen",
-            "away": "Osnabruck",
-            "iy_score": "0 - 2",
-            "ms_score": "0 - 3",
-            "prediction": "Handikaplı Maç Sonucu (1:0) 2",
-            "odd": "4.38",
-            "date": "17.01.2026 18:30"
-        },
-        {
-            "league": " AFUK",
-            "home": "Misir",
-            "away": "Nijerya",
+            "league": " T1L",
+            "home": "Erzurumspor Fk",
+            "away": "Amed Sk",
             "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "İlk Yarı/Maç Sonucu X/X",
-            "odd": "4.20",
-            "date": "17.01.2026 19:00"
-        },
-        {
-            "league": " AL3",
-            "home": "Ulm 1846",
-            "away": "Wehen",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "1,5 Alt/Üst Alt",
-            "odd": "3.89",
-            "date": "17.01.2026 16:00"
+            "ms_score": "2 - 0",
+            "prediction": "Handikaplı Maç Sonucu (0:1) 1",
+            "odd": "4.96",
+            "date": "18.01.2026 13:30"
         }
     ]
 }
