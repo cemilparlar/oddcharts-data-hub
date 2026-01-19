@@ -1,52 +1,12 @@
 {
-    "last_update": "19.01.2026 02:07",
+    "last_update": "19.01.2026 14:35",
     "highlights": {
-        "analyses": 444,
-        "won": 324,
-        "lose": 120,
-        "success_rate": "%72.97"
+        "analyses": 228,
+        "won": 168,
+        "lose": 60,
+        "success_rate": "%73.68"
     },
     "top_matches": [
-        {
-            "league": "TSL",
-            "home": "Kasimpaşa",
-            "away": "Antalyaspor",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Under 0.5 Goals",
-            "odd": "8.67",
-            "date": "18.01.2026 11:30"
-        },
-        {
-            "league": "ITA1",
-            "home": "Parma",
-            "away": "Genoa",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Under 0.5 Goals",
-            "odd": "6.19",
-            "date": "18.01.2026 11:30"
-        },
-        {
-            "league": "TUR1",
-            "home": "Erzurumspor Fk",
-            "away": "Amed Sk",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 0",
-            "prediction": "Handicap (0:1) 1",
-            "odd": "4.96",
-            "date": "18.01.2026 10:30"
-        },
-        {
-            "league": "TSL",
-            "home": "Kasimpaşa",
-            "away": "Antalyaspor",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "HT/FT X/X",
-            "odd": "4.47",
-            "date": "18.01.2026 11:30"
-        },
         {
             "league": "ESP1",
             "home": "Real Sociedad",
@@ -56,6 +16,46 @@
             "prediction": "1st Half Result 1",
             "odd": "4.33",
             "date": "18.01.2026 20:00"
+        },
+        {
+            "league": "FRA1",
+            "home": "Nantes",
+            "away": "Paris Fc",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "Handicap (1:0) X",
+            "odd": "3.96",
+            "date": "18.01.2026 16:15"
+        },
+        {
+            "league": "POR1",
+            "home": "Guimaraes",
+            "away": "Porto",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "HT/FT X/2",
+            "odd": "3.75",
+            "date": "18.01.2026 20:30"
+        },
+        {
+            "league": "ENG1",
+            "home": "Aston Villa",
+            "away": "Everton",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "Under 1.5 Goals",
+            "odd": "3.73",
+            "date": "18.01.2026 16:30"
+        },
+        {
+            "league": "ENG1",
+            "home": "Aston Villa",
+            "away": "Everton",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "Total Goals 0-1",
+            "odd": "3.70",
+            "date": "18.01.2026 16:30"
         }
     ]
 }
