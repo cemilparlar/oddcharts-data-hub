@@ -1,10 +1,10 @@
 {
-    "last_update": "19.01.2026 16:17",
+    "last_update": "19.01.2026 16:36",
     "highlights": {
-        "analyses": 106,
-        "won": 87,
-        "lose": 19,
-        "success_rate": "%82.08"
+        "analyses": 95,
+        "won": 78,
+        "lose": 17,
+        "success_rate": "%82.11"
     },
     "top_matches": [
         {
@@ -28,26 +28,6 @@
             "date": "18.01.2026 20:30"
         },
         {
-            "league": "ENG1",
-            "home": "Aston Villa",
-            "away": "Everton",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "Under 1.5 Goals",
-            "odd": "3.73",
-            "date": "18.01.2026 16:30"
-        },
-        {
-            "league": "ENG1",
-            "home": "Aston Villa",
-            "away": "Everton",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "Total Goals 0-1",
-            "odd": "3.70",
-            "date": "18.01.2026 16:30"
-        },
-        {
             "league": "POR1",
             "home": "Guimaraes",
             "away": "Porto",
@@ -55,6 +35,26 @@
             "ms_score": "0 - 1",
             "prediction": "1st Half Under 0.5",
             "odd": "2.59",
+            "date": "18.01.2026 20:30"
+        },
+        {
+            "league": "BEL",
+            "home": "Charleroi",
+            "away": "Standard Liege",
+            "iy_score": "2 - 0",
+            "ms_score": "2 - 0",
+            "prediction": "1st Half Result 1",
+            "odd": "2.47",
+            "date": "18.01.2026 17:30"
+        },
+        {
+            "league": "POR1",
+            "home": "Guimaraes",
+            "away": "Porto",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "1st Half Result X",
+            "odd": "2.09",
             "date": "18.01.2026 20:30"
         }
     ]
