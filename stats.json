@@ -1,5 +1,5 @@
 {
-    "last_update": "19.01.2026 22:12",
+    "last_update": "19.01.2026 22:31",
     "highlights": {
         "analyses": 58,
         "won": 42,
@@ -16,6 +16,16 @@
             "prediction": "HT/FT 2/X",
             "odd": "12.55",
             "date": "19.01.2026 14:00"
+        },
+        {
+            "league": " GAFPSL",
+            "home": "Mamelodi Sundo",
+            "away": "Orbit College",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 0",
+            "prediction": "Handicap (0:2) X",
+            "odd": "3.25",
+            "date": "19.01.2026 17:30"
         },
         {
             "league": "TUR1",
@@ -46,16 +56,6 @@
             "prediction": "Under 2.5 Goals",
             "odd": "2.45",
             "date": "19.01.2026 17:00"
-        },
-        {
-            "league": "QAT CUP",
-            "home": "Qatar Sc",
-            "away": "Gharrafa",
-            "iy_score": "3 - 0",
-            "ms_score": "3 - 2",
-            "prediction": "Total Goals 4-5",
-            "odd": "2.43",
-            "date": "19.01.2026 13:30"
         }
     ]
 }
