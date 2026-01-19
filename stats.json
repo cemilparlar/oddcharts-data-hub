@@ -1,10 +1,10 @@
 {
-    "last_update": "20.01.2026 00:56",
+    "last_update": "20.01.2026 01:16",
     "highlights": {
-        "analyses": 108,
-        "won": 73,
-        "lose": 35,
-        "success_rate": "%67.59"
+        "analyses": 114,
+        "won": 78,
+        "lose": 36,
+        "success_rate": "%68.42"
     },
     "top_matches": [
         {
@@ -18,6 +18,16 @@
             "date": "19.01.2026 14:00"
         },
         {
+            "league": "ENG1",
+            "home": "Brighton",
+            "away": "Bournemouth",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "1st Half Result 2",
+            "odd": "3.73",
+            "date": "19.01.2026 20:00"
+        },
+        {
             "league": " GAFPSL",
             "home": "Mamelodi Sundo",
             "away": "Orbit College",
@@ -28,6 +38,16 @@
             "date": "19.01.2026 17:30"
         },
         {
+            "league": "ITA1",
+            "home": "Lazio",
+            "away": "Como",
+            "iy_score": "0 - 2",
+            "ms_score": "0 - 3",
+            "prediction": "1st Half Result 2",
+            "odd": "3.20",
+            "date": "19.01.2026 19:45"
+        },
+        {
             "league": "TUR1",
             "home": "İstanbulspor",
             "away": "A. Keçiörengücü",
@@ -36,26 +56,6 @@
             "prediction": "Match Result X",
             "odd": "3.19",
             "date": "19.01.2026 14:00"
-        },
-        {
-            "league": "TUR1",
-            "home": "İstanbulspor",
-            "away": "A. Keçiörengücü",
-            "iy_score": "1 - 2",
-            "ms_score": "2 - 2",
-            "prediction": "1st Half Result 2",
-            "odd": "2.74",
-            "date": "19.01.2026 14:00"
-        },
-        {
-            "league": "TSL",
-            "home": "Beşiktaş",
-            "away": "Kayserispor",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Under 2.5 Goals",
-            "odd": "2.45",
-            "date": "19.01.2026 17:00"
         }
     ]
 }
