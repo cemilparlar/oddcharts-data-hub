@@ -1,61 +1,61 @@
 {
-    "last_update": "19.01.2026 18:22",
+    "last_update": "19.01.2026 20:42",
     "highlights": {
-        "analyses": 53,
-        "won": 43,
-        "lose": 10,
-        "success_rate": "%81.13"
+        "analyses": 57,
+        "won": 41,
+        "lose": 16,
+        "success_rate": "%71.93"
     },
     "top_matches": [
         {
-            "league": "ESP1",
-            "home": "Real Sociedad",
-            "away": "Barcelona",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "1st Half Result 1",
-            "odd": "4.33",
-            "date": "18.01.2026 20:00"
+            "league": "TUR1",
+            "home": "İstanbulspor",
+            "away": "A. Keçiörengücü",
+            "iy_score": "1 - 2",
+            "ms_score": "2 - 2",
+            "prediction": "HT/FT 2/X",
+            "odd": "12.55",
+            "date": "19.01.2026 14:00"
         },
         {
-            "league": "POR1",
-            "home": "Guimaraes",
-            "away": "Porto",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "HT/FT X/2",
-            "odd": "3.75",
-            "date": "18.01.2026 20:30"
+            "league": "TUR1",
+            "home": "İstanbulspor",
+            "away": "A. Keçiörengücü",
+            "iy_score": "1 - 2",
+            "ms_score": "2 - 2",
+            "prediction": "Match Result X",
+            "odd": "3.19",
+            "date": "19.01.2026 14:00"
         },
         {
-            "league": "POR1",
-            "home": "Guimaraes",
-            "away": "Porto",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "1st Half Under 0.5",
-            "odd": "2.59",
-            "date": "18.01.2026 20:30"
+            "league": "TUR1",
+            "home": "İstanbulspor",
+            "away": "A. Keçiörengücü",
+            "iy_score": "1 - 2",
+            "ms_score": "2 - 2",
+            "prediction": "1st Half Result 2",
+            "odd": "2.74",
+            "date": "19.01.2026 14:00"
         },
         {
-            "league": "POR1",
-            "home": "Guimaraes",
-            "away": "Porto",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "1st Half Result X",
-            "odd": "2.09",
-            "date": "18.01.2026 20:30"
+            "league": "QAT CUP",
+            "home": "Qatar Sc",
+            "away": "Gharrafa",
+            "iy_score": "3 - 0",
+            "ms_score": "3 - 2",
+            "prediction": "Total Goals 4-5",
+            "odd": "2.43",
+            "date": "19.01.2026 13:30"
         },
         {
-            "league": "ESP1",
-            "home": "Real Sociedad",
-            "away": "Barcelona",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Total Goals 2-3",
-            "odd": "2.06",
-            "date": "18.01.2026 20:00"
+            "league": "QAT CUP",
+            "home": "Al Arabi",
+            "away": "Al Sadd",
+            "iy_score": "4 - 0",
+            "ms_score": "5 - 0",
+            "prediction": "Total Goals 4-5",
+            "odd": "2.25",
+            "date": "19.01.2026 15:30"
         }
     ]
 }
