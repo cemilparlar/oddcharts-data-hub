@@ -1,10 +1,10 @@
 {
-    "last_update": "19.01.2026 17:19",
+    "last_update": "19.01.2026 17:40",
     "highlights": {
-        "analyses": 82,
-        "won": 67,
-        "lose": 15,
-        "success_rate": "%81.71"
+        "analyses": 55,
+        "won": 44,
+        "lose": 11,
+        "success_rate": "%80.00"
     },
     "top_matches": [
         {
@@ -38,16 +38,6 @@
             "date": "18.01.2026 20:30"
         },
         {
-            "league": "BEL",
-            "home": "Charleroi",
-            "away": "Standard Liege",
-            "iy_score": "2 - 0",
-            "ms_score": "2 - 0",
-            "prediction": "1st Half Result 1",
-            "odd": "2.47",
-            "date": "18.01.2026 17:30"
-        },
-        {
             "league": "POR1",
             "home": "Guimaraes",
             "away": "Porto",
@@ -56,6 +46,16 @@
             "prediction": "1st Half Result X",
             "odd": "2.09",
             "date": "18.01.2026 20:30"
+        },
+        {
+            "league": "ESP1",
+            "home": "Real Sociedad",
+            "away": "Barcelona",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Total Goals 2-3",
+            "odd": "2.06",
+            "date": "18.01.2026 20:00"
         }
     ]
 }
