@@ -1,10 +1,10 @@
 {
-    "last_update": "19.01.2026 21:51",
+    "last_update": "19.01.2026 22:12",
     "highlights": {
-        "analyses": 53,
-        "won": 38,
-        "lose": 15,
-        "success_rate": "%71.70"
+        "analyses": 58,
+        "won": 42,
+        "lose": 16,
+        "success_rate": "%72.41"
     },
     "top_matches": [
         {
@@ -38,6 +38,16 @@
             "date": "19.01.2026 14:00"
         },
         {
+            "league": "TSL",
+            "home": "Beşiktaş",
+            "away": "Kayserispor",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 2.5 Goals",
+            "odd": "2.45",
+            "date": "19.01.2026 17:00"
+        },
+        {
             "league": "QAT CUP",
             "home": "Qatar Sc",
             "away": "Gharrafa",
@@ -46,16 +56,6 @@
             "prediction": "Total Goals 4-5",
             "odd": "2.43",
             "date": "19.01.2026 13:30"
-        },
-        {
-            "league": "QAT CUP",
-            "home": "Al Arabi",
-            "away": "Al Sadd",
-            "iy_score": "4 - 0",
-            "ms_score": "5 - 0",
-            "prediction": "Total Goals 4-5",
-            "odd": "2.25",
-            "date": "19.01.2026 15:30"
         }
     ]
 }
