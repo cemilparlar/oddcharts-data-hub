@@ -1,10 +1,10 @@
 {
-    "last_update": "19.01.2026 15:59",
+    "last_update": "19.01.2026 16:17",
     "highlights": {
-        "analyses": 133,
-        "won": 105,
-        "lose": 28,
-        "success_rate": "%78.95"
+        "analyses": 106,
+        "won": 87,
+        "lose": 19,
+        "success_rate": "%82.08"
     },
     "top_matches": [
         {
@@ -16,16 +16,6 @@
             "prediction": "1st Half Result 1",
             "odd": "4.33",
             "date": "18.01.2026 20:00"
-        },
-        {
-            "league": "FRA1",
-            "home": "Nantes",
-            "away": "Paris Fc",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 2",
-            "prediction": "Handicap (1:0) X",
-            "odd": "3.96",
-            "date": "18.01.2026 16:15"
         },
         {
             "league": "POR1",
@@ -56,6 +46,16 @@
             "prediction": "Total Goals 0-1",
             "odd": "3.70",
             "date": "18.01.2026 16:30"
+        },
+        {
+            "league": "POR1",
+            "home": "Guimaraes",
+            "away": "Porto",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "1st Half Under 0.5",
+            "odd": "2.59",
+            "date": "18.01.2026 20:30"
         }
     ]
 }
