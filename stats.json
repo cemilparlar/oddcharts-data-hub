@@ -1,10 +1,10 @@
 {
-    "last_update": "20.01.2026 18:10",
+    "last_update": "20.01.2026 19:45",
     "highlights": {
-        "analyses": 54,
-        "won": 36,
-        "lose": 18,
-        "success_rate": "%66.67"
+        "analyses": 51,
+        "won": 38,
+        "lose": 13,
+        "success_rate": "%74.51"
     },
     "top_matches": [
         {
@@ -18,14 +18,34 @@
             "date": "19.01.2026 20:00"
         },
         {
-            "league": "ITA1",
-            "home": "Lazio",
-            "away": "Como",
-            "iy_score": "0 - 2",
-            "ms_score": "0 - 3",
-            "prediction": "1st Half Result 2",
-            "odd": "3.20",
-            "date": "19.01.2026 19:45"
+            "league": " TANZ",
+            "home": "Azam Fc",
+            "away": "Fountain Gate",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Handicap (0:1) 2",
+            "odd": "2.97",
+            "date": "20.01.2026 13:00"
+        },
+        {
+            "league": "ENG PDL",
+            "home": "Hull City U21",
+            "away": "Coventry City U",
+            "iy_score": "1 - 1",
+            "ms_score": "2 - 4",
+            "prediction": "Match Result 2",
+            "odd": "2.93",
+            "date": "20.01.2026 13:00"
+        },
+        {
+            "league": " TANZ",
+            "home": "Azam Fc",
+            "away": "Fountain Gate",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Double Chance X2",
+            "odd": "2.72",
+            "date": "20.01.2026 13:00"
         },
         {
             "league": "ETH",
@@ -35,26 +55,6 @@
             "ms_score": "0 - 0",
             "prediction": "Match Result X",
             "odd": "2.34",
-            "date": "20.01.2026 12:00"
-        },
-        {
-            "league": "ESP1",
-            "home": "Elche",
-            "away": "Sevilla",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "Over 2.5 Goals",
-            "odd": "2.02",
-            "date": "19.01.2026 20:00"
-        },
-        {
-            "league": "ETH",
-            "home": "Welayta Dicha",
-            "away": "Bahardar",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Under 1.5 Goals",
-            "odd": "1.87",
             "date": "20.01.2026 12:00"
         }
     ]
