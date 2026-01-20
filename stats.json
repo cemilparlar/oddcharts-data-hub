@@ -1,22 +1,12 @@
 {
-    "last_update": "20.01.2026 13:48",
+    "last_update": "20.01.2026 14:14",
     "highlights": {
-        "analyses": 89,
-        "won": 58,
-        "lose": 31,
-        "success_rate": "%65.17"
+        "analyses": 86,
+        "won": 56,
+        "lose": 30,
+        "success_rate": "%65.12"
     },
     "top_matches": [
-        {
-            "league": "TUR1",
-            "home": "İstanbulspor",
-            "away": "A. Keçiörengücü",
-            "iy_score": "1 - 2",
-            "ms_score": "2 - 2",
-            "prediction": "HT/FT 2/X",
-            "odd": "12.55",
-            "date": "19.01.2026 14:00"
-        },
         {
             "league": "ENG1",
             "home": "Brighton",
@@ -48,14 +38,24 @@
             "date": "19.01.2026 19:45"
         },
         {
-            "league": "TUR1",
-            "home": "İstanbulspor",
-            "away": "A. Keçiörengücü",
-            "iy_score": "1 - 2",
-            "ms_score": "2 - 2",
-            "prediction": "Match Result X",
-            "odd": "3.19",
-            "date": "19.01.2026 14:00"
+            "league": "TSL",
+            "home": "Beşiktaş",
+            "away": "Kayserispor",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 2.5 Goals",
+            "odd": "2.45",
+            "date": "19.01.2026 17:00"
+        },
+        {
+            "league": "QAT CUP",
+            "home": "Al Arabi",
+            "away": "Al Sadd",
+            "iy_score": "4 - 0",
+            "ms_score": "5 - 0",
+            "prediction": "Total Goals 4-5",
+            "odd": "2.25",
+            "date": "19.01.2026 15:30"
         }
     ]
 }
