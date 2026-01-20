@@ -1,12 +1,22 @@
 {
-    "last_update": "21.01.2026 01:34",
+    "last_update": "21.01.2026 02:00",
     "highlights": {
-        "analyses": 140,
-        "won": 109,
-        "lose": 31,
-        "success_rate": "%77.86"
+        "analyses": 181,
+        "won": 139,
+        "lose": 42,
+        "success_rate": "%76.80"
     },
     "top_matches": [
+        {
+            "league": "ENG1",
+            "home": "Sheffield Wed",
+            "away": "Birmingham",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 2",
+            "prediction": "HT/FT X/2",
+            "odd": "3.86",
+            "date": "20.01.2026 19:45"
+        },
         {
             "league": " TANZ",
             "home": "Azam Fc",
@@ -28,6 +38,16 @@
             "date": "20.01.2026 13:00"
         },
         {
+            "league": "ENG1",
+            "home": "Sheffield Wed",
+            "away": "Birmingham",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 2",
+            "prediction": "1st Half Under 0.5",
+            "odd": "2.91",
+            "date": "20.01.2026 19:45"
+        },
+        {
             "league": " TANZ",
             "home": "Azam Fc",
             "away": "Fountain Gate",
@@ -36,26 +56,6 @@
             "prediction": "Double Chance X2",
             "odd": "2.72",
             "date": "20.01.2026 13:00"
-        },
-        {
-            "league": "ENG1",
-            "home": "Coventry",
-            "away": "Millwall",
-            "iy_score": "1 - 1",
-            "ms_score": "2 - 1",
-            "prediction": "1st Half Over 1.5",
-            "odd": "2.46",
-            "date": "20.01.2026 19:45"
-        },
-        {
-            "league": "ETH",
-            "home": "Mekelle 70 End",
-            "away": "Mebrat Hayl",
-            "iy_score": "2 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Match Result 1",
-            "odd": "2.39",
-            "date": "20.01.2026 15:00"
         }
     ]
 }
