@@ -1,10 +1,10 @@
 {
-    "last_update": "20.01.2026 17:20",
+    "last_update": "20.01.2026 17:37",
     "highlights": {
-        "analyses": 73,
-        "won": 48,
-        "lose": 25,
-        "success_rate": "%65.75"
+        "analyses": 69,
+        "won": 45,
+        "lose": 24,
+        "success_rate": "%65.22"
     },
     "top_matches": [
         {
@@ -16,16 +16,6 @@
             "prediction": "1st Half Result 2",
             "odd": "3.73",
             "date": "19.01.2026 20:00"
-        },
-        {
-            "league": " GAFPSL",
-            "home": "Mamelodi Sundo",
-            "away": "Orbit College",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 0",
-            "prediction": "Handicap (0:2) X",
-            "odd": "3.25",
-            "date": "19.01.2026 17:30"
         },
         {
             "league": "ITA1",
@@ -56,6 +46,16 @@
             "prediction": "Over 2.5 Goals",
             "odd": "2.02",
             "date": "19.01.2026 20:00"
+        },
+        {
+            "league": "ETH",
+            "home": "Welayta Dicha",
+            "away": "Bahardar",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Under 1.5 Goals",
+            "odd": "1.87",
+            "date": "20.01.2026 12:00"
         }
     ]
 }
