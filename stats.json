@@ -1,22 +1,12 @@
 {
-    "last_update": "20.01.2026 19:45",
+    "last_update": "20.01.2026 20:03",
     "highlights": {
-        "analyses": 51,
-        "won": 38,
-        "lose": 13,
-        "success_rate": "%74.51"
+        "analyses": 64,
+        "won": 46,
+        "lose": 18,
+        "success_rate": "%71.88"
     },
     "top_matches": [
-        {
-            "league": "ENG1",
-            "home": "Brighton",
-            "away": "Bournemouth",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "1st Half Result 2",
-            "odd": "3.73",
-            "date": "19.01.2026 20:00"
-        },
         {
             "league": " TANZ",
             "home": "Azam Fc",
@@ -46,6 +36,16 @@
             "prediction": "Double Chance X2",
             "odd": "2.72",
             "date": "20.01.2026 13:00"
+        },
+        {
+            "league": "ETH",
+            "home": "Mekelle 70 End",
+            "away": "Mebrat Hayl",
+            "iy_score": "2 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Match Result 1",
+            "odd": "2.39",
+            "date": "20.01.2026 15:00"
         },
         {
             "league": "ETH",
