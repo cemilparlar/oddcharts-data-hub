@@ -1,10 +1,10 @@
 {
-    "last_update": "21.01.2026 00:40",
+    "last_update": "21.01.2026 01:07",
     "highlights": {
-        "analyses": 95,
-        "won": 68,
-        "lose": 27,
-        "success_rate": "%71.58"
+        "analyses": 121,
+        "won": 91,
+        "lose": 30,
+        "success_rate": "%75.21"
     },
     "top_matches": [
         {
@@ -38,6 +38,16 @@
             "date": "20.01.2026 13:00"
         },
         {
+            "league": "ENG1",
+            "home": "Coventry",
+            "away": "Millwall",
+            "iy_score": "1 - 1",
+            "ms_score": "2 - 1",
+            "prediction": "1st Half Over 1.5",
+            "odd": "2.46",
+            "date": "20.01.2026 19:45"
+        },
+        {
             "league": "ETH",
             "home": "Mekelle 70 End",
             "away": "Mebrat Hayl",
@@ -46,16 +56,6 @@
             "prediction": "Match Result 1",
             "odd": "2.39",
             "date": "20.01.2026 15:00"
-        },
-        {
-            "league": "ETH",
-            "home": "Welayta Dicha",
-            "away": "Bahardar",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Match Result X",
-            "odd": "2.34",
-            "date": "20.01.2026 12:00"
         }
     ]
 }
