@@ -1,10 +1,10 @@
 {
-    "last_update": "21.01.2026 08:31",
+    "last_update": "21.01.2026 15:26",
     "highlights": {
-        "analyses": 183,
-        "won": 141,
-        "lose": 42,
-        "success_rate": "%77.05"
+        "analyses": 123,
+        "won": 98,
+        "lose": 25,
+        "success_rate": "%79.67"
     },
     "top_matches": [
         {
@@ -18,26 +18,6 @@
             "date": "20.01.2026 19:45"
         },
         {
-            "league": " TANZ",
-            "home": "Azam Fc",
-            "away": "Fountain Gate",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Handicap (0:1) 2",
-            "odd": "2.97",
-            "date": "20.01.2026 13:00"
-        },
-        {
-            "league": "ENG PDL",
-            "home": "Hull City U21",
-            "away": "Coventry City U",
-            "iy_score": "1 - 1",
-            "ms_score": "2 - 4",
-            "prediction": "Match Result 2",
-            "odd": "2.93",
-            "date": "20.01.2026 13:00"
-        },
-        {
             "league": "ENG1",
             "home": "Sheffield Wed",
             "away": "Birmingham",
@@ -48,14 +28,34 @@
             "date": "20.01.2026 19:45"
         },
         {
-            "league": " TANZ",
-            "home": "Azam Fc",
-            "away": "Fountain Gate",
+            "league": "ENG1",
+            "home": "Coventry",
+            "away": "Millwall",
+            "iy_score": "1 - 1",
+            "ms_score": "2 - 1",
+            "prediction": "1st Half Over 1.5",
+            "odd": "2.46",
+            "date": "20.01.2026 19:45"
+        },
+        {
+            "league": " ŞMP",
+            "home": "Sporting Cp",
+            "away": "Psg",
             "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Double Chance X2",
-            "odd": "2.72",
-            "date": "20.01.2026 13:00"
+            "ms_score": "2 - 1",
+            "prediction": "1st Half Result X",
+            "odd": "2.34",
+            "date": "20.01.2026 20:00"
+        },
+        {
+            "league": "ENG1",
+            "home": "Sheffield Wed",
+            "away": "Birmingham",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 2",
+            "prediction": "1st Half Result X",
+            "odd": "2.23",
+            "date": "20.01.2026 19:45"
         }
     ]
 }
