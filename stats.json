@@ -1,61 +1,10 @@
 {
-    "last_update": "21.01.2026 17:17",
+    "last_update": "22.01.2026 01:00",
     "highlights": {
-        "analyses": 108,
-        "won": 87,
-        "lose": 21,
-        "success_rate": "%80.56"
+        "analyses": 0,
+        "won": 0,
+        "lose": 0,
+        "success_rate": "%0"
     },
-    "top_matches": [
-        {
-            "league": "ENG1",
-            "home": "Sheffield Wed",
-            "away": "Birmingham",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 2",
-            "prediction": "HT/FT X/2",
-            "odd": "3.86",
-            "date": "20.01.2026 19:45"
-        },
-        {
-            "league": "ENG1",
-            "home": "Sheffield Wed",
-            "away": "Birmingham",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 2",
-            "prediction": "1st Half Under 0.5",
-            "odd": "2.91",
-            "date": "20.01.2026 19:45"
-        },
-        {
-            "league": "ENG1",
-            "home": "Coventry",
-            "away": "Millwall",
-            "iy_score": "1 - 1",
-            "ms_score": "2 - 1",
-            "prediction": "1st Half Over 1.5",
-            "odd": "2.46",
-            "date": "20.01.2026 19:45"
-        },
-        {
-            "league": " ŞMP",
-            "home": "Sporting Cp",
-            "away": "Psg",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "1st Half Result X",
-            "odd": "2.34",
-            "date": "20.01.2026 20:00"
-        },
-        {
-            "league": "ENG1",
-            "home": "Sheffield Wed",
-            "away": "Birmingham",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 2",
-            "prediction": "1st Half Result X",
-            "odd": "2.23",
-            "date": "20.01.2026 19:45"
-        }
-    ]
+    "top_matches": []
 }
