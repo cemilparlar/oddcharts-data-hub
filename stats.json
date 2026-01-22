@@ -1,10 +1,10 @@
 {
-    "last_update": "22.01.2026 20:03",
+    "last_update": "22.01.2026 20:21",
     "highlights": {
-        "analyses": 30,
-        "won": 18,
-        "lose": 12,
-        "success_rate": "%60.00"
+        "analyses": 35,
+        "won": 22,
+        "lose": 13,
+        "success_rate": "%62.86"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "22.01.2026 14:30"
         },
         {
-            "league": "EGY2",
-            "home": "Tanta",
-            "away": "Abu Qair",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 1",
-            "prediction": "Match Result 2",
-            "odd": "1.92",
-            "date": "22.01.2026 12:30"
+            "league": "EGY",
+            "home": "Wadi Degla",
+            "away": "Ghazl El Mehall",
+            "iy_score": "3 - 2",
+            "ms_score": "3 - 2",
+            "prediction": "Match Result 1",
+            "odd": "1.94",
+            "date": "22.01.2026 15:00"
         }
     ]
 }
