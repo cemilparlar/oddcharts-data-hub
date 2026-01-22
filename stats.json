@@ -1,12 +1,22 @@
 {
-    "last_update": "22.01.2026 17:24",
+    "last_update": "22.01.2026 17:44",
     "highlights": {
-        "analyses": 11,
-        "won": 3,
+        "analyses": 12,
+        "won": 4,
         "lose": 8,
-        "success_rate": "%27.27"
+        "success_rate": "%33.33"
     },
     "top_matches": [
+        {
+            "league": "EGY2",
+            "home": "Ghazl Kafr El",
+            "away": "Masar",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Match Result X",
+            "odd": "2.60",
+            "date": "22.01.2026 12:30"
+        },
         {
             "league": "IRN",
             "home": "Tractor Fc",
@@ -18,44 +28,34 @@
             "date": "22.01.2026 11:00"
         },
         {
-            "league": "IRN",
-            "home": "Tractor Fc",
-            "away": "Mes Rafsanjan",
-            "iy_score": "1 - 0",
-            "ms_score": "4 - 1",
-            "prediction": "1st Half Over 0.5",
-            "odd": "1.29",
-            "date": "22.01.2026 11:00"
-        },
-        {
-            "league": "IRN",
-            "home": "Tractor Fc",
-            "away": "Mes Rafsanjan",
-            "iy_score": "1 - 0",
-            "ms_score": "4 - 1",
-            "prediction": "Match Result 1",
-            "odd": "1.26",
-            "date": "22.01.2026 11:00"
-        },
-        {
-            "league": "ETH",
-            "home": "Dire Dawa Kene",
-            "away": "Ethiopian Insur",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Double Chance X2",
-            "odd": "1.15",
-            "date": "22.01.2026 10:00"
-        },
-        {
-            "league": "IRQ",
-            "home": "Diala",
-            "away": "Al Gharraf",
+            "league": "EGY2",
+            "home": "Ghazl Kafr El",
+            "away": "Masar",
             "iy_score": "0 - 1",
             "ms_score": "1 - 1",
-            "prediction": "1st Half Double Chance X2",
-            "odd": "1.14",
-            "date": "22.01.2026 12:00"
+            "prediction": "Handicap (1:0) 1",
+            "odd": "1.61",
+            "date": "22.01.2026 12:30"
+        },
+        {
+            "league": "EGY2",
+            "home": "Ghazl Kafr El",
+            "away": "Masar",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Double Chance 1X",
+            "odd": "1.59",
+            "date": "22.01.2026 12:30"
+        },
+        {
+            "league": "IRN",
+            "home": "Kheybar Khorra",
+            "away": "Shahrdari Arak",
+            "iy_score": "1 - 1",
+            "ms_score": "2 - 2",
+            "prediction": "1st Half Result X",
+            "odd": "1.54",
+            "date": "22.01.2026 12:30"
         }
     ]
 }
