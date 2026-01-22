@@ -1,10 +1,10 @@
 {
-    "last_update": "22.01.2026 17:44",
+    "last_update": "22.01.2026 18:02",
     "highlights": {
-        "analyses": 12,
-        "won": 4,
-        "lose": 8,
-        "success_rate": "%33.33"
+        "analyses": 24,
+        "won": 15,
+        "lose": 9,
+        "success_rate": "%62.50"
     },
     "top_matches": [
         {
@@ -15,6 +15,16 @@
             "ms_score": "1 - 1",
             "prediction": "Match Result X",
             "odd": "2.60",
+            "date": "22.01.2026 12:30"
+        },
+        {
+            "league": "EGY2",
+            "home": "Tanta",
+            "away": "Abu Qair",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 1",
+            "prediction": "Match Result 2",
+            "odd": "1.92",
             "date": "22.01.2026 12:30"
         },
         {
@@ -45,16 +55,6 @@
             "ms_score": "1 - 1",
             "prediction": "Double Chance 1X",
             "odd": "1.59",
-            "date": "22.01.2026 12:30"
-        },
-        {
-            "league": "IRN",
-            "home": "Kheybar Khorra",
-            "away": "Shahrdari Arak",
-            "iy_score": "1 - 1",
-            "ms_score": "2 - 2",
-            "prediction": "1st Half Result X",
-            "odd": "1.54",
             "date": "22.01.2026 12:30"
         }
     ]
