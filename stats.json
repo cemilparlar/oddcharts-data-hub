@@ -1,12 +1,22 @@
 {
-    "last_update": "23.01.2026 00:41",
+    "last_update": "23.01.2026 01:05",
     "highlights": {
-        "analyses": 60,
-        "won": 38,
-        "lose": 22,
-        "success_rate": "%63.33"
+        "analyses": 81,
+        "won": 52,
+        "lose": 29,
+        "success_rate": "%64.20"
     },
     "top_matches": [
+        {
+            "league": " AVL",
+            "home": "Salzburg",
+            "away": "Basel",
+            "iy_score": "3 - 0",
+            "ms_score": "3 - 1",
+            "prediction": "Handicap (0:2) X",
+            "odd": "5.42",
+            "date": "22.01.2026 20:00"
+        },
         {
             "league": " AVL",
             "home": "Freiburg",
@@ -29,23 +39,13 @@
         },
         {
             "league": " AVL",
-            "home": "Freiburg",
-            "away": "Maccabi Tel Avi",
+            "home": "Ferencvaros",
+            "away": "Panathinaikos",
             "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "1st Half Under 0.5",
-            "odd": "3.51",
-            "date": "22.01.2026 17:45"
-        },
-        {
-            "league": "IRQ",
-            "home": "Al Karma",
-            "away": "Baghdad",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (0:1) X",
-            "odd": "2.91",
-            "date": "22.01.2026 14:30"
+            "ms_score": "1 - 1",
+            "prediction": "HT/FT X/X",
+            "odd": "4.38",
+            "date": "22.01.2026 20:00"
         },
         {
             "league": " AVL",
@@ -53,8 +53,8 @@
             "away": "Maccabi Tel Avi",
             "iy_score": "0 - 0",
             "ms_score": "1 - 0",
-            "prediction": "1st Half Result X",
-            "odd": "2.69",
+            "prediction": "1st Half Under 0.5",
+            "odd": "3.51",
             "date": "22.01.2026 17:45"
         }
     ]
