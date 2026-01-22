@@ -1,10 +1,10 @@
 {
-    "last_update": "22.01.2026 16:48",
+    "last_update": "22.01.2026 17:06",
     "highlights": {
-        "analyses": 4,
-        "won": 2,
-        "lose": 2,
-        "success_rate": "%50.00"
+        "analyses": 7,
+        "won": 3,
+        "lose": 4,
+        "success_rate": "%42.86"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "22.01.2026 10:00"
         },
         {
-            "league": "ITAC",
-            "home": "Hellas Verona",
-            "away": "Cagliari U20",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Double Chance 1X",
-            "odd": "1.11",
-            "date": "22.01.2026 09:30"
+            "league": "IRQ",
+            "home": "Diala",
+            "away": "Al Gharraf",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "1st Half Double Chance X2",
+            "odd": "1.14",
+            "date": "22.01.2026 12:00"
         }
     ]
 }
