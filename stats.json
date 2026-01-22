@@ -1,5 +1,5 @@
 {
-    "last_update": "22.01.2026 14:41",
+    "last_update": "22.01.2026 15:01",
     "highlights": {
         "analyses": 2,
         "won": 1,
@@ -7,6 +7,16 @@
         "success_rate": "%50.00"
     },
     "top_matches": [
+        {
+            "league": "ETH",
+            "home": "Dire Dawa Kene",
+            "away": "Ethiopian Insur",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Double Chance X2",
+            "odd": "1.15",
+            "date": "22.01.2026 10:00"
+        },
         {
             "league": "ITAC",
             "home": "Hellas Verona",
