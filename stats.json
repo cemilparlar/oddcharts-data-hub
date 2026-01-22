@@ -1,5 +1,5 @@
 {
-    "last_update": "23.01.2026 01:05",
+    "last_update": "23.01.2026 01:24",
     "highlights": {
         "analyses": 81,
         "won": 52,
@@ -7,6 +7,16 @@
         "success_rate": "%64.20"
     },
     "top_matches": [
+        {
+            "league": "ARG",
+            "home": "Aldosivi",
+            "away": "Defensa Justici",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Under 0.5 Goals",
+            "odd": "6.01",
+            "date": "22.01.2026 20:00"
+        },
         {
             "league": " AVL",
             "home": "Salzburg",
@@ -46,16 +56,6 @@
             "prediction": "HT/FT X/X",
             "odd": "4.38",
             "date": "22.01.2026 20:00"
-        },
-        {
-            "league": " AVL",
-            "home": "Freiburg",
-            "away": "Maccabi Tel Avi",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "1st Half Under 0.5",
-            "odd": "3.51",
-            "date": "22.01.2026 17:45"
         }
     ]
 }
