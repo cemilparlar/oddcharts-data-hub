@@ -1,10 +1,21 @@
 {
-    "last_update": "22.01.2026 14:22",
+    "last_update": "22.01.2026 14:41",
     "highlights": {
-        "analyses": 0,
-        "won": 0,
-        "lose": 0,
-        "success_rate": "%0"
+        "analyses": 2,
+        "won": 1,
+        "lose": 1,
+        "success_rate": "%50.00"
     },
-    "top_matches": []
+    "top_matches": [
+        {
+            "league": "ITAC",
+            "home": "Hellas Verona",
+            "away": "Cagliari U20",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Double Chance 1X",
+            "odd": "1.11",
+            "date": "22.01.2026 09:30"
+        }
+    ]
 }
