@@ -1,10 +1,10 @@
 {
-    "last_update": "24.01.2026 01:07",
+    "last_update": "24.01.2026 01:27",
     "highlights": {
-        "analyses": 269,
-        "won": 196,
-        "lose": 73,
-        "success_rate": "%72.86"
+        "analyses": 271,
+        "won": 197,
+        "lose": 74,
+        "success_rate": "%72.69"
     },
     "top_matches": [
         {
@@ -16,6 +16,26 @@
             "prediction": "Under 0.5 Goals",
             "odd": "6.01",
             "date": "23.01.2026 19:30"
+        },
+        {
+            "league": "FRA2",
+            "home": "Bastia",
+            "away": "Montpellier",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 2",
+            "prediction": "Handicap (1:0) 2",
+            "odd": "5.48",
+            "date": "23.01.2026 19:00"
+        },
+        {
+            "league": "ITA1",
+            "home": "Inter",
+            "away": "Pisa",
+            "iy_score": "3 - 2",
+            "ms_score": "6 - 2",
+            "prediction": "1st Half Over 2.5",
+            "odd": "4.07",
+            "date": "23.01.2026 19:45"
         },
         {
             "league": "ESP2",
@@ -35,26 +55,6 @@
             "ms_score": "0 - 0",
             "prediction": "HT/FT X/X",
             "odd": "3.56",
-            "date": "23.01.2026 19:30"
-        },
-        {
-            "league": "IRN",
-            "home": "Persepolis",
-            "away": "Sepahan",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (0:1) X",
-            "odd": "3.45",
-            "date": "23.01.2026 10:30"
-        },
-        {
-            "league": "ESP2",
-            "home": "Malaga",
-            "away": "Burgos",
-            "iy_score": "2 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "1st Half Over 1.5",
-            "odd": "3.41",
             "date": "23.01.2026 19:30"
         }
     ]
