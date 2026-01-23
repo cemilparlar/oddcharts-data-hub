@@ -1,10 +1,10 @@
 {
-    "last_update": "23.01.2026 19:44",
+    "last_update": "23.01.2026 20:11",
     "highlights": {
-        "analyses": 94,
-        "won": 67,
-        "lose": 27,
-        "success_rate": "%71.28"
+        "analyses": 82,
+        "won": 62,
+        "lose": 20,
+        "success_rate": "%75.61"
     },
     "top_matches": [
         {
@@ -18,44 +18,44 @@
             "date": "22.01.2026 22:00"
         },
         {
-            "league": "ARG",
-            "home": "Aldosivi",
-            "away": "Defensa Justici",
+            "league": "IRN",
+            "home": "Persepolis",
+            "away": "Sepahan",
             "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Under 0.5 Goals",
-            "odd": "6.01",
-            "date": "22.01.2026 20:00"
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.45",
+            "date": "23.01.2026 10:30"
         },
         {
-            "league": " AVL",
-            "home": "Salzburg",
-            "away": "Basel",
-            "iy_score": "3 - 0",
-            "ms_score": "3 - 1",
-            "prediction": "Handicap (0:2) X",
-            "odd": "5.42",
-            "date": "22.01.2026 20:00"
+            "league": "GUA",
+            "home": "Municipal",
+            "away": "Mictlan",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "Double Chance X2",
+            "odd": "3.00",
+            "date": "22.01.2026 22:00"
         },
         {
-            "league": " AVL",
-            "home": "Ferencvaros",
-            "away": "Panathinaikos",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "HT/FT X/X",
-            "odd": "4.38",
-            "date": "22.01.2026 20:00"
+            "league": "GUA",
+            "home": "Municipal",
+            "away": "Mictlan",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "Handicap (0:1) 2",
+            "odd": "2.92",
+            "date": "22.01.2026 22:00"
         },
         {
-            "league": "ARG",
-            "home": "Aldosivi",
-            "away": "Defensa Justici",
+            "league": "IRN",
+            "home": "Persepolis",
+            "away": "Sepahan",
             "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "HT/FT X/X",
-            "odd": "3.54",
-            "date": "22.01.2026 20:00"
+            "ms_score": "2 - 1",
+            "prediction": "Match Result 1",
+            "odd": "2.46",
+            "date": "23.01.2026 10:30"
         }
     ]
 }
