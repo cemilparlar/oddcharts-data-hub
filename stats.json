@@ -1,10 +1,10 @@
 {
-    "last_update": "23.01.2026 17:37",
+    "last_update": "23.01.2026 17:57",
     "highlights": {
-        "analyses": 72,
-        "won": 49,
-        "lose": 23,
-        "success_rate": "%68.06"
+        "analyses": 59,
+        "won": 42,
+        "lose": 17,
+        "success_rate": "%71.19"
     },
     "top_matches": [
         {
@@ -39,23 +39,23 @@
         },
         {
             "league": " AVL",
-            "home": "Freiburg",
-            "away": "Maccabi Tel Avi",
+            "home": "Ferencvaros",
+            "away": "Panathinaikos",
             "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Total Goals 0-1",
-            "odd": "4.47",
-            "date": "22.01.2026 17:45"
+            "ms_score": "1 - 1",
+            "prediction": "HT/FT X/X",
+            "odd": "4.38",
+            "date": "22.01.2026 20:00"
         },
         {
-            "league": " AVL",
-            "home": "Freiburg",
-            "away": "Maccabi Tel Avi",
+            "league": "ARG",
+            "home": "Aldosivi",
+            "away": "Defensa Justici",
             "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Under 1.5 Goals",
-            "odd": "4.47",
-            "date": "22.01.2026 17:45"
+            "ms_score": "0 - 0",
+            "prediction": "HT/FT X/X",
+            "odd": "3.54",
+            "date": "22.01.2026 20:00"
         }
     ]
 }
