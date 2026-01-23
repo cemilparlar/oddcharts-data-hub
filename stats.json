@@ -1,10 +1,10 @@
 {
-    "last_update": "23.01.2026 17:20",
+    "last_update": "23.01.2026 17:37",
     "highlights": {
-        "analyses": 71,
-        "won": 50,
-        "lose": 21,
-        "success_rate": "%70.42"
+        "analyses": 72,
+        "won": 49,
+        "lose": 23,
+        "success_rate": "%68.06"
     },
     "top_matches": [
         {
@@ -43,7 +43,7 @@
             "away": "Maccabi Tel Avi",
             "iy_score": "0 - 0",
             "ms_score": "1 - 0",
-            "prediction": "Under 1.5 Goals",
+            "prediction": "Total Goals 0-1",
             "odd": "4.47",
             "date": "22.01.2026 17:45"
         },
@@ -53,7 +53,7 @@
             "away": "Maccabi Tel Avi",
             "iy_score": "0 - 0",
             "ms_score": "1 - 0",
-            "prediction": "Total Goals 0-1",
+            "prediction": "Under 1.5 Goals",
             "odd": "4.47",
             "date": "22.01.2026 17:45"
         }
