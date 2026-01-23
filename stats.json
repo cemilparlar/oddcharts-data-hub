@@ -1,10 +1,10 @@
 {
-    "last_update": "23.01.2026 23:47",
+    "last_update": "24.01.2026 00:10",
     "highlights": {
-        "analyses": 155,
-        "won": 112,
-        "lose": 43,
-        "success_rate": "%72.26"
+        "analyses": 216,
+        "won": 153,
+        "lose": 63,
+        "success_rate": "%70.83"
     },
     "top_matches": [
         {
@@ -28,34 +28,34 @@
             "date": "23.01.2026 10:30"
         },
         {
-            "league": "IRQ",
-            "home": "Naft",
-            "away": "Naft Maysan",
+            "league": "FRA2",
+            "home": "Amiens",
+            "away": "Stade Lavallois",
             "iy_score": "0 - 0",
-            "ms_score": "1 - 2",
-            "prediction": "Over 2.5 Goals",
-            "odd": "1.95",
-            "date": "23.01.2026 12:00"
+            "ms_score": "0 - 0",
+            "prediction": "Under 1.5 Goals",
+            "odd": "2.32",
+            "date": "23.01.2026 19:00"
         },
         {
-            "league": " MALEFK",
-            "home": "Terengganu",
-            "away": "Um Damansara Un",
-            "iy_score": "3 - 0",
-            "ms_score": "5 - 0",
-            "prediction": "Handicap (0:2) 1",
-            "odd": "1.94",
-            "date": "23.01.2026 13:00"
+            "league": "FRA2",
+            "home": "Amiens",
+            "away": "Stade Lavallois",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Total Goals 0-1",
+            "odd": "2.26",
+            "date": "23.01.2026 19:00"
         },
         {
-            "league": "ENG PDL",
-            "home": "Barnsley U21",
-            "away": "Brentford U21",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 2",
-            "prediction": "1st Half Result 2",
-            "odd": "1.93",
-            "date": "23.01.2026 13:00"
+            "league": "FRA2",
+            "home": "Amiens",
+            "away": "Stade Lavallois",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "1st Half Under 0.5",
+            "odd": "2.14",
+            "date": "23.01.2026 19:00"
         }
     ]
 }
