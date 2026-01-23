@@ -1,12 +1,22 @@
 {
-    "last_update": "23.01.2026 02:49",
+    "last_update": "23.01.2026 03:16",
     "highlights": {
-        "analyses": 81,
-        "won": 52,
+        "analyses": 83,
+        "won": 54,
         "lose": 29,
-        "success_rate": "%64.20"
+        "success_rate": "%65.06"
     },
     "top_matches": [
+        {
+            "league": "GUA",
+            "home": "Municipal",
+            "away": "Mictlan",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "1st Half Result 2",
+            "odd": "9.12",
+            "date": "22.01.2026 22:00"
+        },
         {
             "league": "ARG",
             "home": "Aldosivi",
@@ -46,16 +56,6 @@
             "prediction": "Under 1.5 Goals",
             "odd": "4.47",
             "date": "22.01.2026 17:45"
-        },
-        {
-            "league": " AVL",
-            "home": "Ferencvaros",
-            "away": "Panathinaikos",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "HT/FT X/X",
-            "odd": "4.38",
-            "date": "22.01.2026 20:00"
         }
     ]
 }
