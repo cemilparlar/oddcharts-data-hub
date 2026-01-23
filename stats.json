@@ -1,22 +1,12 @@
 {
-    "last_update": "23.01.2026 21:54",
+    "last_update": "23.01.2026 22:13",
     "highlights": {
-        "analyses": 91,
-        "won": 70,
-        "lose": 21,
-        "success_rate": "%76.92"
+        "analyses": 102,
+        "won": 77,
+        "lose": 25,
+        "success_rate": "%75.49"
     },
     "top_matches": [
-        {
-            "league": "GUA",
-            "home": "Municipal",
-            "away": "Mictlan",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 2",
-            "prediction": "1st Half Result 2",
-            "odd": "9.12",
-            "date": "22.01.2026 22:00"
-        },
         {
             "league": "IRN",
             "home": "Persepolis",
@@ -28,26 +18,6 @@
             "date": "23.01.2026 10:30"
         },
         {
-            "league": "GUA",
-            "home": "Municipal",
-            "away": "Mictlan",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 2",
-            "prediction": "Double Chance X2",
-            "odd": "3.00",
-            "date": "22.01.2026 22:00"
-        },
-        {
-            "league": "GUA",
-            "home": "Municipal",
-            "away": "Mictlan",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 2",
-            "prediction": "Handicap (0:1) 2",
-            "odd": "2.92",
-            "date": "22.01.2026 22:00"
-        },
-        {
             "league": "IRN",
             "home": "Persepolis",
             "away": "Sepahan",
@@ -56,6 +26,36 @@
             "prediction": "Match Result 1",
             "odd": "2.46",
             "date": "23.01.2026 10:30"
+        },
+        {
+            "league": "IRQ",
+            "home": "Naft",
+            "away": "Naft Maysan",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 2",
+            "prediction": "Over 2.5 Goals",
+            "odd": "1.95",
+            "date": "23.01.2026 12:00"
+        },
+        {
+            "league": " MALEFK",
+            "home": "Terengganu",
+            "away": "Um Damansara Un",
+            "iy_score": "3 - 0",
+            "ms_score": "5 - 0",
+            "prediction": "Handicap (0:2) 1",
+            "odd": "1.94",
+            "date": "23.01.2026 13:00"
+        },
+        {
+            "league": "ENG PDL",
+            "home": "Barnsley U21",
+            "away": "Brentford U21",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "1st Half Result 2",
+            "odd": "1.93",
+            "date": "23.01.2026 13:00"
         }
     ]
 }
