@@ -1,12 +1,42 @@
 {
-    "last_update": "24.01.2026 00:26",
+    "last_update": "24.01.2026 00:49",
     "highlights": {
-        "analyses": 216,
-        "won": 153,
-        "lose": 63,
-        "success_rate": "%70.83"
+        "analyses": 261,
+        "won": 190,
+        "lose": 71,
+        "success_rate": "%72.80"
     },
     "top_matches": [
+        {
+            "league": "GER1",
+            "home": "St Pauli",
+            "away": "Hamburg",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Under 0.5 Goals",
+            "odd": "6.01",
+            "date": "23.01.2026 19:30"
+        },
+        {
+            "league": "ESP2",
+            "home": "Malaga",
+            "away": "Burgos",
+            "iy_score": "2 - 0",
+            "ms_score": "3 - 0",
+            "prediction": "Handicap (0:1) 1",
+            "odd": "3.83",
+            "date": "23.01.2026 19:30"
+        },
+        {
+            "league": "GER1",
+            "home": "St Pauli",
+            "away": "Hamburg",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "HT/FT X/X",
+            "odd": "3.56",
+            "date": "23.01.2026 19:30"
+        },
         {
             "league": "IRN",
             "home": "Persepolis",
@@ -18,44 +48,14 @@
             "date": "23.01.2026 10:30"
         },
         {
-            "league": "IRN",
-            "home": "Persepolis",
-            "away": "Sepahan",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Match Result 1",
-            "odd": "2.46",
-            "date": "23.01.2026 10:30"
-        },
-        {
-            "league": "FRA2",
-            "home": "Amiens",
-            "away": "Stade Lavallois",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Under 1.5 Goals",
-            "odd": "2.32",
-            "date": "23.01.2026 19:00"
-        },
-        {
-            "league": "FRA2",
-            "home": "Amiens",
-            "away": "Stade Lavallois",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Total Goals 0-1",
-            "odd": "2.26",
-            "date": "23.01.2026 19:00"
-        },
-        {
-            "league": "FRA2",
-            "home": "Amiens",
-            "away": "Stade Lavallois",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "1st Half Under 0.5",
-            "odd": "2.14",
-            "date": "23.01.2026 19:00"
+            "league": "ESP2",
+            "home": "Malaga",
+            "away": "Burgos",
+            "iy_score": "2 - 0",
+            "ms_score": "3 - 0",
+            "prediction": "1st Half Over 1.5",
+            "odd": "3.41",
+            "date": "23.01.2026 19:30"
         }
     ]
 }
