@@ -1,10 +1,10 @@
 {
-    "last_update": "24.01.2026 17:39",
+    "last_update": "24.01.2026 18:14",
     "highlights": {
-        "analyses": 293,
-        "won": 213,
-        "lose": 80,
-        "success_rate": "%72.70"
+        "analyses": 358,
+        "won": 263,
+        "lose": 95,
+        "success_rate": "%73.46"
     },
     "top_matches": [
         {
@@ -28,6 +28,16 @@
             "date": "23.01.2026 19:00"
         },
         {
+            "league": "GER3",
+            "home": "Essen",
+            "away": "Havelse",
+            "iy_score": "2 - 1",
+            "ms_score": "4 - 1",
+            "prediction": "1st Half Over 2.5",
+            "odd": "4.29",
+            "date": "24.01.2026 13:00"
+        },
+        {
             "league": "ITA1",
             "home": "Inter",
             "away": "Pisa",
@@ -45,16 +55,6 @@
             "ms_score": "3 - 0",
             "prediction": "Handicap (0:1) 1",
             "odd": "3.83",
-            "date": "23.01.2026 19:30"
-        },
-        {
-            "league": "GER1",
-            "home": "St Pauli",
-            "away": "Hamburg",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "HT/FT X/X",
-            "odd": "3.56",
             "date": "23.01.2026 19:30"
         }
     ]
