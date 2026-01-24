@@ -1,22 +1,12 @@
 {
-    "last_update": "24.01.2026 19:20",
+    "last_update": "24.01.2026 19:32",
     "highlights": {
-        "analyses": 345,
-        "won": 255,
-        "lose": 90,
-        "success_rate": "%73.91"
+        "analyses": 350,
+        "won": 256,
+        "lose": 94,
+        "success_rate": "%73.14"
     },
     "top_matches": [
-        {
-            "league": "GER1",
-            "home": "St Pauli",
-            "away": "Hamburg",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Under 0.5 Goals",
-            "odd": "6.01",
-            "date": "23.01.2026 19:30"
-        },
         {
             "league": "GER3",
             "home": "Essen",
@@ -38,24 +28,34 @@
             "date": "23.01.2026 19:45"
         },
         {
-            "league": "ESP2",
-            "home": "Malaga",
-            "away": "Burgos",
-            "iy_score": "2 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "Handicap (0:1) 1",
-            "odd": "3.83",
-            "date": "23.01.2026 19:30"
+            "league": "GER3",
+            "home": "Essen",
+            "away": "Havelse",
+            "iy_score": "2 - 1",
+            "ms_score": "4 - 1",
+            "prediction": "Over 4.5 Goals",
+            "odd": "3.43",
+            "date": "24.01.2026 13:00"
         },
         {
-            "league": "GER1",
-            "home": "St Pauli",
-            "away": "Hamburg",
+            "league": "CZE2",
+            "home": "Kolea",
+            "away": "Jsm Tiaret",
             "iy_score": "0 - 0",
             "ms_score": "0 - 0",
-            "prediction": "HT/FT X/X",
-            "odd": "3.56",
-            "date": "23.01.2026 19:30"
+            "prediction": "Match Result X",
+            "odd": "3.16",
+            "date": "24.01.2026 13:00"
+        },
+        {
+            "league": "TUR2B",
+            "home": "İskenderunspor",
+            "away": "Batman Petrol",
+            "iy_score": "2 - 1",
+            "ms_score": "2 - 2",
+            "prediction": "Match Result X",
+            "odd": "3.05",
+            "date": "24.01.2026 12:00"
         }
     ]
 }
