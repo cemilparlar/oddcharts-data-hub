@@ -1,10 +1,10 @@
 {
-    "last_update": "24.01.2026 19:43",
+    "last_update": "24.01.2026 19:48",
     "highlights": {
-        "analyses": 355,
-        "won": 260,
-        "lose": 95,
-        "success_rate": "%73.24"
+        "analyses": 331,
+        "won": 240,
+        "lose": 91,
+        "success_rate": "%72.51"
     },
     "top_matches": [
         {
@@ -16,16 +16,6 @@
             "prediction": "1st Half Over 2.5",
             "odd": "4.29",
             "date": "24.01.2026 13:00"
-        },
-        {
-            "league": "ITA1",
-            "home": "Inter",
-            "away": "Pisa",
-            "iy_score": "3 - 2",
-            "ms_score": "6 - 2",
-            "prediction": "1st Half Over 2.5",
-            "odd": "4.07",
-            "date": "23.01.2026 19:45"
         },
         {
             "league": "GER3",
@@ -56,6 +46,16 @@
             "prediction": "Match Result X",
             "odd": "3.05",
             "date": "24.01.2026 12:00"
+        },
+        {
+            "league": "MAR2",
+            "home": "Widad Temara",
+            "away": "Chabab",
+            "iy_score": "0 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:1) X",
+            "odd": "2.95",
+            "date": "24.01.2026 14:00"
         }
     ]
 }
