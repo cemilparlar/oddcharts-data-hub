@@ -1,10 +1,10 @@
 {
-    "last_update": "24.01.2026 18:49",
+    "last_update": "24.01.2026 19:06",
     "highlights": {
-        "analyses": 358,
-        "won": 261,
-        "lose": 97,
-        "success_rate": "%72.91"
+        "analyses": 340,
+        "won": 251,
+        "lose": 89,
+        "success_rate": "%73.82"
     },
     "top_matches": [
         {
@@ -16,16 +16,6 @@
             "prediction": "Under 0.5 Goals",
             "odd": "6.01",
             "date": "23.01.2026 19:30"
-        },
-        {
-            "league": "FRA2",
-            "home": "Bastia",
-            "away": "Montpellier",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 2",
-            "prediction": "Handicap (1:0) 2",
-            "odd": "5.48",
-            "date": "23.01.2026 19:00"
         },
         {
             "league": "GER3",
@@ -55,6 +45,16 @@
             "ms_score": "3 - 0",
             "prediction": "Handicap (0:1) 1",
             "odd": "3.83",
+            "date": "23.01.2026 19:30"
+        },
+        {
+            "league": "GER1",
+            "home": "St Pauli",
+            "away": "Hamburg",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "HT/FT X/X",
+            "odd": "3.56",
             "date": "23.01.2026 19:30"
         }
     ]
