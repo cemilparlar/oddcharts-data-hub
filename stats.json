@@ -1,12 +1,22 @@
 {
-    "last_update": "24.01.2026 22:56",
+    "last_update": "24.01.2026 23:02",
     "highlights": {
-        "analyses": 520,
-        "won": 378,
-        "lose": 142,
-        "success_rate": "%72.69"
+        "analyses": 529,
+        "won": 385,
+        "lose": 144,
+        "success_rate": "%72.78"
     },
     "top_matches": [
+        {
+            "league": "FRA1",
+            "home": "Le Havre",
+            "away": "Monaco",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "HT/FT X/X",
+            "odd": "5.66",
+            "date": "24.01.2026 18:00"
+        },
         {
             "league": "GER3",
             "home": "Essen",
@@ -28,6 +38,16 @@
             "date": "24.01.2026 15:00"
         },
         {
+            "league": "FRA1",
+            "home": "Le Havre",
+            "away": "Monaco",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Match Result X",
+            "odd": "3.51",
+            "date": "24.01.2026 18:00"
+        },
+        {
             "league": "GER3",
             "home": "Essen",
             "away": "Havelse",
@@ -36,26 +56,6 @@
             "prediction": "Over 4.5 Goals",
             "odd": "3.43",
             "date": "24.01.2026 13:00"
-        },
-        {
-            "league": "GRE",
-            "home": "Asteras Tripol",
-            "away": "Aek",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 1",
-            "prediction": "Total Goals 0-1",
-            "odd": "3.38",
-            "date": "24.01.2026 17:30"
-        },
-        {
-            "league": "GRE",
-            "home": "Asteras Tripol",
-            "away": "Aek",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 1",
-            "prediction": "Under 1.5 Goals",
-            "odd": "3.29",
-            "date": "24.01.2026 17:30"
         }
     ]
 }
