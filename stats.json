@@ -1,10 +1,10 @@
 {
-    "last_update": "24.01.2026 19:48",
+    "last_update": "24.01.2026 20:05",
     "highlights": {
-        "analyses": 331,
-        "won": 240,
-        "lose": 91,
-        "success_rate": "%72.51"
+        "analyses": 357,
+        "won": 261,
+        "lose": 96,
+        "success_rate": "%73.11"
     },
     "top_matches": [
         {
@@ -16,6 +16,16 @@
             "prediction": "1st Half Over 2.5",
             "odd": "4.29",
             "date": "24.01.2026 13:00"
+        },
+        {
+            "league": "ENG1",
+            "home": "Fulham",
+            "away": "Brighton",
+            "iy_score": "0 - 1",
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.92",
+            "date": "24.01.2026 15:00"
         },
         {
             "league": "GER3",
@@ -46,16 +56,6 @@
             "prediction": "Match Result X",
             "odd": "3.05",
             "date": "24.01.2026 12:00"
-        },
-        {
-            "league": "MAR2",
-            "home": "Widad Temara",
-            "away": "Chabab",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (0:1) X",
-            "odd": "2.95",
-            "date": "24.01.2026 14:00"
         }
     ]
 }
