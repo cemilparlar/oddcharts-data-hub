@@ -1,10 +1,10 @@
 {
-    "last_update": "24.01.2026 23:57",
+    "last_update": "25.01.2026 00:04",
     "highlights": {
-        "analyses": 541,
-        "won": 396,
-        "lose": 145,
-        "success_rate": "%73.20"
+        "analyses": 560,
+        "won": 405,
+        "lose": 155,
+        "success_rate": "%72.32"
     },
     "top_matches": [
         {
@@ -38,6 +38,16 @@
             "date": "24.01.2026 15:00"
         },
         {
+            "league": "FRA2",
+            "home": "Reims",
+            "away": "St Etienne",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 1.5 Goals",
+            "odd": "3.54",
+            "date": "24.01.2026 19:00"
+        },
+        {
             "league": "FRA1",
             "home": "Le Havre",
             "away": "Monaco",
@@ -46,16 +56,6 @@
             "prediction": "Match Result X",
             "odd": "3.51",
             "date": "24.01.2026 18:00"
-        },
-        {
-            "league": "GER3",
-            "home": "Essen",
-            "away": "Havelse",
-            "iy_score": "2 - 1",
-            "ms_score": "4 - 1",
-            "prediction": "Over 4.5 Goals",
-            "odd": "3.43",
-            "date": "24.01.2026 13:00"
         }
     ]
 }
