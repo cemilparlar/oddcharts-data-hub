@@ -1,12 +1,22 @@
 {
-    "last_update": "25.01.2026 20:59",
+    "last_update": "25.01.2026 21:07",
     "highlights": {
-        "analyses": 431,
-        "won": 310,
-        "lose": 121,
-        "success_rate": "%71.93"
+        "analyses": 458,
+        "won": 330,
+        "lose": 128,
+        "success_rate": "%72.05"
     },
     "top_matches": [
+        {
+            "league": "NED",
+            "home": "Feyenoord",
+            "away": "Heracles",
+            "iy_score": "2 - 1",
+            "ms_score": "4 - 2",
+            "prediction": "1st Half Over 2.5",
+            "odd": "3.46",
+            "date": "25.01.2026 15:45"
+        },
         {
             "league": "SWE",
             "home": "Thun",
@@ -28,6 +38,16 @@
             "date": "25.01.2026 14:00"
         },
         {
+            "league": "NED",
+            "home": "Feyenoord",
+            "away": "Heracles",
+            "iy_score": "2 - 1",
+            "ms_score": "4 - 2",
+            "prediction": "Over 4.5 Goals",
+            "odd": "2.64",
+            "date": "25.01.2026 15:45"
+        },
+        {
             "league": "ITA2",
             "home": "Sudtirol",
             "away": "Padova",
@@ -36,26 +56,6 @@
             "prediction": "1st Half Result 1",
             "odd": "2.48",
             "date": "25.01.2026 14:00"
-        },
-        {
-            "league": "SCO PREM",
-            "home": "Real Sociedad",
-            "away": "Eibar (K)",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "Handicap (0:2) 1",
-            "odd": "2.43",
-            "date": "25.01.2026 11:00"
-        },
-        {
-            "league": " TANZ",
-            "home": "Tanzania Priso",
-            "away": "Jkt Tanzania",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Match Result X",
-            "odd": "2.36",
-            "date": "25.01.2026 13:00"
         }
     ]
 }
