@@ -1,10 +1,10 @@
 {
-    "last_update": "25.01.2026 14:58",
+    "last_update": "25.01.2026 15:10",
     "highlights": {
-        "analyses": 291,
-        "won": 208,
-        "lose": 83,
-        "success_rate": "%71.48"
+        "analyses": 245,
+        "won": 175,
+        "lose": 70,
+        "success_rate": "%71.43"
     },
     "top_matches": [
         {
@@ -16,16 +16,6 @@
             "prediction": "HT/FT X/X",
             "odd": "5.66",
             "date": "24.01.2026 18:00"
-        },
-        {
-            "league": "ENG1",
-            "home": "Fulham",
-            "away": "Brighton",
-            "iy_score": "0 - 1",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (0:1) X",
-            "odd": "3.92",
-            "date": "24.01.2026 15:00"
         },
         {
             "league": "FRA2",
@@ -56,6 +46,16 @@
             "prediction": "Total Goals 0-1",
             "odd": "3.50",
             "date": "24.01.2026 19:00"
+        },
+        {
+            "league": "GRE",
+            "home": "Asteras Tripol",
+            "away": "Aek",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 1",
+            "prediction": "Total Goals 0-1",
+            "odd": "3.38",
+            "date": "24.01.2026 17:30"
         }
     ]
 }
