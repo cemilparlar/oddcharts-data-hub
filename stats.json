@@ -1,10 +1,10 @@
 {
-    "last_update": "25.01.2026 18:22",
+    "last_update": "25.01.2026 18:43",
     "highlights": {
-        "analyses": 234,
-        "won": 172,
-        "lose": 62,
-        "success_rate": "%73.50"
+        "analyses": 302,
+        "won": 217,
+        "lose": 85,
+        "success_rate": "%71.85"
     },
     "top_matches": [
         {
@@ -28,6 +28,16 @@
             "date": "24.01.2026 19:00"
         },
         {
+            "league": "SWE",
+            "home": "Thun",
+            "away": "Young Boys",
+            "iy_score": "0 - 0",
+            "ms_score": "4 - 1",
+            "prediction": "Over 4.5 Goals",
+            "odd": "3.39",
+            "date": "25.01.2026 13:00"
+        },
+        {
             "league": "ESP2",
             "home": "Cadiz",
             "away": "Granada",
@@ -46,16 +56,6 @@
             "prediction": "1st Half Under 0.5",
             "odd": "2.80",
             "date": "24.01.2026 19:00"
-        },
-        {
-            "league": "SCO PREM",
-            "home": "Real Sociedad",
-            "away": "Eibar (K)",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "Handicap (0:2) 1",
-            "odd": "2.43",
-            "date": "25.01.2026 11:00"
         }
     ]
 }
