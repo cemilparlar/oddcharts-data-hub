@@ -1,10 +1,10 @@
 {
-    "last_update": "25.01.2026 17:24",
+    "last_update": "25.01.2026 17:36",
     "highlights": {
-        "analyses": 234,
-        "won": 177,
-        "lose": 57,
-        "success_rate": "%75.64"
+        "analyses": 203,
+        "won": 151,
+        "lose": 52,
+        "success_rate": "%74.38"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "24.01.2026 19:00"
         },
         {
-            "league": "GRE",
-            "home": "Asteras Tripol",
-            "away": "Aek",
+            "league": "ESP2",
+            "home": "Cadiz",
+            "away": "Granada",
             "iy_score": "0 - 1",
-            "ms_score": "0 - 1",
-            "prediction": "Total Goals 0-1",
-            "odd": "3.38",
-            "date": "24.01.2026 17:30"
+            "ms_score": "1 - 2",
+            "prediction": "1st Half Result 2",
+            "odd": "3.19",
+            "date": "24.01.2026 20:00"
         }
     ]
 }
