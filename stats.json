@@ -1,10 +1,10 @@
 {
-    "last_update": "26.01.2026 01:26",
+    "last_update": "26.01.2026 01:30",
     "highlights": {
-        "analyses": 577,
-        "won": 417,
-        "lose": 160,
-        "success_rate": "%72.27"
+        "analyses": 579,
+        "won": 418,
+        "lose": 161,
+        "success_rate": "%72.19"
     },
     "top_matches": [
         {
@@ -28,6 +28,16 @@
             "date": "25.01.2026 16:15"
         },
         {
+            "league": "ESP1",
+            "home": "Alaves",
+            "away": "Real Betis",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.83",
+            "date": "25.01.2026 20:00"
+        },
+        {
             "league": "NED",
             "home": "Feyenoord",
             "away": "Heracles",
@@ -46,16 +56,6 @@
             "prediction": "Over 4.5 Goals",
             "odd": "3.39",
             "date": "25.01.2026 13:00"
-        },
-        {
-            "league": "BEL",
-            "home": "Mechelen",
-            "away": "Westerlo",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "Match Result X",
-            "odd": "3.18",
-            "date": "25.01.2026 18:15"
         }
     ]
 }
