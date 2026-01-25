@@ -1,5 +1,5 @@
 {
-    "last_update": "25.01.2026 20:17",
+    "last_update": "25.01.2026 20:25",
     "highlights": {
         "analyses": 386,
         "won": 278,
@@ -16,6 +16,26 @@
             "prediction": "Over 4.5 Goals",
             "odd": "3.39",
             "date": "25.01.2026 13:00"
+        },
+        {
+            "league": "ITA2",
+            "home": "Sudtirol",
+            "away": "Padova",
+            "iy_score": "2 - 0",
+            "ms_score": "3 - 0",
+            "prediction": "HT/FT 1/1",
+            "odd": "2.86",
+            "date": "25.01.2026 14:00"
+        },
+        {
+            "league": "ITA2",
+            "home": "Sudtirol",
+            "away": "Padova",
+            "iy_score": "2 - 0",
+            "ms_score": "3 - 0",
+            "prediction": "1st Half Result 1",
+            "odd": "2.48",
+            "date": "25.01.2026 14:00"
         },
         {
             "league": "SCO PREM",
@@ -36,26 +56,6 @@
             "prediction": "Match Result X",
             "odd": "2.36",
             "date": "25.01.2026 13:00"
-        },
-        {
-            "league": "TUR1",
-            "home": "Sarıyer",
-            "away": "Çorum",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 2",
-            "prediction": "Match Result 2",
-            "odd": "2.35",
-            "date": "25.01.2026 10:30"
-        },
-        {
-            "league": "LBN",
-            "home": "Nejmeh",
-            "away": "Ansar",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Match Result X",
-            "odd": "2.35",
-            "date": "25.01.2026 12:15"
         }
     ]
 }
