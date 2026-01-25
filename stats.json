@@ -1,5 +1,5 @@
 {
-    "last_update": "25.01.2026 23:08",
+    "last_update": "25.01.2026 23:12",
     "highlights": {
         "analyses": 554,
         "won": 400,
@@ -7,6 +7,16 @@
         "success_rate": "%72.20"
     },
     "top_matches": [
+        {
+            "league": "BEL",
+            "home": "Mechelen",
+            "away": "Westerlo",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "HT/FT 2/X",
+            "odd": "13.05",
+            "date": "25.01.2026 18:15"
+        },
         {
             "league": "FRA1",
             "home": "Metz",
@@ -38,24 +48,14 @@
             "date": "25.01.2026 13:00"
         },
         {
-            "league": "ITA2",
-            "home": "Sudtirol",
-            "away": "Padova",
-            "iy_score": "2 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "HT/FT 1/1",
-            "odd": "2.86",
-            "date": "25.01.2026 14:00"
-        },
-        {
-            "league": "FRA1",
-            "home": "Metz",
-            "away": "Lyon",
-            "iy_score": "1 - 4",
-            "ms_score": "2 - 5",
-            "prediction": "Over 3.5 Goals",
-            "odd": "2.85",
-            "date": "25.01.2026 16:15"
+            "league": "BEL",
+            "home": "Mechelen",
+            "away": "Westerlo",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Match Result X",
+            "odd": "3.18",
+            "date": "25.01.2026 18:15"
         }
     ]
 }
