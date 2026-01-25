@@ -1,10 +1,10 @@
 {
-    "last_update": "25.01.2026 12:53",
+    "last_update": "25.01.2026 13:03",
     "highlights": {
-        "analyses": 466,
-        "won": 332,
-        "lose": 134,
-        "success_rate": "%71.24"
+        "analyses": 389,
+        "won": 278,
+        "lose": 111,
+        "success_rate": "%71.47"
     },
     "top_matches": [
         {
@@ -16,16 +16,6 @@
             "prediction": "HT/FT X/X",
             "odd": "5.66",
             "date": "24.01.2026 18:00"
-        },
-        {
-            "league": "GER3",
-            "home": "Essen",
-            "away": "Havelse",
-            "iy_score": "2 - 1",
-            "ms_score": "4 - 1",
-            "prediction": "1st Half Over 2.5",
-            "odd": "4.29",
-            "date": "24.01.2026 13:00"
         },
         {
             "league": "ENG1",
@@ -56,6 +46,16 @@
             "prediction": "Match Result X",
             "odd": "3.51",
             "date": "24.01.2026 18:00"
+        },
+        {
+            "league": "FRA2",
+            "home": "Reims",
+            "away": "St Etienne",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Total Goals 0-1",
+            "odd": "3.50",
+            "date": "24.01.2026 19:00"
         }
     ]
 }
