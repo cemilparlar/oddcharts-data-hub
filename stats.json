@@ -1,12 +1,22 @@
 {
-    "last_update": "27.01.2026 00:36",
+    "last_update": "27.01.2026 00:43",
     "highlights": {
-        "analyses": 136,
-        "won": 83,
+        "analyses": 142,
+        "won": 89,
         "lose": 53,
-        "success_rate": "%61.03"
+        "success_rate": "%62.68"
     },
     "top_matches": [
+        {
+            "league": "FRA2",
+            "home": "Le Mans",
+            "away": "Dunkerque",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 1.5 Goals",
+            "odd": "2.68",
+            "date": "26.01.2026 19:45"
+        },
         {
             "league": "TSL",
             "home": "Eyupspor",
@@ -16,6 +26,16 @@
             "prediction": "Total Goals 4-5",
             "odd": "2.66",
             "date": "26.01.2026 17:00"
+        },
+        {
+            "league": "FRA2",
+            "home": "Le Mans",
+            "away": "Dunkerque",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Total Goals 0-1",
+            "odd": "2.61",
+            "date": "26.01.2026 19:45"
         },
         {
             "league": "AUS",
@@ -36,26 +56,6 @@
             "prediction": "Over 3.5 Goals",
             "odd": "1.96",
             "date": "26.01.2026 17:00"
-        },
-        {
-            "league": "SIN",
-            "home": "Young Lions",
-            "away": "Tanjong Pagar",
-            "iy_score": "1 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "Handicap (1:0) 1",
-            "odd": "1.79",
-            "date": "26.01.2026 11:30"
-        },
-        {
-            "league": "SIN",
-            "home": "Young Lions",
-            "away": "Tanjong Pagar",
-            "iy_score": "1 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "Double Chance 1X",
-            "odd": "1.75",
-            "date": "26.01.2026 11:30"
         }
     ]
 }
