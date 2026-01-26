@@ -1,10 +1,10 @@
 {
-    "last_update": "26.01.2026 15:43",
+    "last_update": "26.01.2026 15:48",
     "highlights": {
-        "analyses": 206,
-        "won": 143,
-        "lose": 63,
-        "success_rate": "%69.42"
+        "analyses": 193,
+        "won": 136,
+        "lose": 57,
+        "success_rate": "%70.47"
     },
     "top_matches": [
         {
@@ -38,16 +38,6 @@
             "date": "25.01.2026 20:00"
         },
         {
-            "league": "NED",
-            "home": "Feyenoord",
-            "away": "Heracles",
-            "iy_score": "2 - 1",
-            "ms_score": "4 - 2",
-            "prediction": "1st Half Over 2.5",
-            "odd": "3.46",
-            "date": "25.01.2026 15:45"
-        },
-        {
             "league": "BEL",
             "home": "Mechelen",
             "away": "Westerlo",
@@ -56,6 +46,16 @@
             "prediction": "Match Result X",
             "odd": "3.18",
             "date": "25.01.2026 18:15"
+        },
+        {
+            "league": "FRA1",
+            "home": "Metz",
+            "away": "Lyon",
+            "iy_score": "1 - 4",
+            "ms_score": "2 - 5",
+            "prediction": "Over 3.5 Goals",
+            "odd": "2.85",
+            "date": "25.01.2026 16:15"
         }
     ]
 }
