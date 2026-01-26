@@ -1,10 +1,10 @@
 {
-    "last_update": "26.01.2026 20:17",
+    "last_update": "26.01.2026 20:38",
     "highlights": {
-        "analyses": 56,
-        "won": 33,
-        "lose": 23,
-        "success_rate": "%58.93"
+        "analyses": 79,
+        "won": 49,
+        "lose": 30,
+        "success_rate": "%62.03"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "26.01.2026 13:00"
         },
         {
-            "league": "POR1",
-            "home": "Braga",
-            "away": "Alverca",
-            "iy_score": "4 - 0",
-            "ms_score": "5 - 0",
-            "prediction": "Both Teams to Score - No",
-            "odd": "1.55",
-            "date": "25.01.2026 20:30"
+            "league": "ENG PDL",
+            "home": "Crewe Alexandr",
+            "away": "Hull City U21",
+            "iy_score": "1 - 1",
+            "ms_score": "3 - 2",
+            "prediction": "Over 3.5 Goals",
+            "odd": "1.54",
+            "date": "26.01.2026 13:00"
         }
     ]
 }
