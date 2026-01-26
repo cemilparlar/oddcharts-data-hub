@@ -1,5 +1,5 @@
 {
-    "last_update": "26.01.2026 19:55",
+    "last_update": "26.01.2026 20:00",
     "highlights": {
         "analyses": 56,
         "won": 33,
@@ -7,26 +7,6 @@
         "success_rate": "%58.93"
     },
     "top_matches": [
-        {
-            "league": "ESP1",
-            "home": "Alaves",
-            "away": "Real Betis",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (0:1) X",
-            "odd": "3.83",
-            "date": "25.01.2026 20:00"
-        },
-        {
-            "league": "ESP1",
-            "home": "Alaves",
-            "away": "Real Betis",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Match Result 1",
-            "odd": "2.49",
-            "date": "25.01.2026 20:00"
-        },
         {
             "league": "AUS",
             "home": "Melbourne Vict",
@@ -56,6 +36,26 @@
             "prediction": "Double Chance 1X",
             "odd": "1.75",
             "date": "26.01.2026 11:30"
+        },
+        {
+            "league": "ENG PDL",
+            "home": "Crewe Alexandr",
+            "away": "Hull City U21",
+            "iy_score": "1 - 1",
+            "ms_score": "3 - 2",
+            "prediction": "1st Half Over 1.5",
+            "odd": "1.61",
+            "date": "26.01.2026 13:00"
+        },
+        {
+            "league": "POR1",
+            "home": "Braga",
+            "away": "Alverca",
+            "iy_score": "4 - 0",
+            "ms_score": "5 - 0",
+            "prediction": "Both Teams to Score - No",
+            "odd": "1.55",
+            "date": "25.01.2026 20:30"
         }
     ]
 }
