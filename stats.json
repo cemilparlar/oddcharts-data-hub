@@ -1,12 +1,22 @@
 {
-    "last_update": "26.01.2026 23:31",
+    "last_update": "26.01.2026 23:45",
     "highlights": {
-        "analyses": 80,
-        "won": 47,
-        "lose": 33,
-        "success_rate": "%58.75"
+        "analyses": 89,
+        "won": 54,
+        "lose": 35,
+        "success_rate": "%60.67"
     },
     "top_matches": [
+        {
+            "league": "TSL",
+            "home": "Eyupspor",
+            "away": "Besiktas",
+            "iy_score": "0 - 1",
+            "ms_score": "2 - 2",
+            "prediction": "Total Goals 4-5",
+            "odd": "2.66",
+            "date": "26.01.2026 17:00"
+        },
         {
             "league": "AUS",
             "home": "Melbourne Vict",
@@ -16,6 +26,16 @@
             "prediction": "Both Teams to Score - No",
             "odd": "2.08",
             "date": "26.01.2026 06:40"
+        },
+        {
+            "league": "TSL",
+            "home": "Eyupspor",
+            "away": "Besiktas",
+            "iy_score": "0 - 1",
+            "ms_score": "2 - 2",
+            "prediction": "Over 3.5 Goals",
+            "odd": "1.96",
+            "date": "26.01.2026 17:00"
         },
         {
             "league": "SIN",
@@ -36,26 +56,6 @@
             "prediction": "Double Chance 1X",
             "odd": "1.75",
             "date": "26.01.2026 11:30"
-        },
-        {
-            "league": "TUR1",
-            "home": "Sakaryaspor",
-            "away": "Bodrum Fk",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 2",
-            "prediction": "Match Result 2",
-            "odd": "1.66",
-            "date": "26.01.2026 17:00"
-        },
-        {
-            "league": "ENG PDL",
-            "home": "Crewe Alexandr",
-            "away": "Hull City U21",
-            "iy_score": "1 - 1",
-            "ms_score": "3 - 2",
-            "prediction": "1st Half Over 1.5",
-            "odd": "1.61",
-            "date": "26.01.2026 13:00"
         }
     ]
 }
