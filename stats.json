@@ -1,10 +1,10 @@
 {
-    "last_update": "27.01.2026 00:53",
+    "last_update": "27.01.2026 01:02",
     "highlights": {
-        "analyses": 147,
-        "won": 93,
-        "lose": 54,
-        "success_rate": "%63.27"
+        "analyses": 160,
+        "won": 104,
+        "lose": 56,
+        "success_rate": "%65.00"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "26.01.2026 06:40"
         },
         {
-            "league": "TSL",
-            "home": "Eyupspor",
-            "away": "Besiktas",
-            "iy_score": "0 - 1",
-            "ms_score": "2 - 2",
-            "prediction": "Over 3.5 Goals",
-            "odd": "1.96",
-            "date": "26.01.2026 17:00"
+            "league": "ESP1",
+            "home": "Girona",
+            "away": "Getafe",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "1st Half Under 0.5",
+            "odd": "1.97",
+            "date": "26.01.2026 20:00"
         }
     ]
 }
