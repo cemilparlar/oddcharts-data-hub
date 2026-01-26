@@ -1,10 +1,10 @@
 {
-    "last_update": "26.01.2026 12:58",
+    "last_update": "26.01.2026 13:01",
     "highlights": {
-        "analyses": 446,
-        "won": 309,
-        "lose": 137,
-        "success_rate": "%69.28"
+        "analyses": 382,
+        "won": 270,
+        "lose": 112,
+        "success_rate": "%70.68"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "25.01.2026 15:45"
         },
         {
-            "league": "SWE",
-            "home": "Thun",
-            "away": "Young Boys",
-            "iy_score": "0 - 0",
-            "ms_score": "4 - 1",
-            "prediction": "Over 4.5 Goals",
-            "odd": "3.39",
-            "date": "25.01.2026 13:00"
+            "league": "BEL",
+            "home": "Mechelen",
+            "away": "Westerlo",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Match Result X",
+            "odd": "3.18",
+            "date": "25.01.2026 18:15"
         }
     ]
 }
