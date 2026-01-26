@@ -1,10 +1,10 @@
 {
-    "last_update": "26.01.2026 16:56",
+    "last_update": "26.01.2026 17:00",
     "highlights": {
-        "analyses": 114,
-        "won": 77,
-        "lose": 37,
-        "success_rate": "%67.54"
+        "analyses": 104,
+        "won": 70,
+        "lose": 34,
+        "success_rate": "%67.31"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "25.01.2026 18:15"
         },
         {
-            "league": "ITA1",
-            "home": "Juventus",
-            "away": "Napoli",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "HT/FT 1/1",
-            "odd": "2.73",
-            "date": "25.01.2026 17:00"
+            "league": " CAFKK",
+            "home": "Wydad Casablan",
+            "away": "Maniema Union",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "1st Half Under 0.5",
+            "odd": "2.50",
+            "date": "25.01.2026 19:00"
         }
     ]
 }
