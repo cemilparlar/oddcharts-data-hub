@@ -1,22 +1,12 @@
 {
-    "last_update": "26.01.2026 17:52",
+    "last_update": "26.01.2026 18:24",
     "highlights": {
-        "analyses": 70,
-        "won": 42,
-        "lose": 28,
-        "success_rate": "%60.00"
+        "analyses": 64,
+        "won": 40,
+        "lose": 24,
+        "success_rate": "%62.50"
     },
     "top_matches": [
-        {
-            "league": "BEL",
-            "home": "Mechelen",
-            "away": "Westerlo",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "HT/FT 2/X",
-            "odd": "13.05",
-            "date": "25.01.2026 18:15"
-        },
         {
             "league": "ESP1",
             "home": "Alaves",
@@ -28,26 +18,6 @@
             "date": "25.01.2026 20:00"
         },
         {
-            "league": "BEL",
-            "home": "Mechelen",
-            "away": "Westerlo",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "Match Result X",
-            "odd": "3.18",
-            "date": "25.01.2026 18:15"
-        },
-        {
-            "league": "BEL",
-            "home": "Mechelen",
-            "away": "Westerlo",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "1st Half Result 2",
-            "odd": "2.78",
-            "date": "25.01.2026 18:15"
-        },
-        {
             "league": "CAF CONF",
             "home": "Wydad Casablan",
             "away": "Maniema Union",
@@ -56,6 +26,36 @@
             "prediction": "1st Half Under 0.5",
             "odd": "2.50",
             "date": "25.01.2026 19:00"
+        },
+        {
+            "league": "ESP1",
+            "home": "Alaves",
+            "away": "Real Betis",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Match Result 1",
+            "odd": "2.49",
+            "date": "25.01.2026 20:00"
+        },
+        {
+            "league": "CAF CONF",
+            "home": "Wydad Casablan",
+            "away": "Maniema Union",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "1st Half Result X",
+            "odd": "2.21",
+            "date": "25.01.2026 19:00"
+        },
+        {
+            "league": "AUS",
+            "home": "Melbourne Vict",
+            "away": "Sydney",
+            "iy_score": "0 - 0",
+            "ms_score": "4 - 0",
+            "prediction": "Both Teams to Score - No",
+            "odd": "2.08",
+            "date": "26.01.2026 06:40"
         }
     ]
 }
