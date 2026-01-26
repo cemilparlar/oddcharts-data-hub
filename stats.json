@@ -1,10 +1,10 @@
 {
-    "last_update": "26.01.2026 18:57",
+    "last_update": "26.01.2026 19:06",
     "highlights": {
-        "analyses": 80,
-        "won": 51,
-        "lose": 29,
-        "success_rate": "%63.75"
+        "analyses": 74,
+        "won": 47,
+        "lose": 27,
+        "success_rate": "%63.51"
     },
     "top_matches": [
         {
@@ -18,16 +18,6 @@
             "date": "25.01.2026 20:00"
         },
         {
-            "league": "CAF CONF",
-            "home": "Wydad Casablan",
-            "away": "Maniema Union",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "1st Half Under 0.5",
-            "odd": "2.50",
-            "date": "25.01.2026 19:00"
-        },
-        {
             "league": "ESP1",
             "home": "Alaves",
             "away": "Real Betis",
@@ -38,16 +28,6 @@
             "date": "25.01.2026 20:00"
         },
         {
-            "league": "CAF CONF",
-            "home": "Wydad Casablan",
-            "away": "Maniema Union",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "1st Half Result X",
-            "odd": "2.21",
-            "date": "25.01.2026 19:00"
-        },
-        {
             "league": "AUS",
             "home": "Melbourne Vict",
             "away": "Sydney",
@@ -56,6 +36,26 @@
             "prediction": "Both Teams to Score - No",
             "odd": "2.08",
             "date": "26.01.2026 06:40"
+        },
+        {
+            "league": "SIN",
+            "home": "Young Lions",
+            "away": "Tanjong Pagar",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Handicap (1:0) 1",
+            "odd": "1.79",
+            "date": "26.01.2026 11:30"
+        },
+        {
+            "league": "SIN",
+            "home": "Young Lions",
+            "away": "Tanjong Pagar",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Double Chance 1X",
+            "odd": "1.75",
+            "date": "26.01.2026 11:30"
         }
     ]
 }
