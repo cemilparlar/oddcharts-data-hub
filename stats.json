@@ -1,32 +1,12 @@
 {
-    "last_update": "27.01.2026 19:43",
+    "last_update": "27.01.2026 19:47",
     "highlights": {
-        "analyses": 82,
-        "won": 65,
-        "lose": 17,
-        "success_rate": "%79.27"
+        "analyses": 71,
+        "won": 55,
+        "lose": 16,
+        "success_rate": "%77.46"
     },
     "top_matches": [
-        {
-            "league": "FRA2",
-            "home": "Le Mans",
-            "away": "Dunkerque",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Under 1.5 Goals",
-            "odd": "2.68",
-            "date": "26.01.2026 19:45"
-        },
-        {
-            "league": "FRA2",
-            "home": "Le Mans",
-            "away": "Dunkerque",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Total Goals 0-1",
-            "odd": "2.61",
-            "date": "26.01.2026 19:45"
-        },
         {
             "league": "IRN2",
             "home": "Naft Gachsaran",
@@ -56,6 +36,26 @@
             "prediction": "Under 1.5 Goals",
             "odd": "2.09",
             "date": "27.01.2026 14:30"
+        },
+        {
+            "league": "IRN2",
+            "home": "Naft Gachsaran",
+            "away": "Fard Alborz",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.99",
+            "date": "27.01.2026 10:30"
+        },
+        {
+            "league": "ESP1",
+            "home": "Girona",
+            "away": "Getafe",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "1st Half Under 0.5",
+            "odd": "1.97",
+            "date": "26.01.2026 20:00"
         }
     ]
 }
