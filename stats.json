@@ -1,10 +1,10 @@
 {
-    "last_update": "27.01.2026 18:04",
+    "last_update": "27.01.2026 18:11",
     "highlights": {
-        "analyses": 104,
-        "won": 75,
-        "lose": 29,
-        "success_rate": "%72.12"
+        "analyses": 119,
+        "won": 88,
+        "lose": 31,
+        "success_rate": "%73.95"
     },
     "top_matches": [
         {
@@ -28,34 +28,34 @@
             "date": "26.01.2026 19:45"
         },
         {
-            "league": "ESP1",
-            "home": "Girona",
-            "away": "Getafe",
+            "league": "IRN2",
+            "home": "Naft Gachsaran",
+            "away": "Fard Alborz",
             "iy_score": "0 - 0",
             "ms_score": "1 - 1",
-            "prediction": "1st Half Under 0.5",
-            "odd": "1.97",
-            "date": "26.01.2026 20:00"
+            "prediction": "Both Teams to Score - Yes",
+            "odd": "2.57",
+            "date": "27.01.2026 10:30"
         },
         {
-            "league": "TUN",
-            "home": "Es Tunis",
-            "away": "Kairouan",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Handicap (0:2) 2",
-            "odd": "1.88",
-            "date": "27.01.2026 13:00"
+            "league": "IRN2",
+            "home": "Naft Gachsaran",
+            "away": "Fard Alborz",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "Match Result X",
+            "odd": "2.31",
+            "date": "27.01.2026 10:30"
         },
         {
-            "league": "ENG PL2",
-            "home": "Southampton (B",
-            "away": "West Brom (B)",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 0",
-            "prediction": "Handicap (0:1) 1",
-            "odd": "1.74",
-            "date": "26.01.2026 19:00"
+            "league": "IRN2",
+            "home": "Naft Gachsaran",
+            "away": "Fard Alborz",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.99",
+            "date": "27.01.2026 10:30"
         }
     ]
 }
