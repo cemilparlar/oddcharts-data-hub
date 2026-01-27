@@ -1,10 +1,10 @@
 {
-    "last_update": "27.01.2026 17:56",
+    "last_update": "27.01.2026 18:04",
     "highlights": {
-        "analyses": 101,
-        "won": 73,
-        "lose": 28,
-        "success_rate": "%72.28"
+        "analyses": 104,
+        "won": 75,
+        "lose": 29,
+        "success_rate": "%72.12"
     },
     "top_matches": [
         {
@@ -38,6 +38,16 @@
             "date": "26.01.2026 20:00"
         },
         {
+            "league": "TUN",
+            "home": "Es Tunis",
+            "away": "Kairouan",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Handicap (0:2) 2",
+            "odd": "1.88",
+            "date": "27.01.2026 13:00"
+        },
+        {
             "league": "ENG PL2",
             "home": "Southampton (B",
             "away": "West Brom (B)",
@@ -46,16 +56,6 @@
             "prediction": "Handicap (0:1) 1",
             "odd": "1.74",
             "date": "26.01.2026 19:00"
-        },
-        {
-            "league": "ENG PDL",
-            "home": "Fleetwood Town",
-            "away": "Peterborough Un",
-            "iy_score": "2 - 1",
-            "ms_score": "3 - 1",
-            "prediction": "Handicap (1:0) 1",
-            "odd": "1.70",
-            "date": "27.01.2026 12:00"
         }
     ]
 }
