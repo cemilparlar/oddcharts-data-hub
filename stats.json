@@ -1,10 +1,10 @@
 {
-    "last_update": "27.01.2026 19:28",
+    "last_update": "27.01.2026 19:33",
     "highlights": {
-        "analyses": 93,
-        "won": 71,
-        "lose": 22,
-        "success_rate": "%76.34"
+        "analyses": 82,
+        "won": 65,
+        "lose": 17,
+        "success_rate": "%79.27"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "27.01.2026 10:30"
         },
         {
-            "league": "IRN2",
-            "home": "Naft Gachsaran",
-            "away": "Fard Alborz",
+            "league": "IRQ",
+            "home": "Newroz",
+            "away": "Al Karma",
             "iy_score": "0 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.99",
-            "date": "27.01.2026 10:30"
+            "ms_score": "0 - 1",
+            "prediction": "Under 1.5 Goals",
+            "odd": "2.09",
+            "date": "27.01.2026 14:30"
         }
     ]
 }
