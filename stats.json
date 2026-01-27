@@ -1,10 +1,10 @@
 {
-    "last_update": "27.01.2026 16:54",
+    "last_update": "27.01.2026 17:00",
     "highlights": {
-        "analyses": 85,
-        "won": 59,
-        "lose": 26,
-        "success_rate": "%69.41"
+        "analyses": 95,
+        "won": 68,
+        "lose": 27,
+        "success_rate": "%71.58"
     },
     "top_matches": [
         {
@@ -16,16 +16,6 @@
             "prediction": "Under 1.5 Goals",
             "odd": "2.68",
             "date": "26.01.2026 19:45"
-        },
-        {
-            "league": "TSL",
-            "home": "Eyupspor",
-            "away": "Besiktas",
-            "iy_score": "0 - 1",
-            "ms_score": "2 - 2",
-            "prediction": "Total Goals 4-5",
-            "odd": "2.66",
-            "date": "26.01.2026 17:00"
         },
         {
             "league": "FRA2",
@@ -48,14 +38,24 @@
             "date": "26.01.2026 20:00"
         },
         {
-            "league": "TSL",
-            "home": "Eyupspor",
-            "away": "Besiktas",
-            "iy_score": "0 - 1",
-            "ms_score": "2 - 2",
-            "prediction": "Over 3.5 Goals",
-            "odd": "1.96",
-            "date": "26.01.2026 17:00"
+            "league": "ENG PL2",
+            "home": "Southampton (B",
+            "away": "West Brom (B)",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 0",
+            "prediction": "Handicap (0:1) 1",
+            "odd": "1.74",
+            "date": "26.01.2026 19:00"
+        },
+        {
+            "league": "ENG PDL",
+            "home": "Fleetwood Town",
+            "away": "Peterborough Un",
+            "iy_score": "2 - 1",
+            "ms_score": "3 - 1",
+            "prediction": "Handicap (1:0) 1",
+            "odd": "1.70",
+            "date": "27.01.2026 12:00"
         }
     ]
 }
