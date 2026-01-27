@@ -1,12 +1,22 @@
 {
-    "last_update": "28.01.2026 00:24",
+    "last_update": "28.01.2026 00:32",
     "highlights": {
-        "analyses": 116,
-        "won": 80,
-        "lose": 36,
-        "success_rate": "%68.97"
+        "analyses": 129,
+        "won": 92,
+        "lose": 37,
+        "success_rate": "%71.32"
     },
     "top_matches": [
+        {
+            "league": "GER1",
+            "home": "Werder Bremen",
+            "away": "Hoffenheim",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 2",
+            "prediction": "Handicap (1:0) 2",
+            "odd": "3.01",
+            "date": "27.01.2026 19:30"
+        },
         {
             "league": "IRN2",
             "home": "Naft Gachsaran",
@@ -46,16 +56,6 @@
             "prediction": "Total Goals 2-3",
             "odd": "1.99",
             "date": "27.01.2026 10:30"
-        },
-        {
-            "league": "TUN",
-            "home": "Es Tunis",
-            "away": "Kairouan",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Handicap (0:2) 2",
-            "odd": "1.88",
-            "date": "27.01.2026 13:00"
         }
     ]
 }
