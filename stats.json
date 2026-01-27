@@ -1,10 +1,10 @@
 {
-    "last_update": "27.01.2026 06:36",
+    "last_update": "27.01.2026 06:48",
     "highlights": {
-        "analyses": 160,
-        "won": 104,
-        "lose": 56,
-        "success_rate": "%65.00"
+        "analyses": 152,
+        "won": 102,
+        "lose": 50,
+        "success_rate": "%67.11"
     },
     "top_matches": [
         {
@@ -38,16 +38,6 @@
             "date": "26.01.2026 19:45"
         },
         {
-            "league": "AUS",
-            "home": "Melbourne Vict",
-            "away": "Sydney",
-            "iy_score": "0 - 0",
-            "ms_score": "4 - 0",
-            "prediction": "Both Teams to Score - No",
-            "odd": "2.08",
-            "date": "26.01.2026 06:40"
-        },
-        {
             "league": "ESP1",
             "home": "Girona",
             "away": "Getafe",
@@ -56,6 +46,16 @@
             "prediction": "1st Half Under 0.5",
             "odd": "1.97",
             "date": "26.01.2026 20:00"
+        },
+        {
+            "league": "TSL",
+            "home": "Eyupspor",
+            "away": "Besiktas",
+            "iy_score": "0 - 1",
+            "ms_score": "2 - 2",
+            "prediction": "Over 3.5 Goals",
+            "odd": "1.96",
+            "date": "26.01.2026 17:00"
         }
     ]
 }
