@@ -1,10 +1,10 @@
 {
-    "last_update": "27.01.2026 19:55",
+    "last_update": "27.01.2026 20:00",
     "highlights": {
-        "analyses": 71,
-        "won": 55,
-        "lose": 16,
-        "success_rate": "%77.46"
+        "analyses": 61,
+        "won": 46,
+        "lose": 15,
+        "success_rate": "%75.41"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "27.01.2026 10:30"
         },
         {
-            "league": "ESP1",
-            "home": "Girona",
-            "away": "Getafe",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "1st Half Under 0.5",
-            "odd": "1.97",
-            "date": "26.01.2026 20:00"
+            "league": "TUN",
+            "home": "Es Tunis",
+            "away": "Kairouan",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Handicap (0:2) 2",
+            "odd": "1.88",
+            "date": "27.01.2026 13:00"
         }
     ]
 }
