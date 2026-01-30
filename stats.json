@@ -1,10 +1,10 @@
 {
-    "last_update": "30.01.2026 17:56",
+    "last_update": "30.01.2026 18:00",
     "highlights": {
-        "analyses": 73,
-        "won": 53,
-        "lose": 20,
-        "success_rate": "%72.60"
+        "analyses": 76,
+        "won": 55,
+        "lose": 21,
+        "success_rate": "%72.37"
     },
     "top_matches": [
         {
@@ -38,6 +38,16 @@
             "date": "29.01.2026 20:00"
         },
         {
+            "league": "UGA",
+            "home": "Updf",
+            "away": "Bul",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 1",
+            "prediction": "Match Result 2",
+            "odd": "2.04",
+            "date": "30.01.2026 13:00"
+        },
+        {
             "league": "UEL",
             "home": "Ludogorets",
             "away": "Nice",
@@ -45,16 +55,6 @@
             "ms_score": "1 - 0",
             "prediction": "1st Half Result 1",
             "odd": "2.01",
-            "date": "29.01.2026 20:00"
-        },
-        {
-            "league": "UEL",
-            "home": "Sturm Graz",
-            "away": "Brann",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "1st Half Result X",
-            "odd": "1.92",
             "date": "29.01.2026 20:00"
         }
     ]
