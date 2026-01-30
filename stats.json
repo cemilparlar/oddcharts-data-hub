@@ -1,5 +1,5 @@
 {
-    "last_update": "30.01.2026 17:32",
+    "last_update": "30.01.2026 17:36",
     "highlights": {
         "analyses": 72,
         "won": 53,
@@ -7,6 +7,16 @@
         "success_rate": "%73.61"
     },
     "top_matches": [
+        {
+            "league": "EGY2",
+            "home": "Aswan Fc",
+            "away": "Telecom Egypt",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 1",
+            "prediction": "Match Result 2",
+            "odd": "2.71",
+            "date": "30.01.2026 12:30"
+        },
         {
             "league": "UEL",
             "home": "Nottingham Forest",
@@ -45,16 +55,6 @@
             "ms_score": "1 - 0",
             "prediction": "1st Half Result X",
             "odd": "1.92",
-            "date": "29.01.2026 20:00"
-        },
-        {
-            "league": "UEL",
-            "home": "Genk",
-            "away": "Malmo",
-            "iy_score": "1 - 1",
-            "ms_score": "2 - 1",
-            "prediction": "1st Half Double Chance X2",
-            "odd": "1.89",
             "date": "29.01.2026 20:00"
         }
     ]
