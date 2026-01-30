@@ -1,12 +1,32 @@
 {
-    "last_update": "31.01.2026 00:12",
+    "last_update": "31.01.2026 00:27",
     "highlights": {
-        "analyses": 145,
-        "won": 100,
-        "lose": 45,
-        "success_rate": "%68.97"
+        "analyses": 226,
+        "won": 155,
+        "lose": 71,
+        "success_rate": "%68.58"
     },
     "top_matches": [
+        {
+            "league": "FRA2",
+            "home": "Rodez Aveyron",
+            "away": "Red Star Paris",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "HT/FT X/X",
+            "odd": "4.62",
+            "date": "30.01.2026 19:00"
+        },
+        {
+            "league": "FRA2",
+            "home": "Rodez Aveyron",
+            "away": "Red Star Paris",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Match Result X",
+            "odd": "3.05",
+            "date": "30.01.2026 19:00"
+        },
         {
             "league": "EGY2",
             "home": "Aswan Fc",
@@ -36,26 +56,6 @@
             "prediction": "Over 3.5 Goals",
             "odd": "2.34",
             "date": "30.01.2026 15:00"
-        },
-        {
-            "league": "UGA",
-            "home": "Updf",
-            "away": "Bul",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 1",
-            "prediction": "Match Result 2",
-            "odd": "2.04",
-            "date": "30.01.2026 13:00"
-        },
-        {
-            "league": "TSL",
-            "home": "Kasimpasa",
-            "away": "Samsunspor",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "1st Half Result X",
-            "odd": "1.88",
-            "date": "30.01.2026 17:00"
         }
     ]
 }
