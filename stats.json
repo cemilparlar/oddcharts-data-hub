@@ -1,10 +1,61 @@
 {
-    "last_update": "30.01.2026 13:43",
+    "last_update": "30.01.2026 14:05",
     "highlights": {
-        "analyses": 0,
-        "won": 0,
-        "lose": 0,
-        "success_rate": "%0"
+        "analyses": 19,
+        "won": 17,
+        "lose": 2,
+        "success_rate": "%89.47"
     },
-    "top_matches": []
+    "top_matches": [
+        {
+            "league": "EGY",
+            "home": "Enppi",
+            "away": "Smouha",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "Both Teams to Score - Yes",
+            "odd": "2.21",
+            "date": "29.01.2026 15:00"
+        },
+        {
+            "league": "EGY",
+            "home": "Enppi",
+            "away": "Smouha",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.87",
+            "date": "29.01.2026 15:00"
+        },
+        {
+            "league": "EGY",
+            "home": "Enppi",
+            "away": "Smouha",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "1st Half Over 0.5",
+            "odd": "1.53",
+            "date": "29.01.2026 15:00"
+        },
+        {
+            "league": "EGY",
+            "home": "Enppi",
+            "away": "Smouha",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "Over 1.5 Goals",
+            "odd": "1.52",
+            "date": "29.01.2026 15:00"
+        },
+        {
+            "league": "KSA",
+            "home": "Al Fateh",
+            "away": "Al Ittihad (Cid",
+            "iy_score": "0 - 1",
+            "ms_score": "2 - 2",
+            "prediction": "1st Half Under 1.5",
+            "odd": "1.39",
+            "date": "29.01.2026 15:00"
+        }
+    ]
 }
