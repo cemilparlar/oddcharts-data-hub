@@ -1,10 +1,10 @@
 {
-    "last_update": "30.01.2026 19:48",
+    "last_update": "30.01.2026 20:02",
     "highlights": {
-        "analyses": 95,
-        "won": 68,
-        "lose": 27,
-        "success_rate": "%71.58"
+        "analyses": 63,
+        "won": 46,
+        "lose": 17,
+        "success_rate": "%73.02"
     },
     "top_matches": [
         {
@@ -18,24 +18,14 @@
             "date": "30.01.2026 12:30"
         },
         {
-            "league": "UEL",
-            "home": "Nottingham Forest",
-            "away": "Ferencvaros",
-            "iy_score": "2 - 0",
-            "ms_score": "4 - 0",
-            "prediction": "1st Half Over 1.5",
-            "odd": "2.55",
-            "date": "29.01.2026 20:00"
-        },
-        {
-            "league": "UEL",
-            "home": "Ludogorets",
-            "away": "Nice",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "HT/FT 1/1",
-            "odd": "2.23",
-            "date": "29.01.2026 20:00"
+            "league": "ROU",
+            "home": "Cfr Cluj",
+            "away": "Metaloglobus",
+            "iy_score": "1 - 1",
+            "ms_score": "4 - 2",
+            "prediction": "Over 3.5 Goals",
+            "odd": "2.34",
+            "date": "30.01.2026 15:00"
         },
         {
             "league": "UGA",
@@ -48,14 +38,24 @@
             "date": "30.01.2026 13:00"
         },
         {
-            "league": "UEL",
-            "home": "Ludogorets",
-            "away": "Nice",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "1st Half Result 1",
-            "odd": "2.01",
-            "date": "29.01.2026 20:00"
+            "league": "EGY",
+            "home": "Pharco",
+            "away": "Zed",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 2",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.85",
+            "date": "30.01.2026 15:00"
+        },
+        {
+            "league": "EGY2",
+            "home": "Aswan Fc",
+            "away": "Telecom Egypt",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 1",
+            "prediction": "Under 1.5 Goals",
+            "odd": "1.79",
+            "date": "30.01.2026 12:30"
         }
     ]
 }
