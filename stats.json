@@ -1,61 +1,10 @@
 {
-    "last_update": "28.01.2026 07:41",
+    "last_update": "30.01.2026 10:19",
     "highlights": {
-        "analyses": 289,
-        "won": 213,
-        "lose": 76,
-        "success_rate": "%73.70"
+        "analyses": 0,
+        "won": 0,
+        "lose": 0,
+        "success_rate": "%0"
     },
-    "top_matches": [
-        {
-            "league": "GER1",
-            "home": "Werder Bremen",
-            "away": "Hoffenheim",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 2",
-            "prediction": "Handicap (1:0) 2",
-            "odd": "3.01",
-            "date": "27.01.2026 19:30"
-        },
-        {
-            "league": "IRN2",
-            "home": "Naft Gachsaran",
-            "away": "Fard Alborz",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "Both Teams to Score - Yes",
-            "odd": "2.57",
-            "date": "27.01.2026 10:30"
-        },
-        {
-            "league": "IRN2",
-            "home": "Naft Gachsaran",
-            "away": "Fard Alborz",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "Match Result X",
-            "odd": "2.31",
-            "date": "27.01.2026 10:30"
-        },
-        {
-            "league": "IRQ",
-            "home": "Newroz",
-            "away": "Al Karma",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "Under 1.5 Goals",
-            "odd": "2.09",
-            "date": "27.01.2026 14:30"
-        },
-        {
-            "league": "IRN2",
-            "home": "Naft Gachsaran",
-            "away": "Fard Alborz",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.99",
-            "date": "27.01.2026 10:30"
-        }
-    ]
+    "top_matches": []
 }
