@@ -1,10 +1,10 @@
 {
-    "last_update": "31.01.2026 12:28",
+    "last_update": "31.01.2026 12:32",
     "highlights": {
-        "analyses": 269,
-        "won": 185,
-        "lose": 84,
-        "success_rate": "%68.77"
+        "analyses": 263,
+        "won": 181,
+        "lose": 82,
+        "success_rate": "%68.82"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "30.01.2026 19:00"
         },
         {
-            "league": "EGY2",
-            "home": "Aswan Fc",
-            "away": "Telecom Egypt",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 1",
-            "prediction": "Match Result 2",
-            "odd": "2.71",
-            "date": "30.01.2026 12:30"
+            "league": "AUS",
+            "home": "Newcastle Jet",
+            "away": "Brisbane Roar",
+            "iy_score": "1 - 0",
+            "ms_score": "4 - 1",
+            "prediction": "Handicap (0:1) 1",
+            "odd": "2.70",
+            "date": "31.01.2026 06:00"
         }
     ]
 }
