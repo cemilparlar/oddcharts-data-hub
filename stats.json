@@ -1,10 +1,10 @@
 {
-    "last_update": "31.01.2026 19:28",
+    "last_update": "31.01.2026 19:46",
     "highlights": {
-        "analyses": 367,
-        "won": 248,
-        "lose": 119,
-        "success_rate": "%67.57"
+        "analyses": 346,
+        "won": 237,
+        "lose": 109,
+        "success_rate": "%68.50"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "30.01.2026 20:00"
         },
         {
-            "league": "ENG1",
-            "home": "Sheffield Wed",
-            "away": "Wrexham",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "1st Half Under 0.5",
-            "odd": "2.91",
-            "date": "31.01.2026 12:30"
+            "league": "GER1",
+            "home": "Augsburg",
+            "away": "St Pauli",
+            "iy_score": "1 - 1",
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.21",
+            "date": "31.01.2026 14:30"
         }
     ]
 }
