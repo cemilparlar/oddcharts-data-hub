@@ -1,12 +1,22 @@
 {
-    "last_update": "31.01.2026 10:54",
+    "last_update": "31.01.2026 10:59",
     "highlights": {
-        "analyses": 281,
-        "won": 192,
+        "analyses": 283,
+        "won": 194,
         "lose": 89,
-        "success_rate": "%68.33"
+        "success_rate": "%68.55"
     },
     "top_matches": [
+        {
+            "league": "AUS",
+            "home": "Newcastle Jet",
+            "away": "Brisbane Roar",
+            "iy_score": "1 - 0",
+            "ms_score": "4 - 1",
+            "prediction": "Handicap (0:2) 1",
+            "odd": "5.25",
+            "date": "31.01.2026 06:00"
+        },
         {
             "league": "FRA2",
             "home": "Rodez Aveyron",
@@ -46,16 +56,6 @@
             "prediction": "Match Result 2",
             "odd": "2.71",
             "date": "30.01.2026 12:30"
-        },
-        {
-            "league": "TSL",
-            "home": "Kasimpasa",
-            "away": "Samsunspor",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "1st Half Under 0.5",
-            "odd": "2.43",
-            "date": "30.01.2026 17:00"
         }
     ]
 }
