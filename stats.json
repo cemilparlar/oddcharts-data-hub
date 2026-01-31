@@ -1,10 +1,10 @@
 {
-    "last_update": "31.01.2026 16:14",
+    "last_update": "31.01.2026 16:28",
     "highlights": {
-        "analyses": 248,
-        "won": 168,
-        "lose": 80,
-        "success_rate": "%67.74"
+        "analyses": 253,
+        "won": 172,
+        "lose": 81,
+        "success_rate": "%67.98"
     },
     "top_matches": [
         {
@@ -28,6 +28,16 @@
             "date": "30.01.2026 19:00"
         },
         {
+            "league": "TSL",
+            "home": "Alanyaspor",
+            "away": "Eyupspor",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 3",
+            "prediction": "Total Goals 4-5",
+            "odd": "3.40",
+            "date": "31.01.2026 11:30"
+        },
+        {
             "league": "ESP1",
             "home": "RCD Espanyol",
             "away": "Alaves",
@@ -46,16 +56,6 @@
             "prediction": "Match Result X",
             "odd": "3.05",
             "date": "30.01.2026 19:00"
-        },
-        {
-            "league": "AUS",
-            "home": "Newcastle Jet",
-            "away": "Brisbane Roar",
-            "iy_score": "1 - 0",
-            "ms_score": "4 - 1",
-            "prediction": "Handicap (0:1) 1",
-            "odd": "2.70",
-            "date": "31.01.2026 06:00"
         }
     ]
 }
