@@ -1,61 +1,10 @@
 {
-    "last_update": "31.01.2026 21:02",
+    "last_update": "01.02.2026 22:53",
     "highlights": {
-        "analyses": 422,
-        "won": 295,
-        "lose": 127,
-        "success_rate": "%69.91"
+        "analyses": 0,
+        "won": 0,
+        "lose": 0,
+        "success_rate": "%0"
     },
-    "top_matches": [
-        {
-            "league": "ENG CUP",
-            "home": "St Mirren",
-            "away": "Dundee",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Under 0.5 Goals",
-            "odd": "8.99",
-            "date": "31.01.2026 15:00"
-        },
-        {
-            "league": "AUS",
-            "home": "Newcastle Jet",
-            "away": "Brisbane Roar",
-            "iy_score": "1 - 0",
-            "ms_score": "4 - 1",
-            "prediction": "Handicap (0:2) 1",
-            "odd": "5.25",
-            "date": "31.01.2026 06:00"
-        },
-        {
-            "league": "ENG CUP",
-            "home": "St Mirren",
-            "away": "Dundee",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "HT/FT X/X",
-            "odd": "4.76",
-            "date": "31.01.2026 15:00"
-        },
-        {
-            "league": "ENG1",
-            "home": "Sheffield Wed",
-            "away": "Wrexham",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "HT/FT X/2",
-            "odd": "3.88",
-            "date": "31.01.2026 12:30"
-        },
-        {
-            "league": "TSL",
-            "home": "Alanyaspor",
-            "away": "Eyupspor",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 3",
-            "prediction": "Total Goals 4-5",
-            "odd": "3.40",
-            "date": "31.01.2026 11:30"
-        }
-    ]
+    "top_matches": []
 }
