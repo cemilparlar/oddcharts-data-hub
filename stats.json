@@ -1,10 +1,61 @@
 {
-    "last_update": "02.02.2026 16:02",
+    "last_update": "02.02.2026 16:16",
     "highlights": {
-        "analyses": 0,
-        "won": 0,
-        "lose": 0,
-        "success_rate": "%0"
+        "analyses": 64,
+        "won": 39,
+        "lose": 25,
+        "success_rate": "%60.94"
     },
-    "top_matches": []
+    "top_matches": [
+        {
+            "league": "KSA",
+            "home": "Al Ittihad",
+            "away": "Al Najma",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Handicap (0:2) 2",
+            "odd": "1.99",
+            "date": "01.02.2026 17:30"
+        },
+        {
+            "league": "BEL",
+            "home": "Union St.G",
+            "away": "Club Brugge",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Both Teams to Score - No",
+            "odd": "1.88",
+            "date": "01.02.2026 17:30"
+        },
+        {
+            "league": " KUVSK",
+            "home": "Al-Kuwait",
+            "away": "Al Qadsia",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.74",
+            "date": "01.02.2026 16:30"
+        },
+        {
+            "league": "BEL",
+            "home": "Union St.G",
+            "away": "Club Brugge",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 2.5 Goals",
+            "odd": "1.69",
+            "date": "01.02.2026 17:30"
+        },
+        {
+            "league": "ESP4",
+            "home": "Ue Olot",
+            "away": "Sant Andreu",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 2",
+            "prediction": "1st Half Over 0.5",
+            "odd": "1.49",
+            "date": "01.02.2026 17:00"
+        }
+    ]
 }
