@@ -1,10 +1,10 @@
 {
-    "last_update": "02.02.2026 19:43",
+    "last_update": "02.02.2026 19:46",
     "highlights": {
-        "analyses": 89,
-        "won": 64,
+        "analyses": 85,
+        "won": 60,
         "lose": 25,
-        "success_rate": "%71.91"
+        "success_rate": "%70.59"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "02.02.2026 11:30"
         },
         {
-            "league": "FRA1",
-            "home": "Strasbourg",
-            "away": "Paris Saint-Germain",
-            "iy_score": "1 - 1",
-            "ms_score": "1 - 2",
-            "prediction": "1st Half Result X",
-            "odd": "2.32",
-            "date": "01.02.2026 19:45"
+            "league": "ARG",
+            "home": "Boca Juniors",
+            "away": "Newells Old Boy",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 0",
+            "prediction": "Handicap (0:1) 1",
+            "odd": "2.13",
+            "date": "01.02.2026 22:15"
         }
     ]
 }
