@@ -1,10 +1,10 @@
 {
-    "last_update": "02.02.2026 18:25",
+    "last_update": "02.02.2026 18:30",
     "highlights": {
-        "analyses": 106,
-        "won": 74,
+        "analyses": 104,
+        "won": 72,
         "lose": 32,
-        "success_rate": "%69.81"
+        "success_rate": "%69.23"
     },
     "top_matches": [
         {
@@ -38,16 +38,6 @@
             "date": "02.02.2026 11:00"
         },
         {
-            "league": "IRN2",
-            "home": "Nb Abbas",
-            "away": "Niroye Zamini",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Match Result X",
-            "odd": "2.32",
-            "date": "02.02.2026 11:30"
-        },
-        {
             "league": "FRA1",
             "home": "Strasbourg",
             "away": "Paris Saint-Germain",
@@ -56,6 +46,16 @@
             "prediction": "1st Half Result X",
             "odd": "2.32",
             "date": "01.02.2026 19:45"
+        },
+        {
+            "league": "IRN2",
+            "home": "Nb Abbas",
+            "away": "Niroye Zamini",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Match Result X",
+            "odd": "2.32",
+            "date": "02.02.2026 11:30"
         }
     ]
 }
