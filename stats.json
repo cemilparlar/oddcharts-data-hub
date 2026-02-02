@@ -1,5 +1,5 @@
 {
-    "last_update": "02.02.2026 22:03",
+    "last_update": "02.02.2026 22:08",
     "highlights": {
         "analyses": 76,
         "won": 55,
@@ -28,6 +28,16 @@
             "date": "01.02.2026 23:00"
         },
         {
+            "league": "TSL",
+            "home": "Kocaelispor",
+            "away": "Fenerbahce",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 2",
+            "prediction": "Handicap (1:0) 2",
+            "odd": "2.50",
+            "date": "02.02.2026 17:00"
+        },
+        {
             "league": "IRN2",
             "home": "Saipa",
             "away": "Besat Kermansha",
@@ -46,16 +56,6 @@
             "prediction": "Match Result X",
             "odd": "2.32",
             "date": "02.02.2026 11:30"
-        },
-        {
-            "league": "ARG",
-            "home": "Boca Juniors",
-            "away": "Newells Old Boy",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 0",
-            "prediction": "Handicap (0:1) 1",
-            "odd": "2.13",
-            "date": "01.02.2026 22:15"
         }
     ]
 }
