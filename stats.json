@@ -1,22 +1,12 @@
 {
-    "last_update": "02.02.2026 22:59",
+    "last_update": "02.02.2026 23:03",
     "highlights": {
-        "analyses": 85,
-        "won": 60,
-        "lose": 25,
-        "success_rate": "%70.59"
+        "analyses": 77,
+        "won": 53,
+        "lose": 24,
+        "success_rate": "%68.83"
     },
     "top_matches": [
-        {
-            "league": " PER",
-            "home": "Universitario",
-            "away": "Adt",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 0",
-            "prediction": "Handicap (0:2) X",
-            "odd": "3.32",
-            "date": "01.02.2026 23:00"
-        },
         {
             "league": "TSL",
             "home": "Kocaelispor",
@@ -56,6 +46,16 @@
             "prediction": "HT/FT 2/2",
             "odd": "2.21",
             "date": "02.02.2026 17:00"
+        },
+        {
+            "league": "IRN2",
+            "home": "Fard Alborz",
+            "away": "Mes Shahr-E Bab",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "Total Goals 2-3",
+            "odd": "2.04",
+            "date": "02.02.2026 11:00"
         }
     ]
 }
