@@ -1,5 +1,5 @@
 {
-    "last_update": "02.02.2026 18:14",
+    "last_update": "02.02.2026 18:20",
     "highlights": {
         "analyses": 106,
         "won": 74,
@@ -18,16 +18,6 @@
             "date": "01.02.2026 22:15"
         },
         {
-            "league": "BEL",
-            "home": "Oh Leuven",
-            "away": "Mechelen",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "Total Goals 4-5",
-            "odd": "3.60",
-            "date": "01.02.2026 18:15"
-        },
-        {
             "league": " PER",
             "home": "Universitario",
             "away": "Adt",
@@ -38,24 +28,34 @@
             "date": "01.02.2026 23:00"
         },
         {
-            "league": "BEL",
-            "home": "Oh Leuven",
-            "away": "Mechelen",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "Over 3.5 Goals",
-            "odd": "2.98",
-            "date": "01.02.2026 18:15"
+            "league": "IRN2",
+            "home": "Saipa",
+            "away": "Besat Kermansha",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Match Result X",
+            "odd": "2.43",
+            "date": "02.02.2026 11:00"
         },
         {
-            "league": "BEL",
-            "home": "Oh Leuven",
-            "away": "Mechelen",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "1st Half Result 1",
-            "odd": "2.58",
-            "date": "01.02.2026 18:15"
+            "league": "IRN2",
+            "home": "Nb Abbas",
+            "away": "Niroye Zamini",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Match Result X",
+            "odd": "2.32",
+            "date": "02.02.2026 11:30"
+        },
+        {
+            "league": "FRA1",
+            "home": "Strasbourg",
+            "away": "Paris Saint-Germain",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 2",
+            "prediction": "1st Half Result X",
+            "odd": "2.32",
+            "date": "01.02.2026 19:45"
         }
     ]
 }
