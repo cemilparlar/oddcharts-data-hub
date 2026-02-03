@@ -1,10 +1,10 @@
 {
-    "last_update": "03.02.2026 10:57",
+    "last_update": "03.02.2026 11:13",
     "highlights": {
-        "analyses": 116,
-        "won": 85,
-        "lose": 31,
-        "success_rate": "%73.28"
+        "analyses": 113,
+        "won": 83,
+        "lose": 30,
+        "success_rate": "%73.45"
     },
     "top_matches": [
         {
@@ -16,16 +16,6 @@
             "prediction": "Handicap (1:0) 2",
             "odd": "2.50",
             "date": "02.02.2026 17:00"
-        },
-        {
-            "league": "IRN2",
-            "home": "Saipa",
-            "away": "Besat Kermansha",
-            "iy_score": "1 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "Match Result X",
-            "odd": "2.43",
-            "date": "02.02.2026 11:00"
         },
         {
             "league": "IRN2",
@@ -56,6 +46,16 @@
             "prediction": "HT/FT 2/2",
             "odd": "2.21",
             "date": "02.02.2026 17:00"
+        },
+        {
+            "league": "ESP2",
+            "home": "Mirandes",
+            "away": "Malaga",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Over 2.5 Goals",
+            "odd": "2.09",
+            "date": "02.02.2026 19:30"
         }
     ]
 }
