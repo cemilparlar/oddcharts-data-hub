@@ -1,21 +1,51 @@
 {
-    "last_update": "05.02.2026 00:20",
+    "last_update": "05.02.2026 00:34",
     "highlights": {
-        "analyses": 166,
-        "won": 128,
-        "lose": 38,
-        "success_rate": "%77.11"
+        "analyses": 181,
+        "won": 140,
+        "lose": 41,
+        "success_rate": "%77.35"
     },
     "top_matches": [
         {
-            "league": " LKU",
-            "home": "The Strongest",
-            "away": "Depor Tachira",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (0:2) 2",
-            "odd": "1.75",
-            "date": "04.02.2026 00:30"
+            "league": "FRA CUP",
+            "home": "Toulouse",
+            "away": "Amiens",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 1.5 Goals",
+            "odd": "4.18",
+            "date": "04.02.2026 19:30"
+        },
+        {
+            "league": "FRA CUP",
+            "home": "Toulouse",
+            "away": "Amiens",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Total Goals 0-1",
+            "odd": "4.17",
+            "date": "04.02.2026 19:30"
+        },
+        {
+            "league": "FRA CUP",
+            "home": "Toulouse",
+            "away": "Amiens",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.39",
+            "date": "04.02.2026 19:30"
+        },
+        {
+            "league": "FRA CUP",
+            "home": "Toulouse",
+            "away": "Amiens",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 2.5 Goals",
+            "odd": "2.05",
+            "date": "04.02.2026 19:30"
         },
         {
             "league": "GRE",
@@ -26,36 +56,6 @@
             "prediction": "Total Goals 2-3",
             "odd": "1.75",
             "date": "04.02.2026 16:30"
-        },
-        {
-            "league": "GRE",
-            "home": "Asteras Tripol",
-            "away": "Olympiacos",
-            "iy_score": "0 - 2",
-            "ms_score": "0 - 3",
-            "prediction": "Handicap (1:0) 2",
-            "odd": "1.62",
-            "date": "04.02.2026 16:30"
-        },
-        {
-            "league": "QAT",
-            "home": "Umm Salal",
-            "away": "Al Duhail Sc",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (2:0) 1",
-            "odd": "1.61",
-            "date": "04.02.2026 14:45"
-        },
-        {
-            "league": "NED CUP",
-            "home": "Nijmegen",
-            "away": "Volendam",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Handicap (0:2) 2",
-            "odd": "1.56",
-            "date": "04.02.2026 17:45"
         }
     ]
 }
