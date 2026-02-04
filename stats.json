@@ -1,61 +1,10 @@
 {
-    "last_update": "04.02.2026 14:23",
+    "last_update": "04.02.2026 14:29",
     "highlights": {
-        "analyses": 238,
-        "won": 161,
-        "lose": 77,
-        "success_rate": "%67.65"
+        "analyses": 0,
+        "won": 0,
+        "lose": 0,
+        "success_rate": "%0"
     },
-    "top_matches": [
-        {
-            "league": "CZE1",
-            "home": "Mc Oran",
-            "away": "Oued Akbou",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "Match Result 2",
-            "odd": "4.35",
-            "date": "03.02.2026 16:00"
-        },
-        {
-            "league": " LKU",
-            "home": "The Strongest",
-            "away": "Depor Tachira",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "1st Half Result X",
-            "odd": "2.56",
-            "date": "04.02.2026 00:30"
-        },
-        {
-            "league": "ARG",
-            "home": "Rivadavia",
-            "away": "Sarmiento",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Over 2.5 Goals",
-            "odd": "2.44",
-            "date": "04.02.2026 00:15"
-        },
-        {
-            "league": "ARG",
-            "home": "Rivadavia",
-            "away": "Sarmiento",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Both Teams to Score - Yes",
-            "odd": "2.25",
-            "date": "04.02.2026 00:15"
-        },
-        {
-            "league": "TAN",
-            "home": "Kmc",
-            "away": "Mashujaa",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Under 1.5 Goals",
-            "odd": "2.06",
-            "date": "03.02.2026 16:00"
-        }
-    ]
+    "top_matches": []
 }
