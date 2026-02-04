@@ -1,10 +1,10 @@
 {
-    "last_update": "04.02.2026 20:00",
+    "last_update": "04.02.2026 20:10",
     "highlights": {
-        "analyses": 68,
-        "won": 55,
-        "lose": 13,
-        "success_rate": "%80.88"
+        "analyses": 100,
+        "won": 77,
+        "lose": 23,
+        "success_rate": "%77.00"
     },
     "top_matches": [
         {
@@ -16,6 +16,16 @@
             "prediction": "Handicap (0:2) 2",
             "odd": "1.75",
             "date": "04.02.2026 00:30"
+        },
+        {
+            "league": "GRE",
+            "home": "Ofi",
+            "away": "Apo Levadeiakos",
+            "iy_score": "1 - 1",
+            "ms_score": "1 - 1",
+            "prediction": "Under 2.5 Goals",
+            "odd": "1.48",
+            "date": "04.02.2026 15:00"
         },
         {
             "league": "ROU",
@@ -46,16 +56,6 @@
             "prediction": "Double Chance X2",
             "odd": "1.42",
             "date": "04.02.2026 14:00"
-        },
-        {
-            "league": " LKU",
-            "home": "The Strongest",
-            "away": "Depor Tachira",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Under 3.5 Goals",
-            "odd": "1.41",
-            "date": "04.02.2026 00:30"
         }
     ]
 }
