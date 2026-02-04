@@ -1,10 +1,61 @@
 {
-    "last_update": "04.02.2026 14:48",
+    "last_update": "04.02.2026 15:46",
     "highlights": {
-        "analyses": 0,
-        "won": 0,
-        "lose": 0,
-        "success_rate": "%0"
+        "analyses": 199,
+        "won": 140,
+        "lose": 59,
+        "success_rate": "%70.35"
     },
-    "top_matches": []
+    "top_matches": [
+        {
+            "league": "CZE1",
+            "home": "Mc Oran",
+            "away": "Oued Akbou",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "Match Result 2",
+            "odd": "4.35",
+            "date": "03.02.2026 16:00"
+        },
+        {
+            "league": "TAN",
+            "home": "Kmc",
+            "away": "Mashujaa",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 1.5 Goals",
+            "odd": "2.06",
+            "date": "03.02.2026 16:00"
+        },
+        {
+            "league": "CZE1",
+            "home": "Mc Oran",
+            "away": "Oued Akbou",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "Under 1.5 Goals",
+            "odd": "2.04",
+            "date": "03.02.2026 16:00"
+        },
+        {
+            "league": "CZE1",
+            "home": "Mc Oran",
+            "away": "Oued Akbou",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "Total Goals 0-1",
+            "odd": "2.02",
+            "date": "03.02.2026 16:00"
+        },
+        {
+            "league": "CZE1",
+            "home": "Mc Oran",
+            "away": "Oued Akbou",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "1st Half Under 0.5",
+            "odd": "1.99",
+            "date": "03.02.2026 16:00"
+        }
+    ]
 }
