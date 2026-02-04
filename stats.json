@@ -1,10 +1,10 @@
 {
-    "last_update": "04.02.2026 18:29",
+    "last_update": "04.02.2026 18:36",
     "highlights": {
-        "analyses": 215,
-        "won": 159,
-        "lose": 56,
-        "success_rate": "%73.95"
+        "analyses": 206,
+        "won": 152,
+        "lose": 54,
+        "success_rate": "%73.79"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "03.02.2026 19:45"
         },
         {
-            "league": " AFK",
-            "home": "Bayer Leverkusen",
-            "away": "St Pauli",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "1st Half Result 1",
+            "league": "POL",
+            "home": "Piast Gliwice",
+            "away": "Lech Poznan",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 2.5 Goals",
             "odd": "1.68",
-            "date": "03.02.2026 19:45"
+            "date": "03.02.2026 19:30"
         }
     ]
 }
