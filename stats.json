@@ -1,10 +1,10 @@
 {
-    "last_update": "04.02.2026 19:26",
+    "last_update": "04.02.2026 19:32",
     "highlights": {
-        "analyses": 204,
-        "won": 150,
-        "lose": 54,
-        "success_rate": "%73.53"
+        "analyses": 187,
+        "won": 138,
+        "lose": 49,
+        "success_rate": "%73.80"
     },
     "top_matches": [
         {
@@ -15,26 +15,6 @@
             "ms_score": "0 - 2",
             "prediction": "Total Goals 2-3",
             "odd": "1.82",
-            "date": "03.02.2026 19:45"
-        },
-        {
-            "league": "FRA CUP",
-            "home": "Reims",
-            "away": "Le Mans",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.76",
-            "date": "03.02.2026 19:30"
-        },
-        {
-            "league": " AFK",
-            "home": "Bayer Leverkusen",
-            "away": "St Pauli",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "HT/FT 1/1",
-            "odd": "1.75",
             "date": "03.02.2026 19:45"
         },
         {
@@ -53,8 +33,28 @@
             "away": "St Pauli",
             "iy_score": "1 - 0",
             "ms_score": "3 - 0",
+            "prediction": "HT/FT 1/1",
+            "odd": "1.75",
+            "date": "03.02.2026 19:45"
+        },
+        {
+            "league": " AFK",
+            "home": "Bayer Leverkusen",
+            "away": "St Pauli",
+            "iy_score": "1 - 0",
+            "ms_score": "3 - 0",
             "prediction": "1st Half Result 1",
             "odd": "1.68",
+            "date": "03.02.2026 19:45"
+        },
+        {
+            "league": "ENG3",
+            "home": "Harrogate",
+            "away": "Swindon",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "Match Result 2",
+            "odd": "1.51",
             "date": "03.02.2026 19:45"
         }
     ]
