@@ -1,22 +1,12 @@
 {
-    "last_update": "05.02.2026 00:10",
+    "last_update": "05.02.2026 00:15",
     "highlights": {
-        "analyses": 170,
-        "won": 132,
+        "analyses": 166,
+        "won": 128,
         "lose": 38,
-        "success_rate": "%77.65"
+        "success_rate": "%77.11"
     },
     "top_matches": [
-        {
-            "league": "GRE",
-            "home": "Asteras Tripol",
-            "away": "Olympiacos",
-            "iy_score": "0 - 2",
-            "ms_score": "0 - 3",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.75",
-            "date": "04.02.2026 16:30"
-        },
         {
             "league": " LKU",
             "home": "The Strongest",
@@ -26,6 +16,16 @@
             "prediction": "Handicap (0:2) 2",
             "odd": "1.75",
             "date": "04.02.2026 00:30"
+        },
+        {
+            "league": "GRE",
+            "home": "Asteras Tripol",
+            "away": "Olympiacos",
+            "iy_score": "0 - 2",
+            "ms_score": "0 - 3",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.75",
+            "date": "04.02.2026 16:30"
         },
         {
             "league": "GRE",
