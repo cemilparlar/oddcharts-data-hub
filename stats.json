@@ -1,61 +1,61 @@
 {
-    "last_update": "03.02.2026 11:13",
+    "last_update": "04.02.2026 03:32",
     "highlights": {
-        "analyses": 113,
-        "won": 83,
-        "lose": 30,
-        "success_rate": "%73.45"
+        "analyses": 260,
+        "won": 178,
+        "lose": 82,
+        "success_rate": "%68.46"
     },
     "top_matches": [
         {
-            "league": "TSL",
-            "home": "Kocaelispor",
-            "away": "Fenerbahce",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 2",
-            "prediction": "Handicap (1:0) 2",
-            "odd": "2.50",
-            "date": "02.02.2026 17:00"
-        },
-        {
-            "league": "IRN2",
-            "home": "Nb Abbas",
-            "away": "Niroye Zamini",
+            "league": "CZE1",
+            "home": "Mc Oran",
+            "away": "Oued Akbou",
             "iy_score": "0 - 0",
-            "ms_score": "0 - 0",
-            "prediction": "Match Result X",
-            "odd": "2.32",
-            "date": "02.02.2026 11:30"
+            "ms_score": "0 - 1",
+            "prediction": "Match Result 2",
+            "odd": "4.35",
+            "date": "03.02.2026 16:00"
         },
         {
-            "league": "POR1",
-            "home": "Avs",
-            "away": "Braga",
-            "iy_score": "0 - 2",
-            "ms_score": "0 - 4",
-            "prediction": "1st Half Over 1.5",
-            "odd": "2.29",
-            "date": "02.02.2026 18:45"
-        },
-        {
-            "league": "TSL",
-            "home": "Kocaelispor",
-            "away": "Fenerbahce",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 2",
-            "prediction": "HT/FT 2/2",
-            "odd": "2.21",
-            "date": "02.02.2026 17:00"
-        },
-        {
-            "league": "ESP2",
-            "home": "Mirandes",
-            "away": "Malaga",
+            "league": "IRN",
+            "home": "Gol Gohar Sirj",
+            "away": "Malavan Fc",
             "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Over 2.5 Goals",
-            "odd": "2.09",
-            "date": "02.02.2026 19:30"
+            "ms_score": "1 - 0",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.11",
+            "date": "03.02.2026 11:33"
+        },
+        {
+            "league": "IRN",
+            "home": "Gol Gohar Sirj",
+            "away": "Malavan Fc",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Match Result 1",
+            "odd": "2.08",
+            "date": "03.02.2026 11:33"
+        },
+        {
+            "league": "TAN",
+            "home": "Kmc",
+            "away": "Mashujaa",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 1.5 Goals",
+            "odd": "2.06",
+            "date": "03.02.2026 16:00"
+        },
+        {
+            "league": "CZE1",
+            "home": "Mc Oran",
+            "away": "Oued Akbou",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 1",
+            "prediction": "Under 1.5 Goals",
+            "odd": "2.04",
+            "date": "03.02.2026 16:00"
         }
     ]
 }
