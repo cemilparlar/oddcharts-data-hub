@@ -1,10 +1,10 @@
 {
-    "last_update": "05.02.2026 00:47",
+    "last_update": "05.02.2026 01:01",
     "highlights": {
-        "analyses": 191,
-        "won": 151,
-        "lose": 40,
-        "success_rate": "%79.06"
+        "analyses": 214,
+        "won": 169,
+        "lose": 45,
+        "success_rate": "%78.97"
     },
     "top_matches": [
         {
@@ -28,6 +28,16 @@
             "date": "04.02.2026 19:30"
         },
         {
+            "league": " AFK",
+            "home": "Holstein Kiel",
+            "away": "Stuttgart",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 3",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.92",
+            "date": "04.02.2026 19:45"
+        },
+        {
             "league": "GRE",
             "home": "Asteras Tripol",
             "away": "Olympiacos",
@@ -46,16 +56,6 @@
             "prediction": "Handicap (1:0) 2",
             "odd": "1.62",
             "date": "04.02.2026 16:30"
-        },
-        {
-            "league": "QAT",
-            "home": "Umm Salal",
-            "away": "Al Duhail Sc",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (2:0) 1",
-            "odd": "1.61",
-            "date": "04.02.2026 14:45"
         }
     ]
 }
