@@ -1,10 +1,10 @@
 {
-    "last_update": "04.02.2026 17:58",
+    "last_update": "04.02.2026 18:06",
     "highlights": {
-        "analyses": 216,
+        "analyses": 215,
         "won": 159,
-        "lose": 57,
-        "success_rate": "%73.61"
+        "lose": 56,
+        "success_rate": "%73.95"
     },
     "top_matches": [
         {
@@ -28,16 +28,6 @@
             "date": "03.02.2026 19:30"
         },
         {
-            "league": " AFK",
-            "home": "Bayer Leverkusen",
-            "away": "St Pauli",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "HT/FT 1/1",
-            "odd": "1.75",
-            "date": "03.02.2026 19:45"
-        },
-        {
             "league": " LKU",
             "home": "The Strongest",
             "away": "Depor Tachira",
@@ -48,14 +38,24 @@
             "date": "04.02.2026 00:30"
         },
         {
-            "league": "POL",
-            "home": "Piast Gliwice",
-            "away": "Lech Poznan",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Under 2.5 Goals",
+            "league": " AFK",
+            "home": "Bayer Leverkusen",
+            "away": "St Pauli",
+            "iy_score": "1 - 0",
+            "ms_score": "3 - 0",
+            "prediction": "HT/FT 1/1",
+            "odd": "1.75",
+            "date": "03.02.2026 19:45"
+        },
+        {
+            "league": " AFK",
+            "home": "Bayer Leverkusen",
+            "away": "St Pauli",
+            "iy_score": "1 - 0",
+            "ms_score": "3 - 0",
+            "prediction": "1st Half Result 1",
             "odd": "1.68",
-            "date": "03.02.2026 19:30"
+            "date": "03.02.2026 19:45"
         }
     ]
 }
