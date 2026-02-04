@@ -1,61 +1,61 @@
 {
-    "last_update": "04.02.2026 15:46",
+    "last_update": "04.02.2026 16:00",
     "highlights": {
-        "analyses": 199,
-        "won": 140,
+        "analyses": 196,
+        "won": 137,
         "lose": 59,
-        "success_rate": "%70.35"
+        "success_rate": "%69.90"
     },
     "top_matches": [
         {
-            "league": "CZE1",
-            "home": "Mc Oran",
-            "away": "Oued Akbou",
+            "league": "ESP CUP",
+            "home": "Spennymoor",
+            "away": "Telford",
             "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "Match Result 2",
-            "odd": "4.35",
-            "date": "03.02.2026 16:00"
+            "ms_score": "0 - 2",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.82",
+            "date": "03.02.2026 19:45"
         },
         {
-            "league": "TAN",
-            "home": "Kmc",
-            "away": "Mashujaa",
+            "league": "FRA CUP",
+            "home": "Reims",
+            "away": "Le Mans",
             "iy_score": "1 - 0",
+            "ms_score": "3 - 0",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.76",
+            "date": "03.02.2026 19:30"
+        },
+        {
+            "league": " LKU",
+            "home": "The Strongest",
+            "away": "Depor Tachira",
+            "iy_score": "0 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:2) 2",
+            "odd": "1.75",
+            "date": "04.02.2026 00:30"
+        },
+        {
+            "league": " AFK",
+            "home": "Bayer Leverkusen",
+            "away": "St Pauli",
+            "iy_score": "1 - 0",
+            "ms_score": "3 - 0",
+            "prediction": "HT/FT 1/1",
+            "odd": "1.75",
+            "date": "03.02.2026 19:45"
+        },
+        {
+            "league": "POL",
+            "home": "Piast Gliwice",
+            "away": "Lech Poznan",
+            "iy_score": "0 - 0",
             "ms_score": "1 - 0",
-            "prediction": "Under 1.5 Goals",
-            "odd": "2.06",
-            "date": "03.02.2026 16:00"
-        },
-        {
-            "league": "CZE1",
-            "home": "Mc Oran",
-            "away": "Oued Akbou",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "Under 1.5 Goals",
-            "odd": "2.04",
-            "date": "03.02.2026 16:00"
-        },
-        {
-            "league": "CZE1",
-            "home": "Mc Oran",
-            "away": "Oued Akbou",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "Total Goals 0-1",
-            "odd": "2.02",
-            "date": "03.02.2026 16:00"
-        },
-        {
-            "league": "CZE1",
-            "home": "Mc Oran",
-            "away": "Oued Akbou",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 1",
-            "prediction": "1st Half Under 0.5",
-            "odd": "1.99",
-            "date": "03.02.2026 16:00"
+            "prediction": "Under 2.5 Goals",
+            "odd": "1.68",
+            "date": "03.02.2026 19:30"
         }
     ]
 }
