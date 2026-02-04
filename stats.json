@@ -1,10 +1,10 @@
 {
-    "last_update": "04.02.2026 22:39",
+    "last_update": "04.02.2026 22:44",
     "highlights": {
-        "analyses": 146,
-        "won": 112,
-        "lose": 34,
-        "success_rate": "%76.71"
+        "analyses": 150,
+        "won": 114,
+        "lose": 36,
+        "success_rate": "%76.00"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "04.02.2026 14:45"
         },
         {
-            "league": "GRE",
-            "home": "Asteras Tripol",
-            "away": "Olympiacos",
-            "iy_score": "0 - 2",
-            "ms_score": "0 - 3",
-            "prediction": "HT/FT 2/2",
-            "odd": "1.55",
-            "date": "04.02.2026 16:30"
+            "league": "NED CUP",
+            "home": "Nijmegen",
+            "away": "Volendam",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Handicap (0:2) 2",
+            "odd": "1.56",
+            "date": "04.02.2026 17:45"
         }
     ]
 }
