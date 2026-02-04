@@ -1,10 +1,10 @@
 {
-    "last_update": "04.02.2026 19:53",
+    "last_update": "04.02.2026 20:00",
     "highlights": {
-        "analyses": 76,
-        "won": 61,
-        "lose": 15,
-        "success_rate": "%80.26"
+        "analyses": 68,
+        "won": 55,
+        "lose": 13,
+        "success_rate": "%80.88"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "04.02.2026 14:00"
         },
         {
-            "league": "ARG",
-            "home": "Rivadavia",
-            "away": "Sarmiento",
-            "iy_score": "1 - 0",
+            "league": " LKU",
+            "home": "The Strongest",
+            "away": "Depor Tachira",
+            "iy_score": "0 - 0",
             "ms_score": "2 - 1",
-            "prediction": "1st Half Over 0.5",
+            "prediction": "Under 3.5 Goals",
             "odd": "1.41",
-            "date": "04.02.2026 00:15"
+            "date": "04.02.2026 00:30"
         }
     ]
 }
