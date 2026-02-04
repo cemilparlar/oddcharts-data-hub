@@ -1,61 +1,61 @@
 {
-    "last_update": "04.02.2026 21:18",
+    "last_update": "04.02.2026 21:25",
     "highlights": {
-        "analyses": 110,
-        "won": 84,
-        "lose": 26,
-        "success_rate": "%76.36"
+        "analyses": 134,
+        "won": 104,
+        "lose": 30,
+        "success_rate": "%77.61"
     },
     "top_matches": [
         {
+            "league": " LKU",
+            "home": "The Strongest",
+            "away": "Depor Tachira",
+            "iy_score": "0 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:2) 2",
+            "odd": "1.75",
+            "date": "04.02.2026 00:30"
+        },
+        {
             "league": "GRE",
-            "home": "Ofi",
-            "away": "Apo Levadeiakos",
-            "iy_score": "1 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "Under 2.5 Goals",
-            "odd": "1.48",
-            "date": "04.02.2026 15:00"
+            "home": "Asteras Tripol",
+            "away": "Olympiacos",
+            "iy_score": "0 - 2",
+            "ms_score": "0 - 3",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.75",
+            "date": "04.02.2026 16:30"
         },
         {
-            "league": "ROU",
-            "home": "Metaloglobus",
-            "away": "Csikszereda",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 1",
-            "prediction": "Under 2.5 Goals",
-            "odd": "1.46",
-            "date": "04.02.2026 14:00"
+            "league": "GRE",
+            "home": "Asteras Tripol",
+            "away": "Olympiacos",
+            "iy_score": "0 - 2",
+            "ms_score": "0 - 3",
+            "prediction": "Handicap (1:0) 2",
+            "odd": "1.62",
+            "date": "04.02.2026 16:30"
         },
         {
-            "league": "CZE1",
-            "home": "Usm Khenchela",
-            "away": "Aso Chlef",
-            "iy_score": "1 - 1",
-            "ms_score": "2 - 2",
-            "prediction": "Double Chance X2",
-            "odd": "1.42",
-            "date": "04.02.2026 14:00"
-        },
-        {
-            "league": "CZE1",
-            "home": "Usm Khenchela",
-            "away": "Aso Chlef",
-            "iy_score": "1 - 1",
-            "ms_score": "2 - 2",
-            "prediction": "Handicap (0:1) 2",
-            "odd": "1.42",
-            "date": "04.02.2026 14:00"
-        },
-        {
-            "league": "ARG",
-            "home": "Rivadavia",
-            "away": "Sarmiento",
+            "league": "QAT",
+            "home": "Umm Salal",
+            "away": "Al Duhail Sc",
             "iy_score": "1 - 0",
             "ms_score": "2 - 1",
-            "prediction": "1st Half Over 0.5",
-            "odd": "1.41",
-            "date": "04.02.2026 00:15"
+            "prediction": "Handicap (2:0) 1",
+            "odd": "1.61",
+            "date": "04.02.2026 14:45"
+        },
+        {
+            "league": "GRE",
+            "home": "Asteras Tripol",
+            "away": "Olympiacos",
+            "iy_score": "0 - 2",
+            "ms_score": "0 - 3",
+            "prediction": "HT/FT 2/2",
+            "odd": "1.55",
+            "date": "04.02.2026 16:30"
         }
     ]
 }
