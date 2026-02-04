@@ -1,10 +1,10 @@
 {
-    "last_update": "05.02.2026 01:59",
+    "last_update": "05.02.2026 02:04",
     "highlights": {
-        "analyses": 245,
-        "won": 193,
+        "analyses": 247,
+        "won": 195,
         "lose": 52,
-        "success_rate": "%78.78"
+        "success_rate": "%78.95"
     },
     "top_matches": [
         {
@@ -28,6 +28,16 @@
             "date": "04.02.2026 19:30"
         },
         {
+            "league": "ENG CUP",
+            "home": "Hibernian",
+            "away": "Dundee Utd",
+            "iy_score": "1 - 0",
+            "ms_score": "3 - 2",
+            "prediction": "HT/FT 1/1",
+            "odd": "2.06",
+            "date": "04.02.2026 19:45"
+        },
+        {
             "league": " AFK",
             "home": "Holstein Kiel",
             "away": "Stuttgart",
@@ -45,16 +55,6 @@
             "ms_score": "0 - 3",
             "prediction": "Total Goals 2-3",
             "odd": "1.75",
-            "date": "04.02.2026 16:30"
-        },
-        {
-            "league": "GRE",
-            "home": "Asteras Tripol",
-            "away": "Olympiacos",
-            "iy_score": "0 - 2",
-            "ms_score": "0 - 3",
-            "prediction": "Handicap (1:0) 2",
-            "odd": "1.62",
             "date": "04.02.2026 16:30"
         }
     ]
