@@ -1,10 +1,10 @@
 {
-    "last_update": "04.02.2026 17:28",
+    "last_update": "04.02.2026 17:36",
     "highlights": {
-        "analyses": 221,
-        "won": 160,
-        "lose": 61,
-        "success_rate": "%72.40"
+        "analyses": 206,
+        "won": 150,
+        "lose": 56,
+        "success_rate": "%72.82"
     },
     "top_matches": [
         {
@@ -28,16 +28,6 @@
             "date": "03.02.2026 19:30"
         },
         {
-            "league": " LKU",
-            "home": "The Strongest",
-            "away": "Depor Tachira",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (0:2) 2",
-            "odd": "1.75",
-            "date": "04.02.2026 00:30"
-        },
-        {
             "league": " AFK",
             "home": "Bayer Leverkusen",
             "away": "St Pauli",
@@ -46,6 +36,16 @@
             "prediction": "HT/FT 1/1",
             "odd": "1.75",
             "date": "03.02.2026 19:45"
+        },
+        {
+            "league": " LKU",
+            "home": "The Strongest",
+            "away": "Depor Tachira",
+            "iy_score": "0 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:2) 2",
+            "odd": "1.75",
+            "date": "04.02.2026 00:30"
         },
         {
             "league": "POL",
