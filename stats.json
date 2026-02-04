@@ -1,22 +1,12 @@
 {
-    "last_update": "04.02.2026 19:42",
+    "last_update": "04.02.2026 19:48",
     "highlights": {
-        "analyses": 187,
-        "won": 138,
-        "lose": 49,
-        "success_rate": "%73.80"
+        "analyses": 78,
+        "won": 62,
+        "lose": 16,
+        "success_rate": "%79.49"
     },
     "top_matches": [
-        {
-            "league": "ESP CUP",
-            "home": "Spennymoor",
-            "away": "Telford",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 2",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.82",
-            "date": "03.02.2026 19:45"
-        },
         {
             "league": " LKU",
             "home": "The Strongest",
@@ -28,34 +18,44 @@
             "date": "04.02.2026 00:30"
         },
         {
-            "league": " AFK",
-            "home": "Bayer Leverkusen",
-            "away": "St Pauli",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "HT/FT 1/1",
-            "odd": "1.75",
-            "date": "03.02.2026 19:45"
-        },
-        {
-            "league": " AFK",
-            "home": "Bayer Leverkusen",
-            "away": "St Pauli",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 0",
-            "prediction": "1st Half Result 1",
-            "odd": "1.68",
-            "date": "03.02.2026 19:45"
-        },
-        {
-            "league": "ENG3",
-            "home": "Harrogate",
-            "away": "Swindon",
-            "iy_score": "0 - 0",
+            "league": "ROU",
+            "home": "Metaloglobus",
+            "away": "Csikszereda",
+            "iy_score": "0 - 1",
             "ms_score": "0 - 1",
-            "prediction": "Match Result 2",
-            "odd": "1.51",
-            "date": "03.02.2026 19:45"
+            "prediction": "Under 2.5 Goals",
+            "odd": "1.46",
+            "date": "04.02.2026 14:00"
+        },
+        {
+            "league": "CZE1",
+            "home": "Usm Khenchela",
+            "away": "Aso Chlef",
+            "iy_score": "1 - 1",
+            "ms_score": "2 - 2",
+            "prediction": "Double Chance X2",
+            "odd": "1.42",
+            "date": "04.02.2026 14:00"
+        },
+        {
+            "league": "CZE1",
+            "home": "Usm Khenchela",
+            "away": "Aso Chlef",
+            "iy_score": "1 - 1",
+            "ms_score": "2 - 2",
+            "prediction": "Handicap (0:1) 2",
+            "odd": "1.42",
+            "date": "04.02.2026 14:00"
+        },
+        {
+            "league": " LKU",
+            "home": "The Strongest",
+            "away": "Depor Tachira",
+            "iy_score": "0 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Under 3.5 Goals",
+            "odd": "1.41",
+            "date": "04.02.2026 00:30"
         }
     ]
 }
