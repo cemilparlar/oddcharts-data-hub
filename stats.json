@@ -1,22 +1,12 @@
 {
-    "last_update": "04.02.2026 20:25",
+    "last_update": "04.02.2026 20:32",
     "highlights": {
-        "analyses": 102,
-        "won": 79,
-        "lose": 23,
-        "success_rate": "%77.45"
+        "analyses": 106,
+        "won": 81,
+        "lose": 25,
+        "success_rate": "%76.42"
     },
     "top_matches": [
-        {
-            "league": " LKU",
-            "home": "The Strongest",
-            "away": "Depor Tachira",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (0:2) 2",
-            "odd": "1.75",
-            "date": "04.02.2026 00:30"
-        },
         {
             "league": "GRE",
             "home": "Ofi",
@@ -43,7 +33,7 @@
             "away": "Aso Chlef",
             "iy_score": "1 - 1",
             "ms_score": "2 - 2",
-            "prediction": "Handicap (0:1) 2",
+            "prediction": "Double Chance X2",
             "odd": "1.42",
             "date": "04.02.2026 14:00"
         },
@@ -53,9 +43,19 @@
             "away": "Aso Chlef",
             "iy_score": "1 - 1",
             "ms_score": "2 - 2",
-            "prediction": "Double Chance X2",
+            "prediction": "Handicap (0:1) 2",
             "odd": "1.42",
             "date": "04.02.2026 14:00"
+        },
+        {
+            "league": "ARG",
+            "home": "Rivadavia",
+            "away": "Sarmiento",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "1st Half Over 0.5",
+            "odd": "1.41",
+            "date": "04.02.2026 00:15"
         }
     ]
 }
