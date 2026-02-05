@@ -1,10 +1,10 @@
 {
-    "last_update": "05.02.2026 21:26",
+    "last_update": "05.02.2026 21:33",
     "highlights": {
-        "analyses": 177,
-        "won": 139,
+        "analyses": 175,
+        "won": 137,
         "lose": 38,
-        "success_rate": "%78.53"
+        "success_rate": "%78.29"
     },
     "top_matches": [
         {
@@ -38,16 +38,6 @@
             "date": "04.02.2026 23:00"
         },
         {
-            "league": "BRA1",
-            "home": "Remo",
-            "away": "Mirassol",
-            "iy_score": "2 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "Over 2.5 Goals",
-            "odd": "1.98",
-            "date": "04.02.2026 23:00"
-        },
-        {
             "league": "ETH",
             "home": "Negele Arsi Ke",
             "away": "Mekelle 70 Ende",
@@ -56,6 +46,16 @@
             "prediction": "Under 1.5 Goals",
             "odd": "1.98",
             "date": "05.02.2026 15:00"
+        },
+        {
+            "league": "BRA1",
+            "home": "Remo",
+            "away": "Mirassol",
+            "iy_score": "2 - 0",
+            "ms_score": "2 - 2",
+            "prediction": "Over 2.5 Goals",
+            "odd": "1.98",
+            "date": "04.02.2026 23:00"
         }
     ]
 }
