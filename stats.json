@@ -1,22 +1,12 @@
 {
-    "last_update": "05.02.2026 22:59",
+    "last_update": "05.02.2026 23:07",
     "highlights": {
-        "analyses": 168,
-        "won": 135,
+        "analyses": 156,
+        "won": 123,
         "lose": 33,
-        "success_rate": "%80.36"
+        "success_rate": "%78.85"
     },
     "top_matches": [
-        {
-            "league": "BRA1",
-            "home": "Remo",
-            "away": "Mirassol",
-            "iy_score": "2 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "1st Half Over 1.5",
-            "odd": "2.90",
-            "date": "04.02.2026 23:00"
-        },
         {
             "league": "BRA1",
             "home": "Gremio",
@@ -28,24 +18,14 @@
             "date": "05.02.2026 00:30"
         },
         {
-            "league": "BRA1",
-            "home": "Remo",
-            "away": "Mirassol",
-            "iy_score": "2 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "Over 2.5 Goals",
+            "league": "KSA",
+            "home": "Al Ahli",
+            "away": "Al Hazm",
+            "iy_score": "0 - 0",
+            "ms_score": "2 - 0",
+            "prediction": "Total Goals 2-3",
             "odd": "1.98",
-            "date": "04.02.2026 23:00"
-        },
-        {
-            "league": "BRA1",
-            "home": "Remo",
-            "away": "Mirassol",
-            "iy_score": "2 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "Over 2.5 Goals",
-            "odd": "1.98",
-            "date": "04.02.2026 23:00"
+            "date": "05.02.2026 17:30"
         },
         {
             "league": "ETH",
@@ -56,6 +36,26 @@
             "prediction": "Under 1.5 Goals",
             "odd": "1.98",
             "date": "05.02.2026 15:00"
+        },
+        {
+            "league": "QAT",
+            "home": "Al Sadd",
+            "away": "Shahaniya",
+            "iy_score": "1 - 0",
+            "ms_score": "4 - 0",
+            "prediction": "Both Teams to Score - No",
+            "odd": "1.97",
+            "date": "05.02.2026 14:45"
+        },
+        {
+            "league": "BRA1",
+            "home": "Palmeiras",
+            "away": "Vitoria Bahia",
+            "iy_score": "3 - 0",
+            "ms_score": "5 - 1",
+            "prediction": "Both Teams to Score - Yes",
+            "odd": "1.96",
+            "date": "05.02.2026 00:30"
         }
     ]
 }
