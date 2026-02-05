@@ -1,10 +1,10 @@
 {
-    "last_update": "05.02.2026 16:56",
+    "last_update": "05.02.2026 17:06",
     "highlights": {
-        "analyses": 178,
-        "won": 146,
-        "lose": 32,
-        "success_rate": "%82.02"
+        "analyses": 208,
+        "won": 172,
+        "lose": 36,
+        "success_rate": "%82.69"
     },
     "top_matches": [
         {
@@ -38,6 +38,16 @@
             "date": "04.02.2026 19:30"
         },
         {
+            "league": "BRA1",
+            "home": "Gremio",
+            "away": "Botafogo",
+            "iy_score": "1 - 2",
+            "ms_score": "5 - 3",
+            "prediction": "Match Result 1",
+            "odd": "2.07",
+            "date": "05.02.2026 00:30"
+        },
+        {
             "league": "ENG CUP",
             "home": "Hibernian",
             "away": "Dundee Utd",
@@ -45,16 +55,6 @@
             "ms_score": "3 - 2",
             "prediction": "HT/FT 1/1",
             "odd": "2.06",
-            "date": "04.02.2026 19:45"
-        },
-        {
-            "league": " AFK",
-            "home": "Holstein Kiel",
-            "away": "Stuttgart",
-            "iy_score": "0 - 0",
-            "ms_score": "0 - 3",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.92",
             "date": "04.02.2026 19:45"
         }
     ]
