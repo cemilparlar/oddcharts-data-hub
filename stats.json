@@ -1,12 +1,22 @@
 {
-    "last_update": "06.02.2026 00:49",
+    "last_update": "06.02.2026 00:54",
     "highlights": {
-        "analyses": 159,
-        "won": 125,
+        "analyses": 164,
+        "won": 130,
         "lose": 34,
-        "success_rate": "%78.62"
+        "success_rate": "%79.27"
     },
     "top_matches": [
+        {
+            "league": "ESP CUP",
+            "home": "Real Betis",
+            "away": "Atletico Madrid",
+            "iy_score": "0 - 3",
+            "ms_score": "0 - 5",
+            "prediction": "1st Half Result 2",
+            "odd": "2.39",
+            "date": "05.02.2026 20:00"
+        },
         {
             "league": "ETH",
             "home": "Negele Arsi Ke",
@@ -46,16 +56,6 @@
             "prediction": "Total Goals 2-3",
             "odd": "1.75",
             "date": "05.02.2026 18:30"
-        },
-        {
-            "league": "CONCACAF",
-            "home": "Xelaju",
-            "away": "Monterrey",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "Under 2.5 Goals",
-            "odd": "1.74",
-            "date": "05.02.2026 01:00"
         }
     ]
 }
