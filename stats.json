@@ -1,10 +1,10 @@
 {
-    "last_update": "05.02.2026 19:57",
+    "last_update": "05.02.2026 20:05",
     "highlights": {
-        "analyses": 177,
-        "won": 140,
-        "lose": 37,
-        "success_rate": "%79.10"
+        "analyses": 173,
+        "won": 134,
+        "lose": 39,
+        "success_rate": "%77.46"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "04.02.2026 23:00"
         },
         {
-            "league": "QAT",
-            "home": "Al Sadd",
-            "away": "Shahaniya",
+            "league": "ETH",
+            "home": "Negele Arsi Ke",
+            "away": "Mekelle 70 Ende",
             "iy_score": "1 - 0",
-            "ms_score": "4 - 0",
-            "prediction": "Both Teams to Score - No",
-            "odd": "1.97",
-            "date": "05.02.2026 14:45"
+            "ms_score": "1 - 0",
+            "prediction": "Under 1.5 Goals",
+            "odd": "1.98",
+            "date": "05.02.2026 15:00"
         }
     ]
 }
