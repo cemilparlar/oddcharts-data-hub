@@ -1,10 +1,10 @@
 {
-    "last_update": "05.02.2026 03:01",
+    "last_update": "05.02.2026 03:07",
     "highlights": {
-        "analyses": 265,
-        "won": 210,
+        "analyses": 269,
+        "won": 214,
         "lose": 55,
-        "success_rate": "%79.25"
+        "success_rate": "%79.55"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "04.02.2026 19:45"
         },
         {
-            "league": "GRE",
-            "home": "Asteras Tripol",
-            "away": "Olympiacos",
-            "iy_score": "0 - 2",
-            "ms_score": "0 - 3",
+            "league": "BRA1",
+            "home": "Flamengo",
+            "away": "Internacional",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 1",
             "prediction": "Total Goals 2-3",
-            "odd": "1.75",
-            "date": "04.02.2026 16:30"
+            "odd": "1.80",
+            "date": "04.02.2026 22:00"
         }
     ]
 }
