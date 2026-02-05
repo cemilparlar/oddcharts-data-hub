@@ -1,21 +1,21 @@
 {
-    "last_update": "06.02.2026 00:26",
+    "last_update": "06.02.2026 00:31",
     "highlights": {
-        "analyses": 166,
-        "won": 132,
+        "analyses": 159,
+        "won": 125,
         "lose": 34,
-        "success_rate": "%79.52"
+        "success_rate": "%78.62"
     },
     "top_matches": [
         {
-            "league": "BRA1",
-            "home": "Gremio",
-            "away": "Botafogo",
-            "iy_score": "1 - 2",
-            "ms_score": "5 - 3",
-            "prediction": "Match Result 1",
-            "odd": "2.07",
-            "date": "05.02.2026 00:30"
+            "league": "ETH",
+            "home": "Negele Arsi Ke",
+            "away": "Mekelle 70 Ende",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Under 1.5 Goals",
+            "odd": "1.98",
+            "date": "05.02.2026 15:00"
         },
         {
             "league": "KSA",
@@ -28,16 +28,6 @@
             "date": "05.02.2026 17:30"
         },
         {
-            "league": "ETH",
-            "home": "Negele Arsi Ke",
-            "away": "Mekelle 70 Ende",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Under 1.5 Goals",
-            "odd": "1.98",
-            "date": "05.02.2026 15:00"
-        },
-        {
             "league": "QAT",
             "home": "Al Sadd",
             "away": "Shahaniya",
@@ -48,14 +38,24 @@
             "date": "05.02.2026 14:45"
         },
         {
-            "league": "BRA1",
-            "home": "Palmeiras",
-            "away": "Vitoria Bahia",
-            "iy_score": "3 - 0",
-            "ms_score": "5 - 1",
-            "prediction": "Both Teams to Score - Yes",
-            "odd": "1.96",
-            "date": "05.02.2026 00:30"
+            "league": "ROU",
+            "home": "Fc Steaua",
+            "away": "Botosani",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.75",
+            "date": "05.02.2026 18:30"
+        },
+        {
+            "league": "CONCACAF",
+            "home": "Xelaju",
+            "away": "Monterrey",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "Under 2.5 Goals",
+            "odd": "1.74",
+            "date": "05.02.2026 01:00"
         }
     ]
 }
