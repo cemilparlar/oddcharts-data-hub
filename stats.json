@@ -1,22 +1,12 @@
 {
-    "last_update": "05.02.2026 19:28",
+    "last_update": "05.02.2026 19:37",
     "highlights": {
-        "analyses": 221,
-        "won": 181,
-        "lose": 40,
-        "success_rate": "%81.90"
+        "analyses": 196,
+        "won": 157,
+        "lose": 39,
+        "success_rate": "%80.10"
     },
     "top_matches": [
-        {
-            "league": "FRA CUP",
-            "home": "Nice",
-            "away": "Montpellier",
-            "iy_score": "0 - 1",
-            "ms_score": "3 - 2",
-            "prediction": "Total Goals 4-5",
-            "odd": "3.21",
-            "date": "04.02.2026 19:30"
-        },
         {
             "league": "BRA1",
             "home": "Remo",
@@ -26,16 +16,6 @@
             "prediction": "1st Half Over 1.5",
             "odd": "2.90",
             "date": "04.02.2026 23:00"
-        },
-        {
-            "league": "FRA CUP",
-            "home": "Nice",
-            "away": "Montpellier",
-            "iy_score": "0 - 1",
-            "ms_score": "3 - 2",
-            "prediction": "Over 3.5 Goals",
-            "odd": "2.57",
-            "date": "04.02.2026 19:30"
         },
         {
             "league": "BRA1",
@@ -56,6 +36,26 @@
             "prediction": "HT/FT 1/1",
             "odd": "2.06",
             "date": "04.02.2026 19:45"
+        },
+        {
+            "league": "BRA1",
+            "home": "Remo",
+            "away": "Mirassol",
+            "iy_score": "2 - 0",
+            "ms_score": "2 - 2",
+            "prediction": "Over 2.5 Goals",
+            "odd": "1.98",
+            "date": "04.02.2026 23:00"
+        },
+        {
+            "league": "BRA1",
+            "home": "Remo",
+            "away": "Mirassol",
+            "iy_score": "2 - 0",
+            "ms_score": "2 - 2",
+            "prediction": "Over 2.5 Goals",
+            "odd": "1.98",
+            "date": "04.02.2026 23:00"
         }
     ]
 }
