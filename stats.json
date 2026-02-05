@@ -1,10 +1,10 @@
 {
-    "last_update": "05.02.2026 19:43",
+    "last_update": "05.02.2026 19:51",
     "highlights": {
-        "analyses": 196,
-        "won": 157,
-        "lose": 39,
-        "success_rate": "%80.10"
+        "analyses": 177,
+        "won": 140,
+        "lose": 37,
+        "success_rate": "%79.10"
     },
     "top_matches": [
         {
@@ -28,34 +28,34 @@
             "date": "05.02.2026 00:30"
         },
         {
-            "league": "ENG CUP",
-            "home": "Hibernian",
-            "away": "Dundee Utd",
+            "league": "BRA1",
+            "home": "Remo",
+            "away": "Mirassol",
+            "iy_score": "2 - 0",
+            "ms_score": "2 - 2",
+            "prediction": "Over 2.5 Goals",
+            "odd": "1.98",
+            "date": "04.02.2026 23:00"
+        },
+        {
+            "league": "BRA1",
+            "home": "Remo",
+            "away": "Mirassol",
+            "iy_score": "2 - 0",
+            "ms_score": "2 - 2",
+            "prediction": "Over 2.5 Goals",
+            "odd": "1.98",
+            "date": "04.02.2026 23:00"
+        },
+        {
+            "league": "QAT",
+            "home": "Al Sadd",
+            "away": "Shahaniya",
             "iy_score": "1 - 0",
-            "ms_score": "3 - 2",
-            "prediction": "HT/FT 1/1",
-            "odd": "2.06",
-            "date": "04.02.2026 19:45"
-        },
-        {
-            "league": "BRA1",
-            "home": "Remo",
-            "away": "Mirassol",
-            "iy_score": "2 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "Over 2.5 Goals",
-            "odd": "1.98",
-            "date": "04.02.2026 23:00"
-        },
-        {
-            "league": "BRA1",
-            "home": "Remo",
-            "away": "Mirassol",
-            "iy_score": "2 - 0",
-            "ms_score": "2 - 2",
-            "prediction": "Over 2.5 Goals",
-            "odd": "1.98",
-            "date": "04.02.2026 23:00"
+            "ms_score": "4 - 0",
+            "prediction": "Both Teams to Score - No",
+            "odd": "1.97",
+            "date": "05.02.2026 14:45"
         }
     ]
 }
