@@ -1,12 +1,22 @@
 {
-    "last_update": "06.02.2026 00:54",
+    "last_update": "06.02.2026 01:00",
     "highlights": {
-        "analyses": 164,
-        "won": 130,
-        "lose": 34,
-        "success_rate": "%79.27"
+        "analyses": 175,
+        "won": 139,
+        "lose": 36,
+        "success_rate": "%79.43"
     },
     "top_matches": [
+        {
+            "league": "FRA CUP",
+            "home": "Strasbourg",
+            "away": "Monaco",
+            "iy_score": "1 - 0",
+            "ms_score": "3 - 1",
+            "prediction": "1st Half Result 1",
+            "odd": "2.60",
+            "date": "05.02.2026 20:00"
+        },
         {
             "league": "ESP CUP",
             "home": "Real Betis",
@@ -46,16 +56,6 @@
             "prediction": "Both Teams to Score - No",
             "odd": "1.97",
             "date": "05.02.2026 14:45"
-        },
-        {
-            "league": "ROU",
-            "home": "Fc Steaua",
-            "away": "Botosani",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.75",
-            "date": "05.02.2026 18:30"
         }
     ]
 }
