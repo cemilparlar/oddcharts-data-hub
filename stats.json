@@ -1,12 +1,32 @@
 {
-    "last_update": "06.02.2026 02:56",
+    "last_update": "06.02.2026 03:02",
     "highlights": {
-        "analyses": 160,
-        "won": 127,
-        "lose": 33,
-        "success_rate": "%79.38"
+        "analyses": 177,
+        "won": 140,
+        "lose": 37,
+        "success_rate": "%79.10"
     },
     "top_matches": [
+        {
+            "league": "FRA CUP",
+            "home": "Strasbourg",
+            "away": "Monaco",
+            "iy_score": "1 - 0",
+            "ms_score": "3 - 1",
+            "prediction": "HT/FT 1/1",
+            "odd": "3.33",
+            "date": "05.02.2026 20:00"
+        },
+        {
+            "league": "ITA CUP",
+            "home": "Atalanta",
+            "away": "Juventus",
+            "iy_score": "1 - 0",
+            "ms_score": "3 - 0",
+            "prediction": "Match Result 1",
+            "odd": "2.91",
+            "date": "05.02.2026 20:00"
+        },
         {
             "league": "FRA CUP",
             "home": "Strasbourg",
@@ -28,34 +48,14 @@
             "date": "05.02.2026 20:00"
         },
         {
-            "league": "KSA",
-            "home": "Al Ahli",
-            "away": "Al Hazm",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 0",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.98",
-            "date": "05.02.2026 17:30"
-        },
-        {
-            "league": "ETH",
-            "home": "Negele Arsi Ke",
-            "away": "Mekelle 70 Ende",
+            "league": "FRA CUP",
+            "home": "Strasbourg",
+            "away": "Monaco",
             "iy_score": "1 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Under 1.5 Goals",
-            "odd": "1.98",
-            "date": "05.02.2026 15:00"
-        },
-        {
-            "league": "QAT",
-            "home": "Al Sadd",
-            "away": "Shahaniya",
-            "iy_score": "1 - 0",
-            "ms_score": "4 - 0",
-            "prediction": "Both Teams to Score - No",
-            "odd": "1.97",
-            "date": "05.02.2026 14:45"
+            "ms_score": "3 - 1",
+            "prediction": "Match Result 1",
+            "odd": "2.18",
+            "date": "05.02.2026 20:00"
         }
     ]
 }
