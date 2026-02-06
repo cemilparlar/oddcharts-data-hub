@@ -1,12 +1,22 @@
 {
-    "last_update": "07.02.2026 00:23",
+    "last_update": "07.02.2026 00:32",
     "highlights": {
-        "analyses": 384,
-        "won": 277,
-        "lose": 107,
-        "success_rate": "%72.14"
+        "analyses": 425,
+        "won": 311,
+        "lose": 114,
+        "success_rate": "%73.18"
     },
     "top_matches": [
+        {
+            "league": "ESP2",
+            "home": "Leganes",
+            "away": "Granada",
+            "iy_score": "1 - 0",
+            "ms_score": "1 - 0",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.43",
+            "date": "06.02.2026 19:30"
+        },
         {
             "league": "GER2",
             "home": "Preussen Munst",
@@ -45,16 +55,6 @@
             "ms_score": "1 - 1",
             "prediction": "Match Result X",
             "odd": "2.45",
-            "date": "06.02.2026 15:00"
-        },
-        {
-            "league": "EGY",
-            "home": "El Gounah",
-            "away": "Modern Sc",
-            "iy_score": "0 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "Both Teams to Score - Yes",
-            "odd": "2.14",
             "date": "06.02.2026 15:00"
         }
     ]
