@@ -1,10 +1,10 @@
 {
-    "last_update": "06.02.2026 15:07",
+    "last_update": "06.02.2026 15:14",
     "highlights": {
-        "analyses": 115,
-        "won": 93,
-        "lose": 22,
-        "success_rate": "%80.87"
+        "analyses": 131,
+        "won": 106,
+        "lose": 25,
+        "success_rate": "%80.92"
     },
     "top_matches": [
         {
@@ -28,6 +28,16 @@
             "date": "05.02.2026 20:00"
         },
         {
+            "league": " Y100VL-D",
+            "home": "Yokohama Marin",
+            "away": "Machida Zelvia",
+            "iy_score": "1 - 3",
+            "ms_score": "2 - 3",
+            "prediction": "1st Half Over 1.5",
+            "odd": "2.86",
+            "date": "06.02.2026 10:00"
+        },
+        {
             "league": "FRA CUP",
             "home": "Strasbourg",
             "away": "Monaco",
@@ -45,16 +55,6 @@
             "ms_score": "0 - 5",
             "prediction": "1st Half Result 2",
             "odd": "2.39",
-            "date": "05.02.2026 20:00"
-        },
-        {
-            "league": "FRA CUP",
-            "home": "Strasbourg",
-            "away": "Monaco",
-            "iy_score": "1 - 0",
-            "ms_score": "3 - 1",
-            "prediction": "Match Result 1",
-            "odd": "2.18",
             "date": "05.02.2026 20:00"
         }
     ]
