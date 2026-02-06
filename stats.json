@@ -1,10 +1,10 @@
 {
-    "last_update": "06.02.2026 20:02",
+    "last_update": "06.02.2026 21:11",
     "highlights": {
-        "analyses": 151,
-        "won": 113,
-        "lose": 38,
-        "success_rate": "%74.83"
+        "analyses": 167,
+        "won": 127,
+        "lose": 40,
+        "success_rate": "%76.05"
     },
     "top_matches": [
         {
@@ -16,6 +16,26 @@
             "prediction": "1st Half Over 1.5",
             "odd": "2.86",
             "date": "06.02.2026 10:00"
+        },
+        {
+            "league": "EGY",
+            "home": "El Gounah",
+            "away": "Modern Sc",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "Match Result X",
+            "odd": "2.45",
+            "date": "06.02.2026 15:00"
+        },
+        {
+            "league": "EGY",
+            "home": "El Gounah",
+            "away": "Modern Sc",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "Both Teams to Score - Yes",
+            "odd": "2.14",
+            "date": "06.02.2026 15:00"
         },
         {
             "league": " Y100VL-D",
@@ -35,26 +55,6 @@
             "ms_score": "2 - 3",
             "prediction": "Over 2.5 Goals",
             "odd": "1.95",
-            "date": "06.02.2026 10:00"
-        },
-        {
-            "league": " Y100VL-B",
-            "home": "Kyoto Sanga",
-            "away": "Vissel Kobe",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.76",
-            "date": "06.02.2026 10:00"
-        },
-        {
-            "league": " Y100VL-B",
-            "home": "V-Varen Nagasa",
-            "away": "Hiroshima",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 3",
-            "prediction": "Match Result 2",
-            "odd": "1.74",
             "date": "06.02.2026 10:00"
         }
     ]
