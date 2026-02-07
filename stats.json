@@ -1,10 +1,61 @@
 {
-    "last_update": "08.02.2026 01:54",
+    "last_update": "08.02.2026 01:59",
     "highlights": {
-        "analyses": 0,
-        "won": 0,
-        "lose": 0,
-        "success_rate": "%0"
+        "analyses": 844,
+        "won": 628,
+        "lose": 216,
+        "success_rate": "%74.41"
     },
-    "top_matches": []
+    "top_matches": [
+        {
+            "league": "GER1",
+            "home": "Heidenheim",
+            "away": "Hamburg",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 2",
+            "prediction": "Handicap (1:0) 2",
+            "odd": "4.12",
+            "date": "07.02.2026 14:30"
+        },
+        {
+            "league": "SCO CUP",
+            "home": "Celtic",
+            "away": "Dundee",
+            "iy_score": "0 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "HT/FT X/1",
+            "odd": "3.80",
+            "date": "07.02.2026 17:30"
+        },
+        {
+            "league": "ITA2",
+            "home": "Mantova",
+            "away": "Bari",
+            "iy_score": "1 - 1",
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.59",
+            "date": "07.02.2026 14:00"
+        },
+        {
+            "league": "SCO CUP",
+            "home": "Celtic",
+            "away": "Dundee",
+            "iy_score": "0 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.51",
+            "date": "07.02.2026 17:30"
+        },
+        {
+            "league": "GER1",
+            "home": "Heidenheim",
+            "away": "Hamburg",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 2",
+            "prediction": "HT/FT 2/2",
+            "odd": "3.43",
+            "date": "07.02.2026 14:30"
+        }
+    ]
 }
