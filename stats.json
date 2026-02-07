@@ -1,10 +1,10 @@
 {
-    "last_update": "07.02.2026 09:56",
+    "last_update": "07.02.2026 10:03",
     "highlights": {
-        "analyses": 493,
-        "won": 361,
-        "lose": 132,
-        "success_rate": "%73.23"
+        "analyses": 491,
+        "won": 358,
+        "lose": 133,
+        "success_rate": "%72.91"
     },
     "top_matches": [
         {
@@ -28,16 +28,6 @@
             "date": "06.02.2026 17:30"
         },
         {
-            "league": " Y100VL-D",
-            "home": "Yokohama Marin",
-            "away": "Machida Zelvia",
-            "iy_score": "1 - 3",
-            "ms_score": "2 - 3",
-            "prediction": "1st Half Over 1.5",
-            "odd": "2.86",
-            "date": "06.02.2026 10:00"
-        },
-        {
             "league": " İZLK",
             "home": "Fylkir",
             "away": "Breidablik",
@@ -56,6 +46,16 @@
             "prediction": "Match Result X",
             "odd": "2.45",
             "date": "06.02.2026 15:00"
+        },
+        {
+            "league": "NED2",
+            "home": "De Graafschap",
+            "away": "Ajax (B)",
+            "iy_score": "1 - 0",
+            "ms_score": "4 - 0",
+            "prediction": "Both Teams to Score - No",
+            "odd": "2.45",
+            "date": "06.02.2026 19:00"
         }
     ]
 }
