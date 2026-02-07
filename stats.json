@@ -1,12 +1,22 @@
 {
-    "last_update": "07.02.2026 19:18",
+    "last_update": "07.02.2026 19:38",
     "highlights": {
-        "analyses": 529,
-        "won": 393,
-        "lose": 136,
-        "success_rate": "%74.29"
+        "analyses": 537,
+        "won": 398,
+        "lose": 139,
+        "success_rate": "%74.12"
     },
     "top_matches": [
+        {
+            "league": "GER1",
+            "home": "Heidenheim",
+            "away": "Hamburg",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 2",
+            "prediction": "Handicap (1:0) 2",
+            "odd": "4.12",
+            "date": "07.02.2026 14:30"
+        },
         {
             "league": "ITA2",
             "home": "Mantova",
@@ -18,14 +28,24 @@
             "date": "07.02.2026 14:00"
         },
         {
-            "league": "ESP2",
-            "home": "Leganes",
-            "away": "Granada",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 0",
-            "prediction": "Handicap (0:1) X",
+            "league": "GER1",
+            "home": "Heidenheim",
+            "away": "Hamburg",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 2",
+            "prediction": "HT/FT 2/2",
             "odd": "3.43",
-            "date": "06.02.2026 19:30"
+            "date": "07.02.2026 14:30"
+        },
+        {
+            "league": "GER1",
+            "home": "Heidenheim",
+            "away": "Hamburg",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 2",
+            "prediction": "1st Half Result 2",
+            "odd": "2.73",
+            "date": "07.02.2026 14:30"
         },
         {
             "league": "HUN2",
@@ -36,26 +56,6 @@
             "prediction": "Match Result X",
             "odd": "2.55",
             "date": "07.02.2026 13:00"
-        },
-        {
-            "league": "CZE2",
-            "home": "Gc Mascara",
-            "away": "Js El Biar",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 2",
-            "prediction": "Both Teams to Score - Yes",
-            "odd": "2.35",
-            "date": "07.02.2026 13:00"
-        },
-        {
-            "league": "BEL",
-            "home": "Westerlo",
-            "away": "St. Truidense",
-            "iy_score": "0 - 3",
-            "ms_score": "0 - 4",
-            "prediction": "Both Teams to Score - No",
-            "odd": "2.34",
-            "date": "06.02.2026 19:45"
         }
     ]
 }
