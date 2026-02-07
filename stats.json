@@ -1,10 +1,10 @@
 {
-    "last_update": "07.02.2026 17:16",
+    "last_update": "07.02.2026 17:37",
     "highlights": {
-        "analyses": 473,
-        "won": 347,
-        "lose": 126,
-        "success_rate": "%73.36"
+        "analyses": 513,
+        "won": 377,
+        "lose": 136,
+        "success_rate": "%73.49"
     },
     "top_matches": [
         {
@@ -16,16 +16,6 @@
             "prediction": "Handicap (0:1) X",
             "odd": "3.43",
             "date": "06.02.2026 19:30"
-        },
-        {
-            "league": "GER2",
-            "home": "Preussen Munst",
-            "away": "Bochum",
-            "iy_score": "1 - 0",
-            "ms_score": "1 - 1",
-            "prediction": "1st Half Result 1",
-            "odd": "2.90",
-            "date": "06.02.2026 17:30"
         },
         {
             "league": " İZLK",
@@ -56,6 +46,16 @@
             "prediction": "Both Teams to Score - No",
             "odd": "2.34",
             "date": "06.02.2026 19:45"
+        },
+        {
+            "league": "ENG2",
+            "home": "Luton",
+            "away": "Bradford",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "1st Half Result 1",
+            "odd": "2.29",
+            "date": "07.02.2026 12:31"
         }
     ]
 }
