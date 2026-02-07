@@ -1,10 +1,10 @@
 {
-    "last_update": "07.02.2026 21:07",
+    "last_update": "07.02.2026 21:24",
     "highlights": {
-        "analyses": 562,
-        "won": 421,
-        "lose": 141,
-        "success_rate": "%74.91"
+        "analyses": 570,
+        "won": 428,
+        "lose": 142,
+        "success_rate": "%75.09"
     },
     "top_matches": [
         {
@@ -38,6 +38,16 @@
             "date": "07.02.2026 14:30"
         },
         {
+            "league": "ITA2",
+            "home": "Palermo",
+            "away": "Empoli",
+            "iy_score": "1 - 1",
+            "ms_score": "3 - 2",
+            "prediction": "Handicap (0:1) X",
+            "odd": "3.16",
+            "date": "07.02.2026 16:15"
+        },
+        {
             "league": "GER1",
             "home": "Heidenheim",
             "away": "Hamburg",
@@ -46,16 +56,6 @@
             "prediction": "1st Half Result 2",
             "odd": "2.73",
             "date": "07.02.2026 14:30"
-        },
-        {
-            "league": "HUN2",
-            "home": "Bvsc",
-            "away": "Csakvari Tk",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 1",
-            "prediction": "Match Result X",
-            "odd": "2.55",
-            "date": "07.02.2026 13:00"
         }
     ]
 }
