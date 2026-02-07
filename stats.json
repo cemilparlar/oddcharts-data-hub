@@ -1,10 +1,10 @@
 {
-    "last_update": "07.02.2026 07:21",
+    "last_update": "07.02.2026 09:42",
     "highlights": {
-        "analyses": 508,
-        "won": 370,
-        "lose": 138,
-        "success_rate": "%72.83"
+        "analyses": 493,
+        "won": 361,
+        "lose": 132,
+        "success_rate": "%73.23"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "06.02.2026 19:00"
         },
         {
-            "league": "NED2",
-            "home": "De Graafschap",
-            "away": "Ajax (B)",
-            "iy_score": "1 - 0",
-            "ms_score": "4 - 0",
-            "prediction": "Both Teams to Score - No",
+            "league": "EGY",
+            "home": "El Gounah",
+            "away": "Modern Sc",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 1",
+            "prediction": "Match Result X",
             "odd": "2.45",
-            "date": "06.02.2026 19:00"
+            "date": "06.02.2026 15:00"
         }
     ]
 }
