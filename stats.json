@@ -1,10 +1,10 @@
 {
-    "last_update": "08.02.2026 20:11",
+    "last_update": "08.02.2026 20:35",
     "highlights": {
-        "analyses": 318,
-        "won": 244,
-        "lose": 74,
-        "success_rate": "%76.73"
+        "analyses": 396,
+        "won": 302,
+        "lose": 94,
+        "success_rate": "%76.26"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "07.02.2026 23:00"
         },
         {
-            "league": "TUR1",
-            "home": "A. Keciorenguc",
-            "away": "Bandirmaspor",
-            "iy_score": "2 - 0",
-            "ms_score": "3 - 1",
-            "prediction": "1st Half Result 1",
-            "odd": "2.43",
-            "date": "08.02.2026 10:30"
+            "league": "ESP2",
+            "home": "Valladolid",
+            "away": "Castellon",
+            "iy_score": "0 - 3",
+            "ms_score": "0 - 4",
+            "prediction": "Over 3.5 Goals",
+            "odd": "3.03",
+            "date": "08.02.2026 13:00"
         }
     ]
 }
