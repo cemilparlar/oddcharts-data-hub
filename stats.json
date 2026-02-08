@@ -1,10 +1,10 @@
 {
-    "last_update": "08.02.2026 17:18",
+    "last_update": "08.02.2026 17:36",
     "highlights": {
-        "analyses": 493,
-        "won": 369,
-        "lose": 124,
-        "success_rate": "%74.85"
+        "analyses": 452,
+        "won": 342,
+        "lose": 110,
+        "success_rate": "%75.66"
     },
     "top_matches": [
         {
@@ -28,24 +28,14 @@
             "date": "07.02.2026 23:00"
         },
         {
-            "league": "SCO CUP",
-            "home": "Celtic",
-            "away": "Dundee",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "HT/FT X/1",
-            "odd": "3.80",
-            "date": "07.02.2026 17:30"
-        },
-        {
-            "league": "SCO CUP",
-            "home": "Celtic",
-            "away": "Dundee",
-            "iy_score": "0 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "Handicap (0:1) X",
-            "odd": "3.51",
-            "date": "07.02.2026 17:30"
+            "league": "FRA1",
+            "home": "Nantes",
+            "away": "Lyon",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 1",
+            "prediction": "Handicap (1:0) X",
+            "odd": "3.28",
+            "date": "07.02.2026 20:05"
         },
         {
             "league": "ARG",
@@ -56,6 +46,16 @@
             "prediction": "1st Half Over 1.5",
             "odd": "3.28",
             "date": "07.02.2026 21:00"
+        },
+        {
+            "league": "FRA1",
+            "home": "Nantes",
+            "away": "Lyon",
+            "iy_score": "0 - 1",
+            "ms_score": "0 - 1",
+            "prediction": "Under 1.5 Goals",
+            "odd": "3.18",
+            "date": "07.02.2026 20:05"
         }
     ]
 }
