@@ -1,10 +1,10 @@
 {
-    "last_update": "08.02.2026 14:17",
+    "last_update": "08.02.2026 14:33",
     "highlights": {
-        "analyses": 553,
-        "won": 414,
-        "lose": 139,
-        "success_rate": "%74.86"
+        "analyses": 494,
+        "won": 368,
+        "lose": 126,
+        "success_rate": "%74.49"
     },
     "top_matches": [
         {
@@ -28,16 +28,6 @@
             "date": "07.02.2026 23:00"
         },
         {
-            "league": "GER1",
-            "home": "Heidenheim",
-            "away": "Hamburg",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 2",
-            "prediction": "Handicap (1:0) 2",
-            "odd": "4.12",
-            "date": "07.02.2026 14:30"
-        },
-        {
             "league": "SCO CUP",
             "home": "Celtic",
             "away": "Dundee",
@@ -56,6 +46,16 @@
             "prediction": "Handicap (0:1) X",
             "odd": "3.51",
             "date": "07.02.2026 17:30"
+        },
+        {
+            "league": "ARG",
+            "home": "Racing Club",
+            "away": "Argentinos Jr",
+            "iy_score": "2 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "1st Half Over 1.5",
+            "odd": "3.28",
+            "date": "07.02.2026 21:00"
         }
     ]
 }
