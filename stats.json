@@ -1,10 +1,10 @@
 {
-    "last_update": "08.02.2026 19:22",
+    "last_update": "08.02.2026 19:30",
     "highlights": {
-        "analyses": 378,
-        "won": 289,
-        "lose": 89,
-        "success_rate": "%76.46"
+        "analyses": 361,
+        "won": 276,
+        "lose": 85,
+        "success_rate": "%76.45"
     },
     "top_matches": [
         {
@@ -28,16 +28,6 @@
             "date": "07.02.2026 23:00"
         },
         {
-            "league": "ARG",
-            "home": "Racing Club",
-            "away": "Argentinos Jr",
-            "iy_score": "2 - 0",
-            "ms_score": "2 - 1",
-            "prediction": "1st Half Over 1.5",
-            "odd": "3.28",
-            "date": "07.02.2026 21:00"
-        },
-        {
             "league": "FRA1",
             "home": "Nantes",
             "away": "Lyon",
@@ -46,6 +36,16 @@
             "prediction": "Handicap (1:0) X",
             "odd": "3.28",
             "date": "07.02.2026 20:05"
+        },
+        {
+            "league": "ARG",
+            "home": "Racing Club",
+            "away": "Argentinos Jr",
+            "iy_score": "2 - 0",
+            "ms_score": "2 - 1",
+            "prediction": "1st Half Over 1.5",
+            "odd": "3.28",
+            "date": "07.02.2026 21:00"
         },
         {
             "league": "FRA1",
