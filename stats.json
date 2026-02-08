@@ -1,10 +1,10 @@
 {
-    "last_update": "08.02.2026 13:48",
+    "last_update": "08.02.2026 14:02",
     "highlights": {
-        "analyses": 612,
-        "won": 460,
-        "lose": 152,
-        "success_rate": "%75.16"
+        "analyses": 555,
+        "won": 415,
+        "lose": 140,
+        "success_rate": "%74.77"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "07.02.2026 17:30"
         },
         {
-            "league": "ITA2",
-            "home": "Mantova",
-            "away": "Bari",
-            "iy_score": "1 - 1",
+            "league": "SCO CUP",
+            "home": "Celtic",
+            "away": "Dundee",
+            "iy_score": "0 - 0",
             "ms_score": "2 - 1",
             "prediction": "Handicap (0:1) X",
-            "odd": "3.59",
-            "date": "07.02.2026 14:00"
+            "odd": "3.51",
+            "date": "07.02.2026 17:30"
         }
     ]
 }
