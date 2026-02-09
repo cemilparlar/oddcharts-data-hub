@@ -1,22 +1,12 @@
 {
-    "last_update": "09.02.2026 18:26",
+    "last_update": "09.02.2026 18:34",
     "highlights": {
-        "analyses": 123,
-        "won": 84,
-        "lose": 39,
-        "success_rate": "%68.29"
+        "analyses": 114,
+        "won": 78,
+        "lose": 36,
+        "success_rate": "%68.42"
     },
     "top_matches": [
-        {
-            "league": "GER3",
-            "home": "Duisburg",
-            "away": "Verl 1924",
-            "iy_score": "3 - 1",
-            "ms_score": "4 - 2",
-            "prediction": "Over 3.5 Goals",
-            "odd": "2.26",
-            "date": "08.02.2026 18:30"
-        },
         {
             "league": "FRA1",
             "home": "Paris Saint-Germain",
@@ -56,6 +46,16 @@
             "prediction": "1st Half Result 1",
             "odd": "1.71",
             "date": "08.02.2026 19:45"
+        },
+        {
+            "league": " PER",
+            "home": "Cienciano",
+            "away": "Juan Pablo Ii C",
+            "iy_score": "3 - 1",
+            "ms_score": "6 - 1",
+            "prediction": "Handicap (0:1) 1",
+            "odd": "1.64",
+            "date": "08.02.2026 20:30"
         }
     ]
 }
