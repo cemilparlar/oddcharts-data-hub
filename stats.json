@@ -1,22 +1,12 @@
 {
-    "last_update": "09.02.2026 17:22",
+    "last_update": "09.02.2026 17:30",
     "highlights": {
-        "analyses": 160,
-        "won": 111,
-        "lose": 49,
-        "success_rate": "%69.38"
+        "analyses": 139,
+        "won": 96,
+        "lose": 43,
+        "success_rate": "%69.06"
     },
     "top_matches": [
-        {
-            "league": "GER CUP",
-            "home": "Nurnberg Women",
-            "away": "Hoffenheim Women",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 3",
-            "prediction": "Handicap (2:0) 2",
-            "odd": "2.46",
-            "date": "08.02.2026 17:30"
-        },
         {
             "league": "GER3",
             "home": "Duisburg",
@@ -38,16 +28,6 @@
             "date": "08.02.2026 19:45"
         },
         {
-            "league": "GER CUP",
-            "home": "Nurnberg Women",
-            "away": "Hoffenheim Women",
-            "iy_score": "0 - 1",
-            "ms_score": "0 - 3",
-            "prediction": "Both Teams to Score - No",
-            "odd": "1.88",
-            "date": "08.02.2026 17:30"
-        },
-        {
             "league": "ESP2",
             "home": "Malaga",
             "away": "Cultural Leones",
@@ -56,6 +36,26 @@
             "prediction": "Over 2.5 Goals",
             "odd": "1.82",
             "date": "08.02.2026 20:00"
+        },
+        {
+            "league": "CAF CONF",
+            "home": "Ol. Safi",
+            "away": "Djoliba",
+            "iy_score": "1 - 1",
+            "ms_score": "2 - 1",
+            "prediction": "1st Half Result X",
+            "odd": "1.81",
+            "date": "08.02.2026 19:00"
+        },
+        {
+            "league": "BEL",
+            "home": "Mechelen",
+            "away": "Antwerp",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 0",
+            "prediction": "Total Goals 2-3",
+            "odd": "1.77",
+            "date": "08.02.2026 18:15"
         }
     ]
 }
