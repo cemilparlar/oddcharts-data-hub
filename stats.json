@@ -1,10 +1,10 @@
 {
-    "last_update": "09.02.2026 19:38",
+    "last_update": "09.02.2026 19:48",
     "highlights": {
-        "analyses": 109,
-        "won": 76,
-        "lose": 33,
-        "success_rate": "%69.72"
+        "analyses": 97,
+        "won": 68,
+        "lose": 29,
+        "success_rate": "%70.10"
     },
     "top_matches": [
         {
@@ -28,16 +28,6 @@
             "date": "09.02.2026 14:00"
         },
         {
-            "league": "FRA1",
-            "home": "Paris Saint-Germain",
-            "away": "Marseille",
-            "iy_score": "2 - 0",
-            "ms_score": "5 - 0",
-            "prediction": "Over 3.5 Goals",
-            "odd": "1.89",
-            "date": "08.02.2026 19:45"
-        },
-        {
             "league": "ESP2",
             "home": "Malaga",
             "away": "Cultural Leones",
@@ -48,14 +38,24 @@
             "date": "08.02.2026 20:00"
         },
         {
-            "league": "FRA1",
-            "home": "Paris Saint-Germain",
-            "away": "Marseille",
-            "iy_score": "2 - 0",
-            "ms_score": "5 - 0",
-            "prediction": "1st Half Result 1",
-            "odd": "1.71",
-            "date": "08.02.2026 19:45"
+            "league": " PER",
+            "home": "Cienciano",
+            "away": "Juan Pablo Ii C",
+            "iy_score": "3 - 1",
+            "ms_score": "6 - 1",
+            "prediction": "Handicap (0:1) 1",
+            "odd": "1.64",
+            "date": "08.02.2026 20:30"
+        },
+        {
+            "league": "ESP2",
+            "home": "Malaga",
+            "away": "Cultural Leones",
+            "iy_score": "0 - 1",
+            "ms_score": "2 - 1",
+            "prediction": "1st Half Double Chance 12",
+            "odd": "1.46",
+            "date": "08.02.2026 20:00"
         }
     ]
 }
