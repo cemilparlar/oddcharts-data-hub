@@ -1,12 +1,32 @@
 {
-    "last_update": "09.02.2026 18:51",
+    "last_update": "09.02.2026 19:07",
     "highlights": {
-        "analyses": 123,
-        "won": 85,
-        "lose": 38,
-        "success_rate": "%69.11"
+        "analyses": 124,
+        "won": 87,
+        "lose": 37,
+        "success_rate": "%70.16"
     },
     "top_matches": [
+        {
+            "league": "TSL",
+            "home": "Kayserispor",
+            "away": "Kocaelispor",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 2",
+            "prediction": "Match Result 2",
+            "odd": "2.19",
+            "date": "09.02.2026 14:00"
+        },
+        {
+            "league": "TSL",
+            "home": "Kayserispor",
+            "away": "Kocaelispor",
+            "iy_score": "0 - 0",
+            "ms_score": "1 - 2",
+            "prediction": "Over 2.5 Goals",
+            "odd": "1.95",
+            "date": "09.02.2026 14:00"
+        },
         {
             "league": "FRA1",
             "home": "Paris Saint-Germain",
@@ -28,16 +48,6 @@
             "date": "08.02.2026 20:00"
         },
         {
-            "league": "CAF CONF",
-            "home": "Ol. Safi",
-            "away": "Djoliba",
-            "iy_score": "1 - 1",
-            "ms_score": "2 - 1",
-            "prediction": "1st Half Result X",
-            "odd": "1.81",
-            "date": "08.02.2026 19:00"
-        },
-        {
             "league": "FRA1",
             "home": "Paris Saint-Germain",
             "away": "Marseille",
@@ -46,16 +56,6 @@
             "prediction": "1st Half Result 1",
             "odd": "1.71",
             "date": "08.02.2026 19:45"
-        },
-        {
-            "league": " PER",
-            "home": "Cienciano",
-            "away": "Juan Pablo Ii C",
-            "iy_score": "3 - 1",
-            "ms_score": "6 - 1",
-            "prediction": "Handicap (0:1) 1",
-            "odd": "1.64",
-            "date": "08.02.2026 20:30"
         }
     ]
 }
