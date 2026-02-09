@@ -1,10 +1,10 @@
 {
-    "last_update": "09.02.2026 10:21",
+    "last_update": "09.02.2026 10:36",
     "highlights": {
-        "analyses": 526,
-        "won": 392,
-        "lose": 134,
-        "success_rate": "%74.52"
+        "analyses": 511,
+        "won": 379,
+        "lose": 132,
+        "success_rate": "%74.17"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "08.02.2026 17:30"
         },
         {
-            "league": "TUR1",
-            "home": "A. Keciorenguc",
-            "away": "Bandirmaspor",
-            "iy_score": "2 - 0",
-            "ms_score": "3 - 1",
-            "prediction": "1st Half Result 1",
-            "odd": "2.43",
-            "date": "08.02.2026 10:30"
+            "league": "SWE",
+            "home": "Servette",
+            "away": "Thun",
+            "iy_score": "0 - 1",
+            "ms_score": "1 - 3",
+            "prediction": "Over 3.5 Goals",
+            "odd": "2.33",
+            "date": "08.02.2026 13:00"
         }
     ]
 }
