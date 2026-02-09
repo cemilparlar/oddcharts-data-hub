@@ -1,10 +1,10 @@
 {
-    "last_update": "09.02.2026 18:08",
+    "last_update": "09.02.2026 18:17",
     "highlights": {
-        "analyses": 137,
-        "won": 92,
-        "lose": 45,
-        "success_rate": "%67.15"
+        "analyses": 123,
+        "won": 84,
+        "lose": 39,
+        "success_rate": "%68.29"
     },
     "top_matches": [
         {
@@ -48,14 +48,14 @@
             "date": "08.02.2026 19:00"
         },
         {
-            "league": "BEL",
-            "home": "Mechelen",
-            "away": "Antwerp",
-            "iy_score": "1 - 0",
-            "ms_score": "2 - 0",
-            "prediction": "Total Goals 2-3",
-            "odd": "1.77",
-            "date": "08.02.2026 18:15"
+            "league": "FRA1",
+            "home": "Paris Saint-Germain",
+            "away": "Marseille",
+            "iy_score": "2 - 0",
+            "ms_score": "5 - 0",
+            "prediction": "1st Half Result 1",
+            "odd": "1.71",
+            "date": "08.02.2026 19:45"
         }
     ]
 }
