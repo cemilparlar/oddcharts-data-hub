@@ -1,22 +1,12 @@
 {
-    "last_update": "09.02.2026 14:24",
+    "last_update": "09.02.2026 14:34",
     "highlights": {
-        "analyses": 223,
-        "won": 161,
-        "lose": 62,
-        "success_rate": "%72.20"
+        "analyses": 196,
+        "won": 139,
+        "lose": 57,
+        "success_rate": "%70.92"
     },
     "top_matches": [
-        {
-            "league": "GER1",
-            "home": "FC Koln",
-            "away": "Rb Leipzig",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 2",
-            "prediction": "HT/FT 2/2",
-            "odd": "2.65",
-            "date": "08.02.2026 14:30"
-        },
         {
             "league": "GER CUP",
             "home": "Nurnberg Women",
@@ -48,14 +38,24 @@
             "date": "08.02.2026 15:00"
         },
         {
-            "league": "GER1",
-            "home": "FC Koln",
-            "away": "Rb Leipzig",
+            "league": "FRA1",
+            "home": "Paris Saint-Germain",
+            "away": "Marseille",
+            "iy_score": "2 - 0",
+            "ms_score": "5 - 0",
+            "prediction": "Over 3.5 Goals",
+            "odd": "1.89",
+            "date": "08.02.2026 19:45"
+        },
+        {
+            "league": "GER CUP",
+            "home": "Nurnberg Women",
+            "away": "Hoffenheim Women",
             "iy_score": "0 - 1",
-            "ms_score": "1 - 2",
-            "prediction": "1st Half Result 2",
-            "odd": "2.22",
-            "date": "08.02.2026 14:30"
+            "ms_score": "0 - 3",
+            "prediction": "Both Teams to Score - No",
+            "odd": "1.88",
+            "date": "08.02.2026 17:30"
         }
     ]
 }
