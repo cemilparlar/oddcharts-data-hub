@@ -1,32 +1,12 @@
 {
-    "last_update": "09.02.2026 12:55",
+    "last_update": "09.02.2026 13:02",
     "highlights": {
-        "analyses": 349,
-        "won": 255,
-        "lose": 94,
-        "success_rate": "%73.07"
+        "analyses": 304,
+        "won": 219,
+        "lose": 85,
+        "success_rate": "%72.04"
     },
     "top_matches": [
-        {
-            "league": "ESP2",
-            "home": "Valladolid",
-            "away": "Castellon",
-            "iy_score": "0 - 3",
-            "ms_score": "0 - 4",
-            "prediction": "Over 3.5 Goals",
-            "odd": "3.03",
-            "date": "08.02.2026 13:00"
-        },
-        {
-            "league": "SWE",
-            "home": "Servette",
-            "away": "Thun",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 3",
-            "prediction": "Total Goals 4-5",
-            "odd": "2.98",
-            "date": "08.02.2026 13:00"
-        },
         {
             "league": "GER1",
             "home": "FC Koln",
@@ -48,14 +28,34 @@
             "date": "08.02.2026 17:30"
         },
         {
-            "league": "SWE",
-            "home": "Servette",
-            "away": "Thun",
-            "iy_score": "0 - 1",
-            "ms_score": "1 - 3",
+            "league": "GER3",
+            "home": "Duisburg",
+            "away": "Verl 1924",
+            "iy_score": "3 - 1",
+            "ms_score": "4 - 2",
             "prediction": "Over 3.5 Goals",
-            "odd": "2.33",
-            "date": "08.02.2026 13:00"
+            "odd": "2.26",
+            "date": "08.02.2026 18:30"
+        },
+        {
+            "league": "FRA1",
+            "home": "Nice",
+            "away": "Monaco",
+            "iy_score": "0 - 0",
+            "ms_score": "0 - 0",
+            "prediction": "Under 2.5 Goals",
+            "odd": "2.24",
+            "date": "08.02.2026 14:00"
+        },
+        {
+            "league": "NGA",
+            "home": "Ikorodu City",
+            "away": "Niger Tornadoes",
+            "iy_score": "1 - 0",
+            "ms_score": "2 - 0",
+            "prediction": "Handicap (0:1) 1",
+            "odd": "2.23",
+            "date": "08.02.2026 15:00"
         }
     ]
 }
